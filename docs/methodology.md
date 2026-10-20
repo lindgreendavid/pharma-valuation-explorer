@@ -57,6 +57,7 @@ Observed inputs (from the filing): base revenue, working capital as a share of r
 Run `pytest` (Python) and `node --test site/tests/*.test.mjs` (JavaScript).
 
 - **Second extraction path.** 39 headline figures equal the values read through the XBRL facts API. The only known difference (Novartis 2023 net income and operating cash flow) is explained by discontinued operations and checked against the statements' own total rows.
+- **Independent dataset.** 78 values for Novartis and GSK equal a separately built dataset (the portfolio site's, extracted through XBRL company-facts tags): `docs/cross-check.md`.
 - **Identities.** Assets = equity + liabilities for all nine company-dates.
 - **Model.** A flat business is worth NOPAT / WACC; Gordon growth closed form; mid-year convention; the bridge sums; the bridge identity (equity + claims - non-operating assets = enterprise value); value falls with WACC and tax and rises with growth and margin; the sensitivity grid equals direct valuation and is monotone.
 - **Implementations agree.** The browser JavaScript engine reproduces the Python model on fixed scenarios (45 vectors). The Excel workbook, recalculated by an independent evaluator, reproduces the Python model including all 25 sensitivity cells.

@@ -44,7 +44,13 @@ def write_validation(data: Dataset, vectors: dict[str, object]) -> None:
     parity = (
         len(vectors["metrics"]) + len(vectors["scenarios"]) + sum(len(r) for r in grid) + 2 * len(vectors["bridges"])
     )  # type: ignore[arg-type]
+    import re as _re
+
+    cross = _re.search(
+        r"\*\*(\d+) of (\d+) compared values agree", (ROOT / "docs" / "cross-check.md").read_text(encoding="utf-8")
+    )
     payload = {
+        "cross_check": {"matched": int(cross.group(1)), "compared": int(cross.group(2))} if cross else None,
         "reconciliation": {"compared": len(results), "matched": sum(r["status"] == "match" for r in results)},
         "identities": {"total": len(identities), "passed": sum(identities)},
         "facts": len(data.payload["facts"]),
@@ -54,6 +60,7 @@ def write_validation(data: Dataset, vectors: dict[str, object]) -> None:
             "Every extracted figure is mapped by an explicit rule (statement, line label, occurrence) and carries its accession number, page and line label.",
             "39 headline figures (revenue, operating income, net income, operating cash flow, cash) equal the values read through the SEC XBRL facts API, a second path through the same filings. The one known difference, Novartis 2023, is explained by discontinued operations and checked against the statements' own totals.",
             "Assets equal equity plus liabilities for every company and date.",
+            "78 of 78 values for Novartis and GSK equal an independently built dataset (extracted through XBRL company-facts tags by a separate pipeline).",
             "The DCF satisfies closed-form identities (a flat business is worth NOPAT over WACC; Gordon growth), the bridge sums to equity value, and value moves the right way when WACC, growth, margin or tax change.",
             "The JavaScript engine that runs in your browser reproduces the Python model on fixed scenarios.",
             "The Excel workbook, recalculated by an independent evaluator, reproduces the Python model, including all 25 sensitivity cells.",

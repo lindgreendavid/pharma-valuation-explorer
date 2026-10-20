@@ -643,6 +643,7 @@ function renderValidation() {
         stat(`${v.reconciliation.matched} of ${v.reconciliation.compared}`, "figures equal a second extraction path"),
         stat(`${v.identities.passed} of ${v.identities.total}`, "balance sheet identities hold"),
         stat(String(v.facts), "facts traced to a filing page"),
+        v.cross_check ? stat(`${v.cross_check.matched} of ${v.cross_check.compared}`, "values equal an independently built dataset") : null,
         stat(`${v.parity.vectors}`, "JavaScript engine vectors equal Python"),
         stat(`${v.workbook.cells_compared}`, "workbook cells recalculated and compared"),
       ),
