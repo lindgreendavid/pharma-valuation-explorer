@@ -1,0 +1,54 @@
+{
+ "base_revenue": 54532.0,
+ "growth": [
+  0.05,
+  0.045,
+  0.04,
+  0.035,
+  0.03
+ ],
+ "operating_margin": [
+  0.32,
+  0.315,
+  0.31,
+  0.305,
+  0.3
+ ],
+ "tax_rate": 0.16,
+ "da_pct_revenue": 0.08193354360742316,
+ "capex_pct_revenue": 0.0715176410181178,
+ "nwc_pct_revenue": 0.19713195921660676,
+ "base_nwc": 10750.0,
+ "wacc": 0.06680819471865744,
+ "terminal_growth": 0.02,
+ "mid_year": false,
+ "normalise_terminal": true,
+ "shares_outstanding": 1908.151679,
+ "extra": {
+  "wacc_build_up": {
+   "cost_of_equity": 0.073525,
+   "after_tax_cost_of_debt": 0.028746298124383018,
+   "wacc": 0.06680819471865744
+  },
+  "pre_tax_cost_of_debt": 0.034221783481408356,
+  "sources": {
+   "observed": "FY2025 20-F: net sales, inventories, receivables, payables, capex, interest expense, borrowings; Novartis notes for depreciation and amortisation",
+   "market": "risk-free rate (FRED DGS10, 2025-12-31) and equity risk premium (Damodaran, 2026-01-01)",
+   "assumed": "growth path, margin path, tax rate, beta, debt weight, terminal growth"
+  }
+ },
+ "company": "Novartis",
+ "beta": 0.75,
+ "debt_weight": 0.15,
+ "risk_free_rate": {
+  "value": 0.0418,
+  "source": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=DGS10&cosd=2025-12-24&coed=2026-01-05",
+  "description": "US Treasury 10-year constant maturity yield on 2025-12-31 (FRED DGS10)"
+ },
+ "equity_risk_premium": {
+  "value": 0.0423,
+  "source": "https://pages.stern.nyu.edu/~adamodar/pc/implprem/ERPbymonth.xlsx",
+  "sha256": "56605b608bad9fb49b24206954b3b38eedb364ebee0cc2663e5020e28449cc9f",
+  "description": "Damodaran implied equity risk premium, trailing 12 month cash yield, month starting 2026-01-01"
+ }
+}

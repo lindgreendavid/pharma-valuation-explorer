@@ -1,0 +1,1023 @@
+{
+ "scenarios": {
+  "base": {
+   "inputs": {
+    "base_revenue": 54532.0,
+    "growth": [
+     0.05,
+     0.045,
+     0.04,
+     0.035,
+     0.03
+    ],
+    "operating_margin": [
+     0.32,
+     0.315,
+     0.31,
+     0.305,
+     0.3
+    ],
+    "tax_rate": 0.16,
+    "da_pct_revenue": 0.08193354360742316,
+    "capex_pct_revenue": 0.0715176410181178,
+    "nwc_pct_revenue": 0.19713195921660676,
+    "base_nwc": 10750.0,
+    "wacc": 0.06680819471865744,
+    "terminal_growth": 0.02,
+    "mid_year": false,
+    "normalise_terminal": true,
+    "shares_outstanding": 1908.151679,
+    "extra": {
+     "wacc_build_up": {
+      "cost_of_equity": 0.073525,
+      "after_tax_cost_of_debt": 0.028746298124383018,
+      "wacc": 0.06680819471865744
+     },
+     "pre_tax_cost_of_debt": 0.034221783481408356,
+     "sources": {
+      "observed": "FY2025 20-F: net sales, inventories, receivables, payables, capex, interest expense, borrowings; Novartis notes for depreciation and amortisation",
+      "market": "risk-free rate (FRED DGS10, 2025-12-31) and equity risk premium (Damodaran, 2026-01-01)",
+      "assumed": "growth path, margin path, tax rate, beta, debt weight, terminal growth"
+     }
+    }
+   },
+   "enterprise_value": {
+    "pv_explicit": 67236.54749856664,
+    "terminal_value": 358701.88107162295,
+    "pv_terminal": 259598.3565832212,
+    "enterprise_value": 326834.90408178786,
+    "terminal_share_of_value": 0.7942797826705154
+   },
+   "bridge": {
+    "items": [
+     {
+      "label": "Enterprise value",
+      "amount": 326834.90408178786,
+      "source": "model"
+     },
+     {
+      "label": "Less: gross borrowings and lease liabilities",
+      "amount": -35457.0,
+      "source": "balance sheet"
+     },
+     {
+      "label": "Plus: cash and cash equivalents",
+      "amount": 11435.0,
+      "source": "balance sheet"
+     },
+     {
+      "label": "Plus: marketable securities and short-term investments",
+      "amount": 155.0,
+      "source": "balance sheet"
+     },
+     {
+      "label": "Plus: investments in associates and joint ventures (book)",
+      "amount": 98.0,
+      "source": "balance sheet"
+     },
+     {
+      "label": "Plus: other non-current financial assets (book)",
+      "amount": 2348.0,
+      "source": "balance sheet"
+     },
+     {
+      "label": "Less: recognised post-employment liabilities",
+      "amount": -1635.0,
+      "source": "balance sheet or note"
+     },
+     {
+      "label": "Less: non-controlling interests (book value)",
+      "amount": -419.0,
+      "source": "balance sheet"
+     }
+    ],
+    "equity_value": 303359.90408178786
+   }
+  },
+  "wacc_up": {
+   "inputs": {
+    "base_revenue": 54532.0,
+    "growth": [
+     0.05,
+     0.045,
+     0.04,
+     0.035,
+     0.03
+    ],
+    "operating_margin": [
+     0.32,
+     0.315,
+     0.31,
+     0.305,
+     0.3
+    ],
+    "tax_rate": 0.16,
+    "da_pct_revenue": 0.08193354360742316,
+    "capex_pct_revenue": 0.0715176410181178,
+    "nwc_pct_revenue": 0.19713195921660676,
+    "base_nwc": 10750.0,
+    "wacc": 0.07680819471865744,
+    "terminal_growth": 0.02,
+    "mid_year": false,
+    "normalise_terminal": true,
+    "shares_outstanding": 1908.151679,
+    "extra": {
+     "wacc_build_up": {
+      "cost_of_equity": 0.073525,
+      "after_tax_cost_of_debt": 0.028746298124383018,
+      "wacc": 0.06680819471865744
+     },
+     "pre_tax_cost_of_debt": 0.034221783481408356,
+     "sources": {
+      "observed": "FY2025 20-F: net sales, inventories, receivables, payables, capex, interest expense, borrowings; Novartis notes for depreciation and amortisation",
+      "market": "risk-free rate (FRED DGS10, 2025-12-31) and equity risk premium (Damodaran, 2026-01-01)",
+      "assumed": "growth path, margin path, tax rate, beta, debt weight, terminal growth"
+     }
+    }
+   },
+   "enterprise_value": {
+    "pv_explicit": 65435.39269863081,
+    "terminal_value": 295559.2512365976,
+    "pv_terminal": 204151.604651056,
+    "enterprise_value": 269586.9973496868,
+    "terminal_share_of_value": 0.757275412605478
+   },
+   "bridge": {
+    "items": [
+     {
+      "label": "Enterprise value",
+      "amount": 269586.9973496868,
+      "source": "model"
+     },
+     {
+      "label": "Less: gross borrowings and lease liabilities",
+      "amount": -35457.0,
+      "source": "balance sheet"
+     },
+     {
+      "label": "Plus: cash and cash equivalents",
+      "amount": 11435.0,
+      "source": "balance sheet"
+     },
+     {
+      "label": "Plus: marketable securities and short-term investments",
+      "amount": 155.0,
+      "source": "balance sheet"
+     },
+     {
+      "label": "Plus: investments in associates and joint ventures (book)",
+      "amount": 98.0,
+      "source": "balance sheet"
+     },
+     {
+      "label": "Plus: other non-current financial assets (book)",
+      "amount": 2348.0,
+      "source": "balance sheet"
+     },
+     {
+      "label": "Less: recognised post-employment liabilities",
+      "amount": -1635.0,
+      "source": "balance sheet or note"
+     },
+     {
+      "label": "Less: non-controlling interests (book value)",
+      "amount": -419.0,
+      "source": "balance sheet"
+     }
+    ],
+    "equity_value": 246111.9973496868
+   }
+  },
+  "growth_up": {
+   "inputs": {
+    "base_revenue": 54532.0,
+    "growth": [
+     0.05,
+     0.045,
+     0.04,
+     0.035,
+     0.03
+    ],
+    "operating_margin": [
+     0.32,
+     0.315,
+     0.31,
+     0.305,
+     0.3
+    ],
+    "tax_rate": 0.16,
+    "da_pct_revenue": 0.08193354360742316,
+    "capex_pct_revenue": 0.0715176410181178,
+    "nwc_pct_revenue": 0.19713195921660676,
+    "base_nwc": 10750.0,
+    "wacc": 0.06680819471865744,
+    "terminal_growth": 0.025,
+    "mid_year": false,
+    "normalise_terminal": true,
+    "shares_outstanding": 1908.151679,
+    "extra": {
+     "wacc_build_up": {
+      "cost_of_equity": 0.073525,
+      "after_tax_cost_of_debt": 0.028746298124383018,
+      "wacc": 0.06680819471865744
+     },
+     "pre_tax_cost_of_debt": 0.034221783481408356,
+     "sources": {
+      "observed": "FY2025 20-F: net sales, inventories, receivables, payables, capex, interest expense, borrowings; Novartis notes for depreciation and amortisation",
+      "market": "risk-free rate (FRED DGS10, 2025-12-31) and equity risk premium (Damodaran, 2026-01-01)",
+      "assumed": "growth path, margin path, tax rate, beta, debt weight, terminal growth"
+     }
+    }
+   },
+   "enterprise_value": {
+    "pv_explicit": 67236.54749856664,
+    "terminal_value": 402035.70188825496,
+    "pv_terminal": 290959.74402524374,
+    "enterprise_value": 358196.29152381036,
+    "terminal_share_of_value": 0.8122913355341167
+   },
+   "bridge": {
+    "items": [
+     {
+      "label": "Enterprise value",
+      "amount": 358196.29152381036,
+      "source": "model"
+     },
+     {
+      "label": "Less: gross borrowings and lease liabilities",
+      "amount": -35457.0,
+      "source": "balance sheet"
+     },
+     {
+      "label": "Plus: cash and cash equivalents",
+      "amount": 11435.0,
+      "source": "balance sheet"
+     },
+     {
+      "label": "Plus: marketable securities and short-term investments",
+      "amount": 155.0,
+      "source": "balance sheet"
+     },
+     {
+      "label": "Plus: investments in associates and joint ventures (book)",
+      "amount": 98.0,
+      "source": "balance sheet"
+     },
+     {
+      "label": "Plus: other non-current financial assets (book)",
+      "amount": 2348.0,
+      "source": "balance sheet"
+     },
+     {
+      "label": "Less: recognised post-employment liabilities",
+      "amount": -1635.0,
+      "source": "balance sheet or note"
+     },
+     {
+      "label": "Less: non-controlling interests (book value)",
+      "amount": -419.0,
+      "source": "balance sheet"
+     }
+    ],
+    "equity_value": 334721.29152381036
+   }
+  },
+  "margin_down": {
+   "inputs": {
+    "base_revenue": 54532.0,
+    "growth": [
+     0.05,
+     0.045,
+     0.04,
+     0.035,
+     0.03
+    ],
+    "operating_margin": [
+     0.29000000000000004,
+     0.28500000000000003,
+     0.28,
+     0.275,
+     0.27
+    ],
+    "tax_rate": 0.16,
+    "da_pct_revenue": 0.08193354360742316,
+    "capex_pct_revenue": 0.0715176410181178,
+    "nwc_pct_revenue": 0.19713195921660676,
+    "base_nwc": 10750.0,
+    "wacc": 0.06680819471865744,
+    "terminal_growth": 0.02,
+    "mid_year": false,
+    "normalise_terminal": true,
+    "shares_outstanding": 1908.151679,
+    "extra": {
+     "wacc_build_up": {
+      "cost_of_equity": 0.073525,
+      "after_tax_cost_of_debt": 0.028746298124383018,
+      "wacc": 0.06680819471865744
+     },
+     "pre_tax_cost_of_debt": 0.034221783481408356,
+     "sources": {
+      "observed": "FY2025 20-F: net sales, inventories, receivables, payables, capex, interest expense, borrowings; Novartis notes for depreciation and amortisation",
+      "market": "risk-free rate (FRED DGS10, 2025-12-31) and equity risk premium (Damodaran, 2026-01-01)",
+      "assumed": "growth path, margin path, tax rate, beta, debt weight, terminal growth"
+     }
+    }
+   },
+   "enterprise_value": {
+    "pv_explicit": 60804.51077186156,
+    "terminal_value": 322272.922976797,
+    "pv_terminal": 233234.13004166156,
+    "enterprise_value": 294038.6408135231,
+    "terminal_share_of_value": 0.7932091149529451
+   },
+   "bridge": {
+    "items": [
+     {
+      "label": "Enterprise value",
+      "amount": 294038.6408135231,
+      "source": "model"
+     },
+     {
+      "label": "Less: gross borrowings and lease liabilities",
+      "amount": -35457.0,
+      "source": "balance sheet"
+     },
+     {
+      "label": "Plus: cash and cash equivalents",
+      "amount": 11435.0,
+      "source": "balance sheet"
+     },
+     {
+      "label": "Plus: marketable securities and short-term investments",
+      "amount": 155.0,
+      "source": "balance sheet"
+     },
+     {
+      "label": "Plus: investments in associates and joint ventures (book)",
+      "amount": 98.0,
+      "source": "balance sheet"
+     },
+     {
+      "label": "Plus: other non-current financial assets (book)",
+      "amount": 2348.0,
+      "source": "balance sheet"
+     },
+     {
+      "label": "Less: recognised post-employment liabilities",
+      "amount": -1635.0,
+      "source": "balance sheet or note"
+     },
+     {
+      "label": "Less: non-controlling interests (book value)",
+      "amount": -419.0,
+      "source": "balance sheet"
+     }
+    ],
+    "equity_value": 270563.6408135231
+   }
+  },
+  "tax_up": {
+   "inputs": {
+    "base_revenue": 54532.0,
+    "growth": [
+     0.05,
+     0.045,
+     0.04,
+     0.035,
+     0.03
+    ],
+    "operating_margin": [
+     0.32,
+     0.315,
+     0.31,
+     0.305,
+     0.3
+    ],
+    "tax_rate": 0.21000000000000002,
+    "da_pct_revenue": 0.08193354360742316,
+    "capex_pct_revenue": 0.0715176410181178,
+    "nwc_pct_revenue": 0.19713195921660676,
+    "base_nwc": 10750.0,
+    "wacc": 0.06655153134254688,
+    "terminal_growth": 0.02,
+    "mid_year": false,
+    "normalise_terminal": true,
+    "shares_outstanding": 1908.151679,
+    "extra": {
+     "wacc_build_up": {
+      "cost_of_equity": 0.073525,
+      "after_tax_cost_of_debt": 0.0270352089503126,
+      "wacc": 0.06655153134254688
+     },
+     "pre_tax_cost_of_debt": 0.034221783481408356,
+     "sources": {
+      "observed": "FY2025 20-F: net sales, inventories, receivables, payables, capex, interest expense, borrowings; Novartis notes for depreciation and amortisation",
+      "market": "risk-free rate (FRED DGS10, 2025-12-31) and equity risk premium (Damodaran, 2026-01-01)",
+      "assumed": "growth path, margin path, tax rate, beta, debt weight, terminal growth"
+     }
+    }
+   },
+   "enterprise_value": {
+    "pv_explicit": 63321.26983454167,
+    "terminal_value": 338876.1369802038,
+    "pv_terminal": 245545.3814351249,
+    "enterprise_value": 308866.65126966656,
+    "terminal_share_of_value": 0.7949883240089366
+   },
+   "bridge": {
+    "items": [
+     {
+      "label": "Enterprise value",
+      "amount": 308866.65126966656,
+      "source": "model"
+     },
+     {
+      "label": "Less: gross borrowings and lease liabilities",
+      "amount": -35457.0,
+      "source": "balance sheet"
+     },
+     {
+      "label": "Plus: cash and cash equivalents",
+      "amount": 11435.0,
+      "source": "balance sheet"
+     },
+     {
+      "label": "Plus: marketable securities and short-term investments",
+      "amount": 155.0,
+      "source": "balance sheet"
+     },
+     {
+      "label": "Plus: investments in associates and joint ventures (book)",
+      "amount": 98.0,
+      "source": "balance sheet"
+     },
+     {
+      "label": "Plus: other non-current financial assets (book)",
+      "amount": 2348.0,
+      "source": "balance sheet"
+     },
+     {
+      "label": "Less: recognised post-employment liabilities",
+      "amount": -1635.0,
+      "source": "balance sheet or note"
+     },
+     {
+      "label": "Less: non-controlling interests (book value)",
+      "amount": -419.0,
+      "source": "balance sheet"
+     }
+    ],
+    "equity_value": 285391.65126966656
+   }
+  }
+ },
+ "metrics": {
+  "Novartis|2023": {
+   "revenue": 45440.0,
+   "operating_income": 9769.0,
+   "operating_margin": 0.21498679577464788,
+   "r_and_d_intensity": 0.2502420774647887,
+   "net_income": 8572.0,
+   "net_margin": 0.1886443661971831,
+   "effective_tax_rate": 0.06039679929847638,
+   "operating_cash_flow": 14220.0,
+   "capex": 2753.0,
+   "free_cash_flow": 11467.0,
+   "fcf_margin": 0.25235475352112674,
+   "fcf_to_net_income": 1.3377274848343443,
+   "gross_debt": 26439.0,
+   "cash_and_investments": 14428.0,
+   "net_debt": 12011.0,
+   "net_debt_to_operating_income": 1.2295014842870304
+  },
+  "Novartis|2024": {
+   "revenue": 50317.0,
+   "operating_income": 14544.0,
+   "operating_margin": 0.2890474392352485,
+   "r_and_d_intensity": 0.19917721644772143,
+   "net_income": 11939.0,
+   "net_margin": 0.23727567223801102,
+   "effective_tax_rate": 0.1247067448680352,
+   "operating_cash_flow": 17619.0,
+   "capex": 3814.0,
+   "free_cash_flow": 13805.0,
+   "fcf_margin": 0.27436055408708787,
+   "fcf_to_net_income": 1.1562944970265516,
+   "gross_debt": 31401.0,
+   "cash_and_investments": 13457.0,
+   "net_debt": 17944.0,
+   "net_debt_to_operating_income": 1.2337733773377337,
+   "revenue_growth": 0.10732834507042255
+  },
+  "Novartis|2025": {
+   "revenue": 54532.0,
+   "operating_income": 17644.0,
+   "operating_margin": 0.3235531431086335,
+   "r_and_d_intensity": 0.20538399471869728,
+   "net_income": 13967.0,
+   "net_margin": 0.2561248441282183,
+   "effective_tax_rate": 0.1458537181996086,
+   "operating_cash_flow": 19144.0,
+   "capex": 3900.0,
+   "free_cash_flow": 15244.0,
+   "fcf_margin": 0.279542287097484,
+   "fcf_to_net_income": 1.0914297988114843,
+   "gross_debt": 35457.0,
+   "cash_and_investments": 11590.0,
+   "net_debt": 23867.0,
+   "net_debt_to_operating_income": 1.352697800952165,
+   "revenue_growth": 0.08376890514140345
+  },
+  "GSK|2023": {
+   "revenue": 30328.0,
+   "operating_income": 6745.0,
+   "operating_margin": 0.22240174096544446,
+   "r_and_d_intensity": 0.2051899235030335,
+   "net_income": 5308.0,
+   "net_margin": 0.17501978369823265,
+   "effective_tax_rate": 0.12467018469656992,
+   "operating_cash_flow": 6768.0,
+   "capex": 2344.0,
+   "free_cash_flow": 3773.0,
+   "fcf_margin": 0.1244064890530203,
+   "fcf_to_net_income": 0.7108138658628486,
+   "gross_debt": 18018.0,
+   "cash_and_investments": 2978.0,
+   "net_debt": 21702.0,
+   "net_debt_to_operating_income": 3.2174944403261674
+  },
+  "GSK|2024": {
+   "revenue": 31376.0,
+   "operating_income": 4021.0,
+   "operating_margin": 0.12815527791942885,
+   "r_and_d_intensity": 0.20400943396226415,
+   "net_income": 2951.0,
+   "net_margin": 0.09405277919428863,
+   "effective_tax_rate": 0.15127983894161634,
+   "operating_cash_flow": 6554.0,
+   "capex": 2982.0,
+   "free_cash_flow": 3078.0,
+   "fcf_margin": 0.09810045894951555,
+   "fcf_to_net_income": 1.0430362588952897,
+   "gross_debt": 16986.0,
+   "cash_and_investments": 3891.0,
+   "net_debt": 20375.0,
+   "net_debt_to_operating_income": 5.0671474757523,
+   "revenue_growth": 0.034555526246373036
+  },
+  "GSK|2025": {
+   "revenue": 32667.0,
+   "operating_income": 7932.0,
+   "operating_margin": 0.24281384883827717,
+   "r_and_d_intensity": 0.23035479229803776,
+   "net_income": 6289.0,
+   "net_margin": 0.19251844368935012,
+   "effective_tax_rate": 0.150249966220781,
+   "operating_cash_flow": 7741.0,
+   "capex": 2985.0,
+   "free_cash_flow": 4231.0,
+   "fcf_margin": 0.12951908653993327,
+   "fcf_to_net_income": 0.6727619653363015,
+   "gross_debt": 17720.0,
+   "cash_and_investments": 3406.0,
+   "net_debt": 21047.0,
+   "net_debt_to_operating_income": 2.6534291477559253,
+   "revenue_growth": 0.04114609892911769
+  },
+  "Novo Nordisk|2023": {
+   "revenue": 232261.0,
+   "operating_income": 102574.0,
+   "operating_margin": 0.44163247381178933,
+   "r_and_d_intensity": 0.13968337344625228,
+   "net_income": 83683.0,
+   "net_margin": 0.3602972517986231,
+   "effective_tax_rate": 0.20053690505760743,
+   "operating_cash_flow": 108908.0,
+   "capex": 38896.0,
+   "free_cash_flow": 70012.0,
+   "fcf_margin": 0.3014367457300193,
+   "fcf_to_net_income": 0.8366334858931922,
+   "gross_debt": 27006.0,
+   "cash_and_investments": 30230.0,
+   "net_debt": -3224.0,
+   "net_debt_to_operating_income": -0.031430966911693024
+  },
+  "Novo Nordisk|2024": {
+   "revenue": 290403.0,
+   "operating_income": 128339.0,
+   "operating_margin": 0.4419341397988313,
+   "r_and_d_intensity": 0.16550104509939637,
+   "net_income": 100988.0,
+   "net_margin": 0.3477512284652707,
+   "effective_tax_rate": 0.206013004064753,
+   "operating_cash_flow": 120968.0,
+   "capex": 51309.0,
+   "free_cash_flow": 69659.0,
+   "fcf_margin": 0.23987011153466045,
+   "fcf_to_net_income": 0.6897750227749831,
+   "gross_debt": 102787.0,
+   "cash_and_investments": 26308.0,
+   "net_debt": 76479.0,
+   "net_debt_to_operating_income": 0.5959139466569009,
+   "revenue_growth": 0.2503304472124033
+  },
+  "Novo Nordisk|2025": {
+   "revenue": 309064.0,
+   "operating_income": 127658.0,
+   "operating_margin": 0.4130471358682991,
+   "r_and_d_intensity": 0.16837612921595527,
+   "net_income": 102434.0,
+   "net_margin": 0.3314329718116636,
+   "effective_tax_rate": 0.21530565343955876,
+   "operating_cash_flow": 119102.0,
+   "capex": 90113.0,
+   "free_cash_flow": 28989.0,
+   "fcf_margin": 0.09379610695519375,
+   "fcf_to_net_income": 0.2830017377042779,
+   "gross_debt": 130958.0,
+   "cash_and_investments": 26962.0,
+   "net_debt": 103996.0,
+   "net_debt_to_operating_income": 0.814645380626361,
+   "revenue_growth": 0.06425897804086045
+  }
+ },
+ "eur": {
+  "Novartis|2023": {
+   "revenue_flow": 42024.7095369085,
+   "cash_balance": 12120.361990950227
+  },
+  "Novartis|2024": {
+   "revenue_flow": 46487.35029199962,
+   "cash_balance": 11029.935508711138
+  },
+  "Novartis|2025": {
+   "revenue_flow": 48259.12724014283,
+   "cash_balance": 9731.91489361702
+  },
+  "GSK|2023": {
+   "revenue_flow": 34868.32648949416,
+   "cash_balance": 3378.401703009033
+  },
+  "GSK|2024": {
+   "revenue_flow": 37060.45917608163,
+   "cash_balance": 4667.261631973757
+  },
+  "GSK|2025": {
+   "revenue_flow": 38127.09273494473,
+   "cash_balance": 3892.963557185423
+  },
+  "Novo Nordisk|2023": {
+   "revenue_flow": 31172.059725624433,
+   "cash_balance": 1931.0603925988542
+  },
+  "Novo Nordisk|2024": {
+   "revenue_flow": 38933.68562435706,
+   "cash_balance": 2099.144519831586
+  },
+  "Novo Nordisk|2025": {
+   "revenue_flow": 41410.64543145131,
+   "cash_balance": 3543.225910107245
+  }
+ },
+ "bridges": {
+  "Novartis": {
+   "book": {
+    "items": [
+     {
+      "label": "Enterprise value",
+      "amount": 100000.0,
+      "source": "model"
+     },
+     {
+      "label": "Less: gross borrowings and lease liabilities",
+      "amount": -35457.0,
+      "source": "balance sheet"
+     },
+     {
+      "label": "Plus: cash and cash equivalents",
+      "amount": 11435.0,
+      "source": "balance sheet"
+     },
+     {
+      "label": "Plus: marketable securities and short-term investments",
+      "amount": 155.0,
+      "source": "balance sheet"
+     },
+     {
+      "label": "Plus: investments in associates and joint ventures (book)",
+      "amount": 98.0,
+      "source": "balance sheet"
+     },
+     {
+      "label": "Plus: other non-current financial assets (book)",
+      "amount": 2348.0,
+      "source": "balance sheet"
+     },
+     {
+      "label": "Less: recognised post-employment liabilities",
+      "amount": -1635.0,
+      "source": "balance sheet or note"
+     },
+     {
+      "label": "Less: non-controlling interests (book value)",
+      "amount": -419.0,
+      "source": "balance sheet"
+     }
+    ],
+    "equity_value": 76525.0
+   },
+   "multiple": {
+    "items": [
+     {
+      "label": "Enterprise value",
+      "amount": 100000.0,
+      "source": "model"
+     },
+     {
+      "label": "Less: gross borrowings and lease liabilities",
+      "amount": -35457.0,
+      "source": "balance sheet"
+     },
+     {
+      "label": "Plus: cash and cash equivalents",
+      "amount": 11435.0,
+      "source": "balance sheet"
+     },
+     {
+      "label": "Plus: marketable securities and short-term investments",
+      "amount": 155.0,
+      "source": "balance sheet"
+     },
+     {
+      "label": "Plus: investments in associates and joint ventures (book)",
+      "amount": 98.0,
+      "source": "balance sheet"
+     },
+     {
+      "label": "Plus: other non-current financial assets (book)",
+      "amount": 2348.0,
+      "source": "balance sheet"
+     },
+     {
+      "label": "Less: recognised post-employment liabilities",
+      "amount": -1635.0,
+      "source": "balance sheet or note"
+     },
+     {
+      "label": "Less: non-controlling interests (15x their profit)",
+      "amount": -0.0,
+      "source": "income statement, assumption"
+     }
+    ],
+    "equity_value": 76944.0
+   }
+  },
+  "GSK": {
+   "book": {
+    "items": [
+     {
+      "label": "Enterprise value",
+      "amount": 100000.0,
+      "source": "model"
+     },
+     {
+      "label": "Less: gross borrowings and lease liabilities",
+      "amount": -17720.0,
+      "source": "balance sheet"
+     },
+     {
+      "label": "Less: contingent consideration liabilities (debt-like)",
+      "amount": -6733.0,
+      "source": "balance sheet"
+     },
+     {
+      "label": "Plus: cash and cash equivalents",
+      "amount": 3397.0,
+      "source": "balance sheet"
+     },
+     {
+      "label": "Plus: marketable securities and short-term investments",
+      "amount": 9.0,
+      "source": "balance sheet"
+     },
+     {
+      "label": "Plus: investments in associates and joint ventures (book)",
+      "amount": 89.0,
+      "source": "balance sheet"
+     },
+     {
+      "label": "Plus: other non-current financial assets (book)",
+      "amount": 1037.0,
+      "source": "balance sheet"
+     },
+     {
+      "label": "Less: recognised post-employment liabilities",
+      "amount": -1687.0,
+      "source": "balance sheet or note"
+     },
+     {
+      "label": "Less: non-controlling interests (book value)",
+      "amount": 421.0,
+      "source": "balance sheet"
+     }
+    ],
+    "equity_value": 78813.0
+   },
+   "multiple": {
+    "items": [
+     {
+      "label": "Enterprise value",
+      "amount": 100000.0,
+      "source": "model"
+     },
+     {
+      "label": "Less: gross borrowings and lease liabilities",
+      "amount": -17720.0,
+      "source": "balance sheet"
+     },
+     {
+      "label": "Less: contingent consideration liabilities (debt-like)",
+      "amount": -6733.0,
+      "source": "balance sheet"
+     },
+     {
+      "label": "Plus: cash and cash equivalents",
+      "amount": 3397.0,
+      "source": "balance sheet"
+     },
+     {
+      "label": "Plus: marketable securities and short-term investments",
+      "amount": 9.0,
+      "source": "balance sheet"
+     },
+     {
+      "label": "Plus: investments in associates and joint ventures (book)",
+      "amount": 89.0,
+      "source": "balance sheet"
+     },
+     {
+      "label": "Plus: other non-current financial assets (book)",
+      "amount": 1037.0,
+      "source": "balance sheet"
+     },
+     {
+      "label": "Less: recognised post-employment liabilities",
+      "amount": -1687.0,
+      "source": "balance sheet or note"
+     },
+     {
+      "label": "Less: non-controlling interests (15x their profit)",
+      "amount": -8595.0,
+      "source": "income statement, assumption"
+     }
+    ],
+    "equity_value": 69797.0
+   }
+  },
+  "Novo Nordisk": {
+   "book": {
+    "items": [
+     {
+      "label": "Enterprise value",
+      "amount": 100000.0,
+      "source": "model"
+     },
+     {
+      "label": "Less: gross borrowings and lease liabilities",
+      "amount": -130958.0,
+      "source": "balance sheet"
+     },
+     {
+      "label": "Plus: cash and cash equivalents",
+      "amount": 26464.0,
+      "source": "balance sheet"
+     },
+     {
+      "label": "Plus: marketable securities and short-term investments",
+      "amount": 498.0,
+      "source": "balance sheet"
+     },
+     {
+      "label": "Plus: investments in associates and joint ventures (book)",
+      "amount": 366.0,
+      "source": "balance sheet"
+     },
+     {
+      "label": "Plus: other non-current financial assets (book)",
+      "amount": 2141.0,
+      "source": "balance sheet"
+     },
+     {
+      "label": "Less: recognised post-employment liabilities",
+      "amount": -861.0,
+      "source": "balance sheet or note"
+     },
+     {
+      "label": "Less: non-controlling interests (book value)",
+      "amount": -0.0,
+      "source": "balance sheet"
+     }
+    ],
+    "equity_value": -2350.0
+   },
+   "multiple": {
+    "items": [
+     {
+      "label": "Enterprise value",
+      "amount": 100000.0,
+      "source": "model"
+     },
+     {
+      "label": "Less: gross borrowings and lease liabilities",
+      "amount": -130958.0,
+      "source": "balance sheet"
+     },
+     {
+      "label": "Plus: cash and cash equivalents",
+      "amount": 26464.0,
+      "source": "balance sheet"
+     },
+     {
+      "label": "Plus: marketable securities and short-term investments",
+      "amount": 498.0,
+      "source": "balance sheet"
+     },
+     {
+      "label": "Plus: investments in associates and joint ventures (book)",
+      "amount": 366.0,
+      "source": "balance sheet"
+     },
+     {
+      "label": "Plus: other non-current financial assets (book)",
+      "amount": 2141.0,
+      "source": "balance sheet"
+     },
+     {
+      "label": "Less: recognised post-employment liabilities",
+      "amount": -861.0,
+      "source": "balance sheet or note"
+     },
+     {
+      "label": "Less: non-controlling interests (15x their profit)",
+      "amount": -0.0,
+      "source": "income statement, assumption"
+     }
+    ],
+    "equity_value": -2350.0
+   }
+  }
+ },
+ "grid": {
+  "waccs": [
+   0.05680819471865744,
+   0.06180819471865744,
+   0.06680819471865744,
+   0.07180819471865744,
+   0.07680819471865744
+  ],
+  "growths": [
+   0.01,
+   0.015,
+   0.02,
+   0.025,
+   0.03
+  ],
+  "values": [
+   [
+    340642.371657124,
+    373445.3356505786,
+    415160.16403841146,
+    469989.4834424114,
+    545271.25030862
+   ],
+   [
+    307765.17806388816,
+    333646.9084174784,
+    365719.2266516882,
+    406504.908439681,
+    460112.9720537224
+   ],
+   [
+    280673.85287018446,
+    301526.88090237445,
+    326834.90408178786,
+    358196.29152381036,
+    398077.8978143076
+   ],
+   [
+    257964.31187600186,
+    275057.916069404,
+    295450.92188956204,
+    320200.6447210747,
+    350870.19331834046
+   ],
+   [
+    238652.80114685907,
+    252868.6818189484,
+    269586.9973496868,
+    289532.27641805203,
+    313738.621137047
+   ]
+  ]
+ }
+}

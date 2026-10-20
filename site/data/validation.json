@@ -1,0 +1,32 @@
+{
+ "reconciliation": {
+  "compared": 39,
+  "matched": 39
+ },
+ "identities": {
+  "total": 9,
+  "passed": 9
+ },
+ "facts": 276,
+ "parity": {
+  "vectors": 45
+ },
+ "workbook": {
+  "cells_compared": 57
+ },
+ "checked": [
+  "Every extracted figure is mapped by an explicit rule (statement, line label, occurrence) and carries its accession number, page and line label.",
+  "39 headline figures (revenue, operating income, net income, operating cash flow, cash) equal the values read through the SEC XBRL facts API, a second path through the same filings. The one known difference, Novartis 2023, is explained by discontinued operations and checked against the statements' own totals.",
+  "Assets equal equity plus liabilities for every company and date.",
+  "The DCF satisfies closed-form identities (a flat business is worth NOPAT over WACC; Gordon growth), the bridge sums to equity value, and value moves the right way when WACC, growth, margin or tax change.",
+  "The JavaScript engine that runs in your browser reproduces the Python model on fixed scenarios.",
+  "The Excel workbook, recalculated by an independent evaluator, reproduces the Python model, including all 25 sensitivity cells."
+ ],
+ "not_checked": [
+  "No one else has audited the mapping or the dataset. The figures were not compared with the companies' printed annual reports or with a data vendor.",
+  "Share counts are cover-page figures, not weighted or diluted averages, and no share price is included, so no claim is made about whether any company is cheap or expensive.",
+  "Pension, contingent-consideration and non-controlling-interest treatments are simplified and documented; litigation and tax provisions are not modelled.",
+  "The DCF defaults are assumptions. Their reasonableness was checked for internal consistency, not against analyst forecasts or company guidance.",
+  "Other companies, other years, and adjusted (non-IFRS) measures."
+ ]
+}
