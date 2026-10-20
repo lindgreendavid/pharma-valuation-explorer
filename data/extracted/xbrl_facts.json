@@ -1,0 +1,456 @@
+{
+ "novartis_pension_liability": [
+  {
+   "fiscal_year": 2025,
+   "value": 1635000000,
+   "accession": "0001114448-26-000004",
+   "filed": "2026-02-04",
+   "source_url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001114448.json (ifrs-full:NoncurrentRecognisedLiabilitiesDefinedBenefitPlan, accn 0001114448-26-000004)"
+  },
+  {
+   "fiscal_year": 2024,
+   "value": 1571000000,
+   "accession": "0001114448-26-000004",
+   "filed": "2026-02-04",
+   "source_url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001114448.json (ifrs-full:NoncurrentRecognisedLiabilitiesDefinedBenefitPlan, accn 0001114448-26-000004)"
+  },
+  {
+   "fiscal_year": 2023,
+   "value": 1815000000,
+   "accession": "0001370368-25-000004",
+   "filed": "2025-01-31",
+   "source_url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001114448.json (ifrs-full:NoncurrentRecognisedLiabilitiesDefinedBenefitPlan, accn 0001370368-25-000004)"
+  }
+ ],
+ "reconcile": [
+  {
+   "unit": "USD",
+   "value": 13393000000,
+   "accession": "0001114448-26-000004",
+   "filed": "2026-02-04",
+   "concept": "CashAndCashEquivalents",
+   "end": "2023-12-31",
+   "company": "Novartis",
+   "fiscal_year": 2023,
+   "field": "cash"
+  },
+  {
+   "unit": "USD",
+   "value": 14854000000,
+   "accession": "0001114448-26-000004",
+   "filed": "2026-02-04",
+   "concept": "ProfitLoss",
+   "end": "2023-12-31",
+   "company": "Novartis",
+   "fiscal_year": 2023,
+   "field": "net_income"
+  },
+  {
+   "unit": "USD",
+   "value": 14458000000,
+   "accession": "0001114448-26-000004",
+   "filed": "2026-02-04",
+   "concept": "CashFlowsFromUsedInOperatingActivities",
+   "end": "2023-12-31",
+   "company": "Novartis",
+   "fiscal_year": 2023,
+   "field": "cfo"
+  },
+  {
+   "unit": "USD",
+   "value": 11459000000,
+   "accession": "0001114448-26-000004",
+   "filed": "2026-02-04",
+   "concept": "CashAndCashEquivalents",
+   "end": "2024-12-31",
+   "company": "Novartis",
+   "fiscal_year": 2024,
+   "field": "cash"
+  },
+  {
+   "unit": "USD",
+   "value": 11939000000,
+   "accession": "0001114448-26-000004",
+   "filed": "2026-02-04",
+   "concept": "ProfitLoss",
+   "end": "2024-12-31",
+   "company": "Novartis",
+   "fiscal_year": 2024,
+   "field": "net_income"
+  },
+  {
+   "unit": "USD",
+   "value": 17619000000,
+   "accession": "0001114448-26-000004",
+   "filed": "2026-02-04",
+   "concept": "CashFlowsFromUsedInOperatingActivities",
+   "end": "2024-12-31",
+   "company": "Novartis",
+   "fiscal_year": 2024,
+   "field": "cfo"
+  },
+  {
+   "unit": "USD",
+   "value": 11435000000,
+   "accession": "0001114448-26-000004",
+   "filed": "2026-02-04",
+   "concept": "CashAndCashEquivalents",
+   "end": "2025-12-31",
+   "company": "Novartis",
+   "fiscal_year": 2025,
+   "field": "cash"
+  },
+  {
+   "unit": "USD",
+   "value": 13967000000,
+   "accession": "0001114448-26-000004",
+   "filed": "2026-02-04",
+   "concept": "ProfitLoss",
+   "end": "2025-12-31",
+   "company": "Novartis",
+   "fiscal_year": 2025,
+   "field": "net_income"
+  },
+  {
+   "unit": "USD",
+   "value": 19144000000,
+   "accession": "0001114448-26-000004",
+   "filed": "2026-02-04",
+   "concept": "CashFlowsFromUsedInOperatingActivities",
+   "end": "2025-12-31",
+   "company": "Novartis",
+   "fiscal_year": 2025,
+   "field": "cfo"
+  },
+  {
+   "unit": "GBP",
+   "value": 30328000000,
+   "accession": "0001131399-25-000007",
+   "filed": "2025-03-03",
+   "concept": "Revenue",
+   "end": "2023-12-31",
+   "company": "GSK",
+   "fiscal_year": 2023,
+   "field": "revenue"
+  },
+  {
+   "unit": "GBP",
+   "value": 6745000000,
+   "accession": "0001131399-25-000007",
+   "filed": "2025-03-03",
+   "concept": "ProfitLossFromOperatingActivities",
+   "end": "2023-12-31",
+   "company": "GSK",
+   "fiscal_year": 2023,
+   "field": "operating_income"
+  },
+  {
+   "unit": "GBP",
+   "value": 5308000000,
+   "accession": "0001131399-25-000007",
+   "filed": "2025-03-03",
+   "concept": "ProfitLoss",
+   "end": "2023-12-31",
+   "company": "GSK",
+   "fiscal_year": 2023,
+   "field": "net_income"
+  },
+  {
+   "unit": "GBP",
+   "value": 6768000000,
+   "accession": "0001131399-25-000007",
+   "filed": "2025-03-03",
+   "concept": "CashFlowsFromUsedInOperatingActivities",
+   "end": "2023-12-31",
+   "company": "GSK",
+   "fiscal_year": 2023,
+   "field": "cfo"
+  },
+  {
+   "unit": "GBP",
+   "value": 2936000000,
+   "accession": "0001131399-25-000007",
+   "filed": "2025-03-03",
+   "concept": "CashAndCashEquivalents",
+   "end": "2023-12-31",
+   "company": "GSK",
+   "fiscal_year": 2023,
+   "field": "cash"
+  },
+  {
+   "unit": "GBP",
+   "value": 31376000000,
+   "accession": "0001131399-26-000004",
+   "filed": "2026-03-06",
+   "concept": "Revenue",
+   "end": "2024-12-31",
+   "company": "GSK",
+   "fiscal_year": 2024,
+   "field": "revenue"
+  },
+  {
+   "unit": "GBP",
+   "value": 4021000000,
+   "accession": "0001131399-26-000004",
+   "filed": "2026-03-06",
+   "concept": "ProfitLossFromOperatingActivities",
+   "end": "2024-12-31",
+   "company": "GSK",
+   "fiscal_year": 2024,
+   "field": "operating_income"
+  },
+  {
+   "unit": "GBP",
+   "value": 2951000000,
+   "accession": "0001131399-26-000004",
+   "filed": "2026-03-06",
+   "concept": "ProfitLoss",
+   "end": "2024-12-31",
+   "company": "GSK",
+   "fiscal_year": 2024,
+   "field": "net_income"
+  },
+  {
+   "unit": "GBP",
+   "value": 6554000000,
+   "accession": "0001131399-26-000004",
+   "filed": "2026-03-06",
+   "concept": "CashFlowsFromUsedInOperatingActivities",
+   "end": "2024-12-31",
+   "company": "GSK",
+   "fiscal_year": 2024,
+   "field": "cfo"
+  },
+  {
+   "unit": "GBP",
+   "value": 3870000000,
+   "accession": "0001131399-26-000004",
+   "filed": "2026-03-06",
+   "concept": "CashAndCashEquivalents",
+   "end": "2024-12-31",
+   "company": "GSK",
+   "fiscal_year": 2024,
+   "field": "cash"
+  },
+  {
+   "unit": "GBP",
+   "value": 32667000000,
+   "accession": "0001131399-26-000004",
+   "filed": "2026-03-06",
+   "concept": "Revenue",
+   "end": "2025-12-31",
+   "company": "GSK",
+   "fiscal_year": 2025,
+   "field": "revenue"
+  },
+  {
+   "unit": "GBP",
+   "value": 7932000000,
+   "accession": "0001131399-26-000004",
+   "filed": "2026-03-06",
+   "concept": "ProfitLossFromOperatingActivities",
+   "end": "2025-12-31",
+   "company": "GSK",
+   "fiscal_year": 2025,
+   "field": "operating_income"
+  },
+  {
+   "unit": "GBP",
+   "value": 6289000000,
+   "accession": "0001131399-26-000004",
+   "filed": "2026-03-06",
+   "concept": "ProfitLoss",
+   "end": "2025-12-31",
+   "company": "GSK",
+   "fiscal_year": 2025,
+   "field": "net_income"
+  },
+  {
+   "unit": "GBP",
+   "value": 7741000000,
+   "accession": "0001131399-26-000004",
+   "filed": "2026-03-06",
+   "concept": "CashFlowsFromUsedInOperatingActivities",
+   "end": "2025-12-31",
+   "company": "GSK",
+   "fiscal_year": 2025,
+   "field": "cfo"
+  },
+  {
+   "unit": "GBP",
+   "value": 3397000000,
+   "accession": "0001131399-26-000004",
+   "filed": "2026-03-06",
+   "concept": "CashAndCashEquivalents",
+   "end": "2025-12-31",
+   "company": "GSK",
+   "fiscal_year": 2025,
+   "field": "cash"
+  },
+  {
+   "unit": "DKK",
+   "value": 232261000000,
+   "accession": "0000353278-26-000012",
+   "filed": "2026-02-04",
+   "concept": "Revenue",
+   "end": "2023-12-31",
+   "company": "Novo Nordisk",
+   "fiscal_year": 2023,
+   "field": "revenue"
+  },
+  {
+   "unit": "DKK",
+   "value": 102574000000,
+   "accession": "0000353278-26-000012",
+   "filed": "2026-02-04",
+   "concept": "ProfitLossFromOperatingActivities",
+   "end": "2023-12-31",
+   "company": "Novo Nordisk",
+   "fiscal_year": 2023,
+   "field": "operating_income"
+  },
+  {
+   "unit": "DKK",
+   "value": 83683000000,
+   "accession": "0000353278-26-000012",
+   "filed": "2026-02-04",
+   "concept": "ProfitLoss",
+   "end": "2023-12-31",
+   "company": "Novo Nordisk",
+   "fiscal_year": 2023,
+   "field": "net_income"
+  },
+  {
+   "unit": "DKK",
+   "value": 108908000000,
+   "accession": "0000353278-26-000012",
+   "filed": "2026-02-04",
+   "concept": "CashFlowsFromUsedInOperatingActivities",
+   "end": "2023-12-31",
+   "company": "Novo Nordisk",
+   "fiscal_year": 2023,
+   "field": "cfo"
+  },
+  {
+   "unit": "DKK",
+   "value": 14392000000,
+   "accession": "0000353278-26-000012",
+   "filed": "2026-02-04",
+   "concept": "CashAndCashEquivalents",
+   "end": "2023-12-31",
+   "company": "Novo Nordisk",
+   "fiscal_year": 2023,
+   "field": "cash"
+  },
+  {
+   "unit": "DKK",
+   "value": 290403000000,
+   "accession": "0000353278-26-000012",
+   "filed": "2026-02-04",
+   "concept": "Revenue",
+   "end": "2024-12-31",
+   "company": "Novo Nordisk",
+   "fiscal_year": 2024,
+   "field": "revenue"
+  },
+  {
+   "unit": "DKK",
+   "value": 128339000000,
+   "accession": "0000353278-26-000012",
+   "filed": "2026-02-04",
+   "concept": "ProfitLossFromOperatingActivities",
+   "end": "2024-12-31",
+   "company": "Novo Nordisk",
+   "fiscal_year": 2024,
+   "field": "operating_income"
+  },
+  {
+   "unit": "DKK",
+   "value": 100988000000,
+   "accession": "0000353278-26-000012",
+   "filed": "2026-02-04",
+   "concept": "ProfitLoss",
+   "end": "2024-12-31",
+   "company": "Novo Nordisk",
+   "fiscal_year": 2024,
+   "field": "net_income"
+  },
+  {
+   "unit": "DKK",
+   "value": 120968000000,
+   "accession": "0000353278-26-000012",
+   "filed": "2026-02-04",
+   "concept": "CashFlowsFromUsedInOperatingActivities",
+   "end": "2024-12-31",
+   "company": "Novo Nordisk",
+   "fiscal_year": 2024,
+   "field": "cfo"
+  },
+  {
+   "unit": "DKK",
+   "value": 15655000000,
+   "accession": "0000353278-26-000012",
+   "filed": "2026-02-04",
+   "concept": "CashAndCashEquivalents",
+   "end": "2024-12-31",
+   "company": "Novo Nordisk",
+   "fiscal_year": 2024,
+   "field": "cash"
+  },
+  {
+   "unit": "DKK",
+   "value": 309064000000,
+   "accession": "0000353278-26-000012",
+   "filed": "2026-02-04",
+   "concept": "Revenue",
+   "end": "2025-12-31",
+   "company": "Novo Nordisk",
+   "fiscal_year": 2025,
+   "field": "revenue"
+  },
+  {
+   "unit": "DKK",
+   "value": 127658000000,
+   "accession": "0000353278-26-000012",
+   "filed": "2026-02-04",
+   "concept": "ProfitLossFromOperatingActivities",
+   "end": "2025-12-31",
+   "company": "Novo Nordisk",
+   "fiscal_year": 2025,
+   "field": "operating_income"
+  },
+  {
+   "unit": "DKK",
+   "value": 102434000000,
+   "accession": "0000353278-26-000012",
+   "filed": "2026-02-04",
+   "concept": "ProfitLoss",
+   "end": "2025-12-31",
+   "company": "Novo Nordisk",
+   "fiscal_year": 2025,
+   "field": "net_income"
+  },
+  {
+   "unit": "DKK",
+   "value": 119102000000,
+   "accession": "0000353278-26-000012",
+   "filed": "2026-02-04",
+   "concept": "CashFlowsFromUsedInOperatingActivities",
+   "end": "2025-12-31",
+   "company": "Novo Nordisk",
+   "fiscal_year": 2025,
+   "field": "cfo"
+  },
+  {
+   "unit": "DKK",
+   "value": 26464000000,
+   "accession": "0000353278-26-000012",
+   "filed": "2026-02-04",
+   "concept": "CashAndCashEquivalents",
+   "end": "2025-12-31",
+   "company": "Novo Nordisk",
+   "fiscal_year": 2025,
+   "field": "cash"
+  }
+ ]
+}

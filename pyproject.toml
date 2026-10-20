@@ -1,0 +1,58 @@
+[build-system]
+requires = ["hatchling>=1.27"]
+build-backend = "hatchling.build"
+
+[project]
+name = "pharma-valuation-explorer"
+version = "0.1.0"
+description = "Traceable public financials, comparable-company metrics and a transparent DCF for three pharmaceutical companies"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { file = "LICENSE" }
+authors = [{ name = "David Lindgreen" }]
+keywords = ["valuation", "dcf", "financial-statement-analysis", "ifrs", "pharmaceuticals"]
+dependencies = []
+
+[project.optional-dependencies]
+build = ["openpyxl>=3.1"]
+dev = [
+  "build>=1.2",
+  "hatchling>=1.27",
+  "mypy>=1.13,<3",
+  "openpyxl>=3.1",
+  "pytest>=8.3",
+  "pytest-cov>=6.0",
+  "ruff>=0.8",
+]
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/pharma_valuation"]
+
+[tool.pytest.ini_options]
+addopts = "--strict-markers --strict-config --cov=pharma_valuation --cov-report=term-missing --cov-fail-under=90"
+testpaths = ["tests"]
+pythonpath = ["src", "scripts"]
+
+[tool.coverage.run]
+branch = true
+
+[tool.coverage.report]
+show_missing = true
+skip_covered = true
+exclude_also = ["if __name__ == .__main__.:"]
+
+[tool.ruff]
+line-length = 120
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "N", "UP", "B", "SIM", "RUF"]
+ignore = ["E501"]
+
+[tool.ruff.lint.per-file-ignores]
+"scripts/build_workbook.py" = ["N803"]
+
+[tool.mypy]
+python_version = "3.10"
+strict = true
+packages = ["pharma_valuation"]

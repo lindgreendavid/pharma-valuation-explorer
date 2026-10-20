@@ -1,0 +1,4160 @@
+[
+ {
+  "company": "Novo Nordisk",
+  "fiscal_year": 2025,
+  "page": "R1.htm",
+  "purpose": "cover page",
+  "url": "https://www.sec.gov/Archives/edgar/data/353278/000035327826000012/R1.htm",
+  "title": "Cover",
+  "sha256": "e75233491e07f7d89aa0b0a612549a35e53c7b1f43b789ae7aa7880b1731cb23",
+  "headers": [
+   "Dec. 31, 2025 shares"
+  ],
+  "rows": [
+   {
+    "label": "Document Information [Line Items]",
+    "values": [
+     ""
+    ]
+   },
+   {
+    "label": "Document Type",
+    "values": [
+     "20-F"
+    ]
+   },
+   {
+    "label": "Document Registration Statement",
+    "values": [
+     "false"
+    ]
+   },
+   {
+    "label": "Document Annual Report",
+    "values": [
+     "true"
+    ]
+   },
+   {
+    "label": "Document Period End Date",
+    "values": [
+     "Dec. 31, 2025"
+    ]
+   },
+   {
+    "label": "Current Fiscal Year End Date",
+    "values": [
+     "--12-31"
+    ]
+   },
+   {
+    "label": "Document Transition Report",
+    "values": [
+     "false"
+    ]
+   },
+   {
+    "label": "Document Shell Company Report",
+    "values": [
+     "false"
+    ]
+   },
+   {
+    "label": "Entity File Number",
+    "values": [
+     "333-82318"
+    ]
+   },
+   {
+    "label": "Entity Registrant Name",
+    "values": [
+     "NOVO NORDISK A/S"
+    ]
+   },
+   {
+    "label": "Entity Incorporation, State or Country Code",
+    "values": [
+     "G7"
+    ]
+   },
+   {
+    "label": "Entity Address, Address Line One",
+    "values": [
+     "Novo Alle 1"
+    ]
+   },
+   {
+    "label": "Entity Address, Postal Zip Code",
+    "values": [
+     "DK-2880"
+    ]
+   },
+   {
+    "label": "Entity Address, City or Town",
+    "values": [
+     "Bagsværd"
+    ]
+   },
+   {
+    "label": "Entity Address, Country",
+    "values": [
+     "DK"
+    ]
+   },
+   {
+    "label": "Entity Well-known Seasoned Issuer",
+    "values": [
+     "Yes"
+    ]
+   },
+   {
+    "label": "Entity Voluntary Filers",
+    "values": [
+     "No"
+    ]
+   },
+   {
+    "label": "Entity Current Reporting Status",
+    "values": [
+     "Yes"
+    ]
+   },
+   {
+    "label": "Entity Interactive Data Current",
+    "values": [
+     "Yes"
+    ]
+   },
+   {
+    "label": "Entity Filer Category",
+    "values": [
+     "Large Accelerated Filer"
+    ]
+   },
+   {
+    "label": "Entity Emerging Growth Company",
+    "values": [
+     "false"
+    ]
+   },
+   {
+    "label": "ICFR Auditor Attestation Flag",
+    "values": [
+     "true"
+    ]
+   },
+   {
+    "label": "Document Financial Statement Error Correction [Flag]",
+    "values": [
+     "false"
+    ]
+   },
+   {
+    "label": "Document Accounting Standard",
+    "values": [
+     "International Financial Reporting Standards"
+    ]
+   },
+   {
+    "label": "Entity Shell Company",
+    "values": [
+     "false"
+    ]
+   },
+   {
+    "label": "Amendment Flag",
+    "values": [
+     "false"
+    ]
+   },
+   {
+    "label": "Entity Central Index Key",
+    "values": [
+     "0000353278"
+    ]
+   },
+   {
+    "label": "Document Fiscal Period Focus",
+    "values": [
+     "FY"
+    ]
+   },
+   {
+    "label": "Document Fiscal Year Focus",
+    "values": [
+     "2025"
+    ]
+   },
+   {
+    "label": "B shares",
+    "values": [
+     ""
+    ]
+   },
+   {
+    "label": "Document Information [Line Items]",
+    "values": [
+     ""
+    ]
+   },
+   {
+    "label": "Title of 12(b) Security",
+    "values": [
+     "B shares, nominal value DKK 0.10 each"
+    ]
+   },
+   {
+    "label": "Security Exchange Name",
+    "values": [
+     "NYSE"
+    ]
+   },
+   {
+    "label": "Entity Common Stock, Shares Outstanding",
+    "values": [
+     "3,390,128,000"
+    ]
+   },
+   {
+    "label": "No Trading Symbol Flag",
+    "values": [
+     "true"
+    ]
+   },
+   {
+    "label": "American Depositary Receipts",
+    "values": [
+     ""
+    ]
+   },
+   {
+    "label": "Document Information [Line Items]",
+    "values": [
+     ""
+    ]
+   },
+   {
+    "label": "Title of 12(b) Security",
+    "values": [
+     "American Depositary Receipts, each representing one B Share"
+    ]
+   },
+   {
+    "label": "Trading Symbol",
+    "values": [
+     "NVO"
+    ]
+   },
+   {
+    "label": "Security Exchange Name",
+    "values": [
+     "NYSE"
+    ]
+   },
+   {
+    "label": "A shares",
+    "values": [
+     ""
+    ]
+   },
+   {
+    "label": "Document Information [Line Items]",
+    "values": [
+     ""
+    ]
+   },
+   {
+    "label": "Entity Common Stock, Shares Outstanding",
+    "values": [
+     "1,074,872,000"
+    ]
+   },
+   {
+    "label": "Business Contact",
+    "values": [
+     ""
+    ]
+   },
+   {
+    "label": "Document Information [Line Items]",
+    "values": [
+     ""
+    ]
+   },
+   {
+    "label": "Entity Address, Address Line One",
+    "values": [
+     "Novo Alle 1"
+    ]
+   },
+   {
+    "label": "Entity Address, Postal Zip Code",
+    "values": [
+     "DK-2880"
+    ]
+   },
+   {
+    "label": "Entity Address, City or Town",
+    "values": [
+     "Bagsværd"
+    ]
+   },
+   {
+    "label": "Entity Address, Country",
+    "values": [
+     "DK"
+    ]
+   },
+   {
+    "label": "Contact Personnel Name",
+    "values": [
+     "Karsten Munk Knudsen"
+    ]
+   },
+   {
+    "label": "Country Region",
+    "values": [
+     "45"
+    ]
+   },
+   {
+    "label": "Local Phone Number",
+    "values": [
+     "4444 8888"
+    ]
+   },
+   {
+    "label": "Contact Personnel Email Address",
+    "values": [
+     "kmkn@novonordisk.com"
+    ]
+   }
+  ]
+ },
+ {
+  "company": "Novo Nordisk",
+  "fiscal_year": 2024,
+  "page": "R1.htm",
+  "purpose": "cover page",
+  "url": "https://www.sec.gov/Archives/edgar/data/353278/000162828025003920/R1.htm",
+  "title": "Cover",
+  "sha256": "4620bec2826eee26979729991f0176104274a2235e9f5554f27d00c4c2eefa40",
+  "headers": [
+   "Dec. 31, 2024 shares"
+  ],
+  "rows": [
+   {
+    "label": "Document Information [Line Items]",
+    "values": [
+     ""
+    ]
+   },
+   {
+    "label": "Document Type",
+    "values": [
+     "20-F"
+    ]
+   },
+   {
+    "label": "Document Registration Statement",
+    "values": [
+     "false"
+    ]
+   },
+   {
+    "label": "Document Annual Report",
+    "values": [
+     "true"
+    ]
+   },
+   {
+    "label": "Document Period End Date",
+    "values": [
+     "Dec. 31, 2024"
+    ]
+   },
+   {
+    "label": "Current Fiscal Year End Date",
+    "values": [
+     "--12-31"
+    ]
+   },
+   {
+    "label": "Document Transition Report",
+    "values": [
+     "false"
+    ]
+   },
+   {
+    "label": "Document Shell Company Report",
+    "values": [
+     "false"
+    ]
+   },
+   {
+    "label": "Entity File Number",
+    "values": [
+     "333-82318"
+    ]
+   },
+   {
+    "label": "Entity Registrant Name",
+    "values": [
+     "NOVO NORDISK A/S"
+    ]
+   },
+   {
+    "label": "Entity Incorporation, State or Country Code",
+    "values": [
+     "G7"
+    ]
+   },
+   {
+    "label": "Entity Address, Address Line One",
+    "values": [
+     "Novo Alle 1"
+    ]
+   },
+   {
+    "label": "Entity Address, Postal Zip Code",
+    "values": [
+     "DK-2880"
+    ]
+   },
+   {
+    "label": "Entity Address, City or Town",
+    "values": [
+     "Bagsværd"
+    ]
+   },
+   {
+    "label": "Entity Address, Country",
+    "values": [
+     "DK"
+    ]
+   },
+   {
+    "label": "Entity Well-known Seasoned Issuer",
+    "values": [
+     "Yes"
+    ]
+   },
+   {
+    "label": "Entity Voluntary Filers",
+    "values": [
+     "No"
+    ]
+   },
+   {
+    "label": "Entity Current Reporting Status",
+    "values": [
+     "Yes"
+    ]
+   },
+   {
+    "label": "Entity Interactive Data Current",
+    "values": [
+     "Yes"
+    ]
+   },
+   {
+    "label": "Entity Filer Category",
+    "values": [
+     "Large Accelerated Filer"
+    ]
+   },
+   {
+    "label": "Entity Emerging Growth Company",
+    "values": [
+     "false"
+    ]
+   },
+   {
+    "label": "ICFR Auditor Attestation Flag",
+    "values": [
+     "true"
+    ]
+   },
+   {
+    "label": "Document Financial Statement Error Correction [Flag]",
+    "values": [
+     "false"
+    ]
+   },
+   {
+    "label": "Document Accounting Standard",
+    "values": [
+     "International Financial Reporting Standards"
+    ]
+   },
+   {
+    "label": "Entity Shell Company",
+    "values": [
+     "false"
+    ]
+   },
+   {
+    "label": "Amendment Flag",
+    "values": [
+     "false"
+    ]
+   },
+   {
+    "label": "Entity Central Index Key",
+    "values": [
+     "0000353278"
+    ]
+   },
+   {
+    "label": "Document Fiscal Period Focus",
+    "values": [
+     "FY"
+    ]
+   },
+   {
+    "label": "Document Fiscal Year Focus",
+    "values": [
+     "2024"
+    ]
+   },
+   {
+    "label": "B shares",
+    "values": [
+     ""
+    ]
+   },
+   {
+    "label": "Document Information [Line Items]",
+    "values": [
+     ""
+    ]
+   },
+   {
+    "label": "Title of 12(b) Security",
+    "values": [
+     "B shares, nominal value DKK 0.10 each"
+    ]
+   },
+   {
+    "label": "Security Exchange Name",
+    "values": [
+     "NYSE"
+    ]
+   },
+   {
+    "label": "Entity Common Stock, Shares Outstanding",
+    "values": [
+     "3,390,128,000"
+    ]
+   },
+   {
+    "label": "No Trading Symbol Flag",
+    "values": [
+     "true"
+    ]
+   },
+   {
+    "label": "American Depositary Receipts",
+    "values": [
+     ""
+    ]
+   },
+   {
+    "label": "Document Information [Line Items]",
+    "values": [
+     ""
+    ]
+   },
+   {
+    "label": "Title of 12(b) Security",
+    "values": [
+     "American Depositary Receipts, each representing one B Share"
+    ]
+   },
+   {
+    "label": "Trading Symbol",
+    "values": [
+     "NVO"
+    ]
+   },
+   {
+    "label": "Security Exchange Name",
+    "values": [
+     "NYSE"
+    ]
+   },
+   {
+    "label": "A shares",
+    "values": [
+     ""
+    ]
+   },
+   {
+    "label": "Document Information [Line Items]",
+    "values": [
+     ""
+    ]
+   },
+   {
+    "label": "Entity Common Stock, Shares Outstanding",
+    "values": [
+     "1,074,872,000"
+    ]
+   },
+   {
+    "label": "Business Contact",
+    "values": [
+     ""
+    ]
+   },
+   {
+    "label": "Document Information [Line Items]",
+    "values": [
+     ""
+    ]
+   },
+   {
+    "label": "Entity Address, Address Line One",
+    "values": [
+     "Novo Alle 1"
+    ]
+   },
+   {
+    "label": "Entity Address, Postal Zip Code",
+    "values": [
+     "DK-2880"
+    ]
+   },
+   {
+    "label": "Entity Address, City or Town",
+    "values": [
+     "Bagsværd"
+    ]
+   },
+   {
+    "label": "Entity Address, Country",
+    "values": [
+     "DK"
+    ]
+   },
+   {
+    "label": "Contact Personnel Name",
+    "values": [
+     "Karsten Munk Knudsen"
+    ]
+   },
+   {
+    "label": "Country Region",
+    "values": [
+     "45"
+    ]
+   },
+   {
+    "label": "Local Phone Number",
+    "values": [
+     "4444 8888"
+    ]
+   },
+   {
+    "label": "Contact Personnel Email Address",
+    "values": [
+     "kmkn@novonordisk.com"
+    ]
+   }
+  ]
+ },
+ {
+  "company": "Novartis",
+  "fiscal_year": 2025,
+  "page": "R1.htm",
+  "purpose": "cover page",
+  "url": "https://www.sec.gov/Archives/edgar/data/1114448/000111444826000004/R1.htm",
+  "title": "Document and Entity Information",
+  "sha256": "4f6b096ce6cc644e8af889319a0f64e785920dff992b346d7d64490b3d3a4e79",
+  "headers": [
+   "Dec. 31, 2025 shares"
+  ],
+  "rows": [
+   {
+    "label": "Document Information [Line Items]",
+    "values": [
+     ""
+    ]
+   },
+   {
+    "label": "Document Type",
+    "values": [
+     "20-F"
+    ]
+   },
+   {
+    "label": "Amendment Flag",
+    "values": [
+     "false"
+    ]
+   },
+   {
+    "label": "Document Financial Statement Error Correction [Flag]",
+    "values": [
+     "false"
+    ]
+   },
+   {
+    "label": "Document Annual Report",
+    "values": [
+     "true"
+    ]
+   },
+   {
+    "label": "Document Transition Report",
+    "values": [
+     "false"
+    ]
+   },
+   {
+    "label": "Document Shell Company Report",
+    "values": [
+     "false"
+    ]
+   },
+   {
+    "label": "Document Period End Date",
+    "values": [
+     "Dec. 31, 2025"
+    ]
+   },
+   {
+    "label": "Document Fiscal Year Focus",
+    "values": [
+     "2025"
+    ]
+   },
+   {
+    "label": "Document Fiscal Period Focus",
+    "values": [
+     "FY"
+    ]
+   },
+   {
+    "label": "Entity Registrant Name",
+    "values": [
+     "Novartis AG"
+    ]
+   },
+   {
+    "label": "Entity Central Index Key",
+    "values": [
+     "0001114448"
+    ]
+   },
+   {
+    "label": "Current Fiscal Year End Date",
+    "values": [
+     "--12-31"
+    ]
+   },
+   {
+    "label": "Entity Well-known Seasoned Issuer",
+    "values": [
+     "Yes"
+    ]
+   },
+   {
+    "label": "Entity Current Reporting Status",
+    "values": [
+     "Yes"
+    ]
+   },
+   {
+    "label": "Entity Voluntary Filers",
+    "values": [
+     "No"
+    ]
+   },
+   {
+    "label": "Entity Filer Category",
+    "values": [
+     "Large Accelerated Filer"
+    ]
+   },
+   {
+    "label": "Entity Common Stock, Shares Outstanding",
+    "values": [
+     "1,908,151,679"
+    ]
+   },
+   {
+    "label": "Entity Shell Company",
+    "values": [
+     "false"
+    ]
+   },
+   {
+    "label": "Entity Emerging Growth Company",
+    "values": [
+     "false"
+    ]
+   },
+   {
+    "label": "Entity Interactive Data Current",
+    "values": [
+     "Yes"
+    ]
+   },
+   {
+    "label": "ICFR Auditor Attestation Flag",
+    "values": [
+     "true"
+    ]
+   },
+   {
+    "label": "Auditor Name",
+    "values": [
+     "KPMG AG"
+    ]
+   },
+   {
+    "label": "Auditor Location",
+    "values": [
+     "Basel, Switzerland"
+    ]
+   },
+   {
+    "label": "Auditor Firm ID",
+    "values": [
+     "3240"
+    ]
+   },
+   {
+    "label": "Entity File Number",
+    "values": [
+     "1-15024"
+    ]
+   },
+   {
+    "label": "Entity Incorporation, State or Country Code",
+    "values": [
+     "V8"
+    ]
+   },
+   {
+    "label": "Entity Address, Address Line One",
+    "values": [
+     "Lichtstrasse 35"
+    ]
+   },
+   {
+    "label": "Entity Address, City or Town",
+    "values": [
+     "Basel"
+    ]
+   },
+   {
+    "label": "Entity Address, Postal Zip Code",
+    "values": [
+     "4056"
+    ]
+   },
+   {
+    "label": "Entity Address, Country",
+    "values": [
+     "CH"
+    ]
+   },
+   {
+    "label": "Document Registration Statement",
+    "values": [
+     "false"
+    ]
+   },
+   {
+    "label": "Document Accounting Standard",
+    "values": [
+     "International Financial Reporting Standards"
+    ]
+   },
+   {
+    "label": "American Depositary Shares each representing 1 share",
+    "values": [
+     ""
+    ]
+   },
+   {
+    "label": "Document Information [Line Items]",
+    "values": [
+     ""
+    ]
+   },
+   {
+    "label": "Title of 12(b) Security",
+    "values": [
+     "American Depositary Shares each representing 1 share"
+    ]
+   },
+   {
+    "label": "Trading Symbol",
+    "values": [
+     "NVS"
+    ]
+   },
+   {
+    "label": "Security Exchange Name",
+    "values": [
+     "NYSE"
+    ]
+   },
+   {
+    "label": "Ordinary shares, nominal value CHF 0.49 per share*",
+    "values": [
+     ""
+    ]
+   },
+   {
+    "label": "Document Information [Line Items]",
+    "values": [
+     ""
+    ]
+   },
+   {
+    "label": "Title of 12(b) Security",
+    "values": [
+     "Ordinary shares, nominal value CHF 0.49 per share"
+    ]
+   },
+   {
+    "label": "Trading Symbol",
+    "values": [
+     "NOVN"
+    ]
+   },
+   {
+    "label": "Business Contact [Member]",
+    "values": [
+     ""
+    ]
+   },
+   {
+    "label": "Document Information [Line Items]",
+    "values": [
+     ""
+    ]
+   },
+   {
+    "label": "Entity Address, Address Line One",
+    "values": [
+     "Lichtstrasse 35"
+    ]
+   },
+   {
+    "label": "Entity Address, City or Town",
+    "values": [
+     "Basel"
+    ]
+   },
+   {
+    "label": "Entity Address, Postal Zip Code",
+    "values": [
+     "4056"
+    ]
+   },
+   {
+    "label": "Entity Address, Country",
+    "values": [
+     "CH"
+    ]
+   },
+   {
+    "label": "Contact Personnel Name",
+    "values": [
+     "Karen L. Hale"
+    ]
+   },
+   {
+    "label": "Country Region",
+    "values": [
+     "41"
+    ]
+   },
+   {
+    "label": "City Area Code",
+    "values": [
+     "61"
+    ]
+   },
+   {
+    "label": "Local Phone Number",
+    "values": [
+     "324-1111"
+    ]
+   },
+   {
+    "label": "Contact Personnel Fax Number",
+    "values": [
+     "324-7826"
+    ]
+   }
+  ]
+ },
+ {
+  "company": "Novartis",
+  "fiscal_year": 2024,
+  "page": "R1.htm",
+  "purpose": "cover page",
+  "url": "https://www.sec.gov/Archives/edgar/data/1114448/000137036825000004/R1.htm",
+  "title": "Document and Entity Information",
+  "sha256": "8211cced075020bd6e8c13397902bfa7e17d560cab21f3ac7398a55a10cdb6f8",
+  "headers": [
+   "Dec. 31, 2024 shares"
+  ],
+  "rows": [
+   {
+    "label": "Document Information [Line Items]",
+    "values": [
+     ""
+    ]
+   },
+   {
+    "label": "Document Type",
+    "values": [
+     "20-F"
+    ]
+   },
+   {
+    "label": "Amendment Flag",
+    "values": [
+     "false"
+    ]
+   },
+   {
+    "label": "Document Financial Statement Error Correction [Flag]",
+    "values": [
+     "false"
+    ]
+   },
+   {
+    "label": "Document Annual Report",
+    "values": [
+     "true"
+    ]
+   },
+   {
+    "label": "Document Transition Report",
+    "values": [
+     "false"
+    ]
+   },
+   {
+    "label": "Document Shell Company Report",
+    "values": [
+     "false"
+    ]
+   },
+   {
+    "label": "Document Period End Date",
+    "values": [
+     "Dec. 31, 2024"
+    ]
+   },
+   {
+    "label": "Document Fiscal Year Focus",
+    "values": [
+     "2024"
+    ]
+   },
+   {
+    "label": "Document Fiscal Period Focus",
+    "values": [
+     "FY"
+    ]
+   },
+   {
+    "label": "Entity Registrant Name",
+    "values": [
+     "Novartis AG"
+    ]
+   },
+   {
+    "label": "Entity Central Index Key",
+    "values": [
+     "0001114448"
+    ]
+   },
+   {
+    "label": "Current Fiscal Year End Date",
+    "values": [
+     "--12-31"
+    ]
+   },
+   {
+    "label": "Entity Well-known Seasoned Issuer",
+    "values": [
+     "Yes"
+    ]
+   },
+   {
+    "label": "Entity Current Reporting Status",
+    "values": [
+     "Yes"
+    ]
+   },
+   {
+    "label": "Entity Voluntary Filers",
+    "values": [
+     "No"
+    ]
+   },
+   {
+    "label": "Entity Filer Category",
+    "values": [
+     "Large Accelerated Filer"
+    ]
+   },
+   {
+    "label": "Entity Common Stock, Shares Outstanding",
+    "values": [
+     "1,975,089,248"
+    ]
+   },
+   {
+    "label": "Entity Shell Company",
+    "values": [
+     "false"
+    ]
+   },
+   {
+    "label": "Entity Emerging Growth Company",
+    "values": [
+     "false"
+    ]
+   },
+   {
+    "label": "Entity Interactive Data Current",
+    "values": [
+     "Yes"
+    ]
+   },
+   {
+    "label": "ICFR Auditor Attestation Flag",
+    "values": [
+     "true"
+    ]
+   },
+   {
+    "label": "Auditor Name",
+    "values": [
+     "KPMG AG"
+    ]
+   },
+   {
+    "label": "Auditor Location",
+    "values": [
+     "Basel, Switzerland"
+    ]
+   },
+   {
+    "label": "Auditor Firm ID",
+    "values": [
+     "3240"
+    ]
+   },
+   {
+    "label": "Entity File Number",
+    "values": [
+     "1-15024"
+    ]
+   },
+   {
+    "label": "Entity Incorporation, State or Country Code",
+    "values": [
+     "V8"
+    ]
+   },
+   {
+    "label": "Entity Address, Address Line One",
+    "values": [
+     "Lichtstrasse 35"
+    ]
+   },
+   {
+    "label": "Entity Address, City or Town",
+    "values": [
+     "Basel"
+    ]
+   },
+   {
+    "label": "Entity Address, Postal Zip Code",
+    "values": [
+     "4056"
+    ]
+   },
+   {
+    "label": "Entity Address, Country",
+    "values": [
+     "CH"
+    ]
+   },
+   {
+    "label": "Document Registration Statement",
+    "values": [
+     "false"
+    ]
+   },
+   {
+    "label": "Document Accounting Standard",
+    "values": [
+     "International Financial Reporting Standards"
+    ]
+   },
+   {
+    "label": "American Depositary Shares each representing 1 share",
+    "values": [
+     ""
+    ]
+   },
+   {
+    "label": "Document Information [Line Items]",
+    "values": [
+     ""
+    ]
+   },
+   {
+    "label": "Title of 12(b) Security",
+    "values": [
+     "American Depositary Shares each representing 1 share"
+    ]
+   },
+   {
+    "label": "Trading Symbol",
+    "values": [
+     "NVS"
+    ]
+   },
+   {
+    "label": "Security Exchange Name",
+    "values": [
+     "NYSE"
+    ]
+   },
+   {
+    "label": "Ordinary shares, nominal value CHF 0.49 per share*",
+    "values": [
+     ""
+    ]
+   },
+   {
+    "label": "Document Information [Line Items]",
+    "values": [
+     ""
+    ]
+   },
+   {
+    "label": "Title of 12(b) Security",
+    "values": [
+     "Ordinary shares, nominal value CHF 0.49 per share"
+    ]
+   },
+   {
+    "label": "Trading Symbol",
+    "values": [
+     "NOVN"
+    ]
+   },
+   {
+    "label": "Business Contact [Member]",
+    "values": [
+     ""
+    ]
+   },
+   {
+    "label": "Document Information [Line Items]",
+    "values": [
+     ""
+    ]
+   },
+   {
+    "label": "Entity Address, Address Line One",
+    "values": [
+     "Lichtstrasse 35"
+    ]
+   },
+   {
+    "label": "Entity Address, City or Town",
+    "values": [
+     "Basel"
+    ]
+   },
+   {
+    "label": "Entity Address, Postal Zip Code",
+    "values": [
+     "4056"
+    ]
+   },
+   {
+    "label": "Entity Address, Country",
+    "values": [
+     "CH"
+    ]
+   },
+   {
+    "label": "Contact Personnel Name",
+    "values": [
+     "Karen L. Hale"
+    ]
+   },
+   {
+    "label": "Country Region",
+    "values": [
+     "41"
+    ]
+   },
+   {
+    "label": "City Area Code",
+    "values": [
+     "61"
+    ]
+   },
+   {
+    "label": "Local Phone Number",
+    "values": [
+     "324-1111"
+    ]
+   },
+   {
+    "label": "Contact Personnel Fax Number",
+    "values": [
+     "324-7826"
+    ]
+   }
+  ]
+ },
+ {
+  "company": "GSK",
+  "fiscal_year": 2025,
+  "page": "R1.htm",
+  "purpose": "cover page",
+  "url": "https://www.sec.gov/Archives/edgar/data/1131399/000113139926000004/R1.htm",
+  "title": "Cover Page",
+  "sha256": "79000569799eae139b0cf54eac3446fff12a32aeb726e5b83023581184544801",
+  "headers": [
+   "Dec. 31, 2025 shares"
+  ],
+  "rows": [
+   {
+    "label": "Document Information [Line Items]",
+    "values": [
+     ""
+    ]
+   },
+   {
+    "label": "Document Type",
+    "values": [
+     "20-F"
+    ]
+   },
+   {
+    "label": "Document Registration Statement",
+    "values": [
+     "false"
+    ]
+   },
+   {
+    "label": "Document Annual Report",
+    "values": [
+     "true"
+    ]
+   },
+   {
+    "label": "Document Period End Date",
+    "values": [
+     "Dec. 31, 2025"
+    ]
+   },
+   {
+    "label": "Current Fiscal Year End Date",
+    "values": [
+     "--12-31"
+    ]
+   },
+   {
+    "label": "Document Fiscal Year Focus",
+    "values": [
+     "2025"
+    ]
+   },
+   {
+    "label": "Document Transition Report",
+    "values": [
+     "false"
+    ]
+   },
+   {
+    "label": "Document Shell Company Report",
+    "values": [
+     "false"
+    ]
+   },
+   {
+    "label": "Entity File Number",
+    "values": [
+     "1-15170"
+    ]
+   },
+   {
+    "label": "Entity Registrant Name",
+    "values": [
+     "GSK plc"
+    ]
+   },
+   {
+    "label": "Entity Incorporation, State or Country Code",
+    "values": [
+     "X0"
+    ]
+   },
+   {
+    "label": "Entity Address, Address Line One",
+    "values": [
+     "79 New Oxford Street"
+    ]
+   },
+   {
+    "label": "Entity Address, City or Town",
+    "values": [
+     "London"
+    ]
+   },
+   {
+    "label": "Entity Address, Postal Zip Code",
+    "values": [
+     "WC1A 1DG"
+    ]
+   },
+   {
+    "label": "Entity Address, Country",
+    "values": [
+     "GB"
+    ]
+   },
+   {
+    "label": "Entity Common Stock, Shares Outstanding",
+    "values": [
+     "4,315,445,026"
+    ]
+   },
+   {
+    "label": "Entity Well-known Seasoned Issuer",
+    "values": [
+     "Yes"
+    ]
+   },
+   {
+    "label": "Entity Voluntary Filers",
+    "values": [
+     "No"
+    ]
+   },
+   {
+    "label": "Entity Current Reporting Status",
+    "values": [
+     "Yes"
+    ]
+   },
+   {
+    "label": "Entity Interactive Data Current",
+    "values": [
+     "Yes"
+    ]
+   },
+   {
+    "label": "Entity Filer Category",
+    "values": [
+     "Large Accelerated Filer"
+    ]
+   },
+   {
+    "label": "Entity Emerging Growth Company",
+    "values": [
+     "false"
+    ]
+   },
+   {
+    "label": "ICFR Auditor Attestation Flag",
+    "values": [
+     "true"
+    ]
+   },
+   {
+    "label": "Document Financial Statement Error Correction [Flag]",
+    "values": [
+     "false"
+    ]
+   },
+   {
+    "label": "Document Accounting Standard",
+    "values": [
+     "International Financial Reporting Standards"
+    ]
+   },
+   {
+    "label": "Entity Shell Company",
+    "values": [
+     "false"
+    ]
+   },
+   {
+    "label": "Amendment Flag",
+    "values": [
+     "false"
+    ]
+   },
+   {
+    "label": "Document Fiscal Period Focus",
+    "values": [
+     "FY"
+    ]
+   },
+   {
+    "label": "Entity Central Index Key",
+    "values": [
+     "0001131399"
+    ]
+   },
+   {
+    "label": "American Depositary Shares",
+    "values": [
+     ""
+    ]
+   },
+   {
+    "label": "Document Information [Line Items]",
+    "values": [
+     ""
+    ]
+   },
+   {
+    "label": "Title of 12(b) Security",
+    "values": [
+     "American Depositary Shares"
+    ]
+   },
+   {
+    "label": "Trading Symbol",
+    "values": [
+     "GSK"
+    ]
+   },
+   {
+    "label": "Security Exchange Name",
+    "values": [
+     "NYSE"
+    ]
+   },
+   {
+    "label": "4.315% Notes due 2027",
+    "values": [
+     ""
+    ]
+   },
+   {
+    "label": "Document Information [Line Items]",
+    "values": [
+     ""
+    ]
+   },
+   {
+    "label": "Title of 12(b) Security",
+    "values": [
+     "4.315% Notes due 2027"
+    ]
+   },
+   {
+    "label": "Trading Symbol",
+    "values": [
+     "GSK/27"
+    ]
+   },
+   {
+    "label": "Security Exchange Name",
+    "values": [
+     "NYSE"
+    ]
+   },
+   {
+    "label": "Floating Rate Notes due 2027",
+    "values": [
+     ""
+    ]
+   },
+   {
+    "label": "Document Information [Line Items]",
+    "values": [
+     ""
+    ]
+   },
+   {
+    "label": "Title of 12(b) Security",
+    "values": [
+     "Floating Rate Notes due 2027"
+    ]
+   },
+   {
+    "label": "Trading Symbol",
+    "values": [
+     "GSK/27A"
+    ]
+   },
+   {
+    "label": "Security Exchange Name",
+    "values": [
+     "NYSE"
+    ]
+   },
+   {
+    "label": "3.875% Notes due 2028",
+    "values": [
+     ""
+    ]
+   },
+   {
+    "label": "Document Information [Line Items]",
+    "values": [
+     ""
+    ]
+   },
+   {
+    "label": "Title of 12(b) Security",
+    "values": [
+     "3.875% Notes due 2028"
+    ]
+   },
+   {
+    "label": "Trading Symbol",
+    "values": [
+     "GSK/28"
+    ]
+   },
+   {
+    "label": "Security Exchange Name",
+    "values": [
+     "NYSE"
+    ]
+   },
+   {
+    "label": "3.375% Notes due 2029",
+    "values": [
+     ""
+    ]
+   },
+   {
+    "label": "Document Information [Line Items]",
+    "values": [
+     ""
+    ]
+   },
+   {
+    "label": "Title of 12(b) Security",
+    "values": [
+     "3.375% Notes due 2029"
+    ]
+   },
+   {
+    "label": "Trading Symbol",
+    "values": [
+     "GSK/29"
+    ]
+   },
+   {
+    "label": "Security Exchange Name",
+    "values": [
+     "NYSE"
+    ]
+   },
+   {
+    "label": "4.500% Notes due 2030",
+    "values": [
+     ""
+    ]
+   },
+   {
+    "label": "Document Information [Line Items]",
+    "values": [
+     ""
+    ]
+   },
+   {
+    "label": "Title of 12(b) Security",
+    "values": [
+     "4.500% Notes due 2030"
+    ]
+   },
+   {
+    "label": "Trading Symbol",
+    "values": [
+     "GSK/30"
+    ]
+   },
+   {
+    "label": "Security Exchange Name",
+    "values": [
+     "NYSE"
+    ]
+   },
+   {
+    "label": "4.875% Notes due 2035",
+    "values": [
+     ""
+    ]
+   },
+   {
+    "label": "Document Information [Line Items]",
+    "values": [
+     ""
+    ]
+   },
+   {
+    "label": "Title of 12(b) Security",
+    "values": [
+     "4.875% Notes due 2035"
+    ]
+   },
+   {
+    "label": "Trading Symbol",
+    "values": [
+     "GSK/35"
+    ]
+   },
+   {
+    "label": "Security Exchange Name",
+    "values": [
+     "NYSE"
+    ]
+   },
+   {
+    "label": "6.375% Notes due 2038",
+    "values": [
+     ""
+    ]
+   },
+   {
+    "label": "Document Information [Line Items]",
+    "values": [
+     ""
+    ]
+   },
+   {
+    "label": "Title of 12(b) Security",
+    "values": [
+     "6.375% Notes due 2038"
+    ]
+   },
+   {
+    "label": "Trading Symbol",
+    "values": [
+     "GSK/38"
+    ]
+   },
+   {
+    "label": "Security Exchange Name",
+    "values": [
+     "NYSE"
+    ]
+   },
+   {
+    "label": "4.200% Notes due 2043",
+    "values": [
+     ""
+    ]
+   },
+   {
+    "label": "Document Information [Line Items]",
+    "values": [
+     ""
+    ]
+   },
+   {
+    "label": "Title of 12(b) Security",
+    "values": [
+     "4.200% Notes due 2043"
+    ]
+   },
+   {
+    "label": "Trading Symbol",
+    "values": [
+     "GSK/43"
+    ]
+   },
+   {
+    "label": "Security Exchange Name",
+    "values": [
+     "NYSE"
+    ]
+   },
+   {
+    "label": "Business Contact",
+    "values": [
+     ""
+    ]
+   },
+   {
+    "label": "Document Information [Line Items]",
+    "values": [
+     ""
+    ]
+   },
+   {
+    "label": "Entity Address, Address Line One",
+    "values": [
+     "79 New Oxford Street"
+    ]
+   },
+   {
+    "label": "Entity Address, City or Town",
+    "values": [
+     "London"
+    ]
+   },
+   {
+    "label": "Entity Address, Postal Zip Code",
+    "values": [
+     "WC1A 1DG"
+    ]
+   },
+   {
+    "label": "Entity Address, Country",
+    "values": [
+     "GB"
+    ]
+   },
+   {
+    "label": "Contact Personnel Name",
+    "values": [
+     "Victoria Whyte"
+    ]
+   },
+   {
+    "label": "City Area Code",
+    "values": [
+     "44 20"
+    ]
+   },
+   {
+    "label": "Local Phone Number",
+    "values": [
+     "8047 5000"
+    ]
+   },
+   {
+    "label": "Contact Personnel Email Address",
+    "values": [
+     "company.secretary@gsk.com"
+    ]
+   }
+  ]
+ },
+ {
+  "company": "GSK",
+  "fiscal_year": 2024,
+  "page": "R1.htm",
+  "purpose": "cover page",
+  "url": "https://www.sec.gov/Archives/edgar/data/1131399/000113139925000007/R1.htm",
+  "title": "Cover Page",
+  "sha256": "d3e2fd510a5615fba16fa9b501e83255bc55f7a5d5cd295b9f730cdbc4adb733",
+  "headers": [
+   "Dec. 31, 2024 shares"
+  ],
+  "rows": [
+   {
+    "label": "Document Information [Line Items]",
+    "values": [
+     ""
+    ]
+   },
+   {
+    "label": "Document Type",
+    "values": [
+     "20-F"
+    ]
+   },
+   {
+    "label": "Document Registration Statement",
+    "values": [
+     "false"
+    ]
+   },
+   {
+    "label": "Document Annual Report",
+    "values": [
+     "true"
+    ]
+   },
+   {
+    "label": "Document Period End Date",
+    "values": [
+     "Dec. 31, 2024"
+    ]
+   },
+   {
+    "label": "Current Fiscal Year End Date",
+    "values": [
+     "--12-31"
+    ]
+   },
+   {
+    "label": "Document Fiscal Year Focus",
+    "values": [
+     "2024"
+    ]
+   },
+   {
+    "label": "Document Transition Report",
+    "values": [
+     "false"
+    ]
+   },
+   {
+    "label": "Document Shell Company Report",
+    "values": [
+     "false"
+    ]
+   },
+   {
+    "label": "Entity File Number",
+    "values": [
+     "1-15170"
+    ]
+   },
+   {
+    "label": "Entity Registrant Name",
+    "values": [
+     "GSK plc"
+    ]
+   },
+   {
+    "label": "Entity Incorporation, State or Country Code",
+    "values": [
+     "X0"
+    ]
+   },
+   {
+    "label": "Entity Address, Address Line One",
+    "values": [
+     "79 New Oxford Street"
+    ]
+   },
+   {
+    "label": "Entity Address, City or Town",
+    "values": [
+     "London"
+    ]
+   },
+   {
+    "label": "Entity Address, Postal Zip Code",
+    "values": [
+     "WC1A 1DG"
+    ]
+   },
+   {
+    "label": "Entity Address, Country",
+    "values": [
+     "GB"
+    ]
+   },
+   {
+    "label": "Entity Common Stock, Shares Outstanding",
+    "values": [
+     "4,314,303,734"
+    ]
+   },
+   {
+    "label": "Entity Well-known Seasoned Issuer",
+    "values": [
+     "Yes"
+    ]
+   },
+   {
+    "label": "Entity Voluntary Filers",
+    "values": [
+     "No"
+    ]
+   },
+   {
+    "label": "Entity Current Reporting Status",
+    "values": [
+     "Yes"
+    ]
+   },
+   {
+    "label": "Entity Interactive Data Current",
+    "values": [
+     "Yes"
+    ]
+   },
+   {
+    "label": "Entity Filer Category",
+    "values": [
+     "Large Accelerated Filer"
+    ]
+   },
+   {
+    "label": "Entity Emerging Growth Company",
+    "values": [
+     "false"
+    ]
+   },
+   {
+    "label": "ICFR Auditor Attestation Flag",
+    "values": [
+     "true"
+    ]
+   },
+   {
+    "label": "Document Financial Statement Error Correction [Flag]",
+    "values": [
+     "false"
+    ]
+   },
+   {
+    "label": "Document Accounting Standard",
+    "values": [
+     "International Financial Reporting Standards"
+    ]
+   },
+   {
+    "label": "Entity Shell Company",
+    "values": [
+     "false"
+    ]
+   },
+   {
+    "label": "Amendment Flag",
+    "values": [
+     "false"
+    ]
+   },
+   {
+    "label": "Document Fiscal Period Focus",
+    "values": [
+     "FY"
+    ]
+   },
+   {
+    "label": "Entity Central Index Key",
+    "values": [
+     "0001131399"
+    ]
+   },
+   {
+    "label": "American Depositary Shares",
+    "values": [
+     ""
+    ]
+   },
+   {
+    "label": "Document Information [Line Items]",
+    "values": [
+     ""
+    ]
+   },
+   {
+    "label": "Title of 12(b) Security",
+    "values": [
+     "American Depositary Shares"
+    ]
+   },
+   {
+    "label": "Trading Symbol",
+    "values": [
+     "GSK"
+    ]
+   },
+   {
+    "label": "Security Exchange Name",
+    "values": [
+     "NYSE"
+    ]
+   },
+   {
+    "label": "3.625% Notes due 2025",
+    "values": [
+     ""
+    ]
+   },
+   {
+    "label": "Document Information [Line Items]",
+    "values": [
+     ""
+    ]
+   },
+   {
+    "label": "Title of 12(b) Security",
+    "values": [
+     "3.625% Notes due 2025"
+    ]
+   },
+   {
+    "label": "Trading Symbol",
+    "values": [
+     "GSK/25"
+    ]
+   },
+   {
+    "label": "Security Exchange Name",
+    "values": [
+     "NYSE"
+    ]
+   },
+   {
+    "label": "3.875% Notes due 2028",
+    "values": [
+     ""
+    ]
+   },
+   {
+    "label": "Document Information [Line Items]",
+    "values": [
+     ""
+    ]
+   },
+   {
+    "label": "Title of 12(b) Security",
+    "values": [
+     "3.875% Notes due 2028"
+    ]
+   },
+   {
+    "label": "Trading Symbol",
+    "values": [
+     "GSK/28"
+    ]
+   },
+   {
+    "label": "Security Exchange Name",
+    "values": [
+     "NYSE"
+    ]
+   },
+   {
+    "label": "3.375% Notes due 2029",
+    "values": [
+     ""
+    ]
+   },
+   {
+    "label": "Document Information [Line Items]",
+    "values": [
+     ""
+    ]
+   },
+   {
+    "label": "Title of 12(b) Security",
+    "values": [
+     "3.375% Notes due 2029"
+    ]
+   },
+   {
+    "label": "Trading Symbol",
+    "values": [
+     "GSK/29"
+    ]
+   },
+   {
+    "label": "Security Exchange Name",
+    "values": [
+     "NYSE"
+    ]
+   },
+   {
+    "label": "6.375% Notes due 2038",
+    "values": [
+     ""
+    ]
+   },
+   {
+    "label": "Document Information [Line Items]",
+    "values": [
+     ""
+    ]
+   },
+   {
+    "label": "Title of 12(b) Security",
+    "values": [
+     "6.375% Notes due 2038"
+    ]
+   },
+   {
+    "label": "Trading Symbol",
+    "values": [
+     "GSK/38"
+    ]
+   },
+   {
+    "label": "Security Exchange Name",
+    "values": [
+     "NYSE"
+    ]
+   },
+   {
+    "label": "4.200% Notes due 2043",
+    "values": [
+     ""
+    ]
+   },
+   {
+    "label": "Document Information [Line Items]",
+    "values": [
+     ""
+    ]
+   },
+   {
+    "label": "Title of 12(b) Security",
+    "values": [
+     "4.200% Notes due 2043"
+    ]
+   },
+   {
+    "label": "Trading Symbol",
+    "values": [
+     "GSK/43"
+    ]
+   },
+   {
+    "label": "Security Exchange Name",
+    "values": [
+     "NYSE"
+    ]
+   },
+   {
+    "label": "Business Contact",
+    "values": [
+     ""
+    ]
+   },
+   {
+    "label": "Document Information [Line Items]",
+    "values": [
+     ""
+    ]
+   },
+   {
+    "label": "Entity Address, Address Line One",
+    "values": [
+     "79 New Oxford Street"
+    ]
+   },
+   {
+    "label": "Entity Address, City or Town",
+    "values": [
+     "London"
+    ]
+   },
+   {
+    "label": "Entity Address, Postal Zip Code",
+    "values": [
+     "WC1A 1DG"
+    ]
+   },
+   {
+    "label": "Entity Address, Country",
+    "values": [
+     "GB"
+    ]
+   },
+   {
+    "label": "Contact Personnel Name",
+    "values": [
+     "Victoria Whyte"
+    ]
+   },
+   {
+    "label": "City Area Code",
+    "values": [
+     "44 20"
+    ]
+   },
+   {
+    "label": "Local Phone Number",
+    "values": [
+     "8047 5000"
+    ]
+   },
+   {
+    "label": "Contact Personnel Email Address",
+    "values": [
+     "company.secretary@gsk.com"
+    ]
+   }
+  ]
+ },
+ {
+  "company": "Novartis",
+  "fiscal_year": 2025,
+  "page": "R90.htm",
+  "purpose": "property, plant and equipment: depreciation",
+  "url": "https://www.sec.gov/Archives/edgar/data/1114448/000111444826000004/R90.htm",
+  "title": "Property, plant and equipment (Details) - USD ($) $ in Millions",
+  "sha256": "11b575e21f4c65fbdf2ebfdeeb4d39d0bccf1a24da77d12d8f8b6cdd635bc96b",
+  "headers": [
+   "Dec. 31, 2025",
+   "Dec. 31, 2024",
+   "Dec. 31, 2023"
+  ],
+  "rows": [
+   {
+    "label": "Movements of property, plant and equipment [roll forward]",
+    "values": [
+     "",
+     "",
+     ""
+    ]
+   },
+   {
+    "label": "Property, plant and equipment at beginning of period",
+    "values": [
+     "$ 9,458",
+     "$ 9,514",
+     ""
+    ]
+   },
+   {
+    "label": "Impact of business combinations",
+    "values": [
+     "",
+     "20",
+     ""
+    ]
+   },
+   {
+    "label": "Impact of acquisitions applying the optional concentration test",
+    "values": [
+     "4",
+     "",
+     ""
+    ]
+   },
+   {
+    "label": "Additions",
+    "values": [
+     "1,485",
+     "1,384",
+     ""
+    ]
+   },
+   {
+    "label": "Disposals and derecognitions",
+    "values": [
+     "(44)",
+     "(116)",
+     ""
+    ]
+   },
+   {
+    "label": "Depreciation charge",
+    "values": [
+     "(951)",
+     "(885)",
+     ""
+    ]
+   },
+   {
+    "label": "Impairment charge",
+    "values": [
+     "(24)",
+     "(48)",
+     ""
+    ]
+   },
+   {
+    "label": "Impairment reversal",
+    "values": [
+     "",
+     "1",
+     ""
+    ]
+   },
+   {
+    "label": "Currency translation effects",
+    "values": [
+     "854",
+     "(412)",
+     ""
+    ]
+   },
+   {
+    "label": "Property, plant and equipment at end of period",
+    "values": [
+     "10,782",
+     "9,458",
+     "$ 9,514"
+    ]
+   },
+   {
+    "label": "Commitments for purchases of property, plant and equipment",
+    "values": [
+     "683",
+     "770",
+     ""
+    ]
+   },
+   {
+    "label": "Capitalized borrowing costs",
+    "values": [
+     "8",
+     "5",
+     "3"
+    ]
+   },
+   {
+    "label": "Continuing operations",
+    "values": [
+     "",
+     "",
+     ""
+    ]
+   },
+   {
+    "label": "Movements of property, plant and equipment [roll forward]",
+    "values": [
+     "",
+     "",
+     ""
+    ]
+   },
+   {
+    "label": "Depreciation charge",
+    "values": [
+     "",
+     "",
+     "(916)"
+    ]
+   },
+   {
+    "label": "Impairment charge",
+    "values": [
+     "",
+     "",
+     "(106)"
+    ]
+   },
+   {
+    "label": "Impairment reversal",
+    "values": [
+     "",
+     "",
+     "16"
+    ]
+   },
+   {
+    "label": "Gross carrying amount",
+    "values": [
+     "",
+     "",
+     ""
+    ]
+   },
+   {
+    "label": "Movements of property, plant and equipment [roll forward]",
+    "values": [
+     "",
+     "",
+     ""
+    ]
+   },
+   {
+    "label": "Property, plant and equipment at beginning of period",
+    "values": [
+     "20,558",
+     "21,393",
+     ""
+    ]
+   },
+   {
+    "label": "Property, plant and equipment at end of period",
+    "values": [
+     "23,508",
+     "20,558",
+     "21,393"
+    ]
+   },
+   {
+    "label": "Accumulated depreciation, amortisation and impairment",
+    "values": [
+     "",
+     "",
+     ""
+    ]
+   },
+   {
+    "label": "Movements of property, plant and equipment [roll forward]",
+    "values": [
+     "",
+     "",
+     ""
+    ]
+   },
+   {
+    "label": "Property, plant and equipment at beginning of period",
+    "values": [
+     "(11,100)",
+     "(11,879)",
+     ""
+    ]
+   },
+   {
+    "label": "Property, plant and equipment at end of period",
+    "values": [
+     "(12,726)",
+     "(11,100)",
+     "(11,879)"
+    ]
+   },
+   {
+    "label": "Land",
+    "values": [
+     "",
+     "",
+     ""
+    ]
+   },
+   {
+    "label": "Movements of property, plant and equipment [roll forward]",
+    "values": [
+     "",
+     "",
+     ""
+    ]
+   },
+   {
+    "label": "Property, plant and equipment at beginning of period",
+    "values": [
+     "371",
+     "398",
+     ""
+    ]
+   },
+   {
+    "label": "Reclassifications",
+    "values": [
+     "1",
+     "1",
+     ""
+    ]
+   },
+   {
+    "label": "Additions",
+    "values": [
+     "34",
+     "0",
+     ""
+    ]
+   },
+   {
+    "label": "Disposals and derecognitions",
+    "values": [
+     "(7)",
+     "(4)",
+     ""
+    ]
+   },
+   {
+    "label": "Impairment charge",
+    "values": [
+     "(4)",
+     "(5)",
+     ""
+    ]
+   },
+   {
+    "label": "Currency translation effects",
+    "values": [
+     "41",
+     "(19)",
+     ""
+    ]
+   },
+   {
+    "label": "Property, plant and equipment at end of period",
+    "values": [
+     "436",
+     "371",
+     "398"
+    ]
+   },
+   {
+    "label": "Land | Gross carrying amount",
+    "values": [
+     "",
+     "",
+     ""
+    ]
+   },
+   {
+    "label": "Movements of property, plant and equipment [roll forward]",
+    "values": [
+     "",
+     "",
+     ""
+    ]
+   },
+   {
+    "label": "Property, plant and equipment at beginning of period",
+    "values": [
+     "376",
+     "403",
+     ""
+    ]
+   },
+   {
+    "label": "Property, plant and equipment at end of period",
+    "values": [
+     "446",
+     "376",
+     "403"
+    ]
+   },
+   {
+    "label": "Land | Accumulated depreciation, amortisation and impairment",
+    "values": [
+     "",
+     "",
+     ""
+    ]
+   },
+   {
+    "label": "Movements of property, plant and equipment [roll forward]",
+    "values": [
+     "",
+     "",
+     ""
+    ]
+   },
+   {
+    "label": "Property, plant and equipment at beginning of period",
+    "values": [
+     "(5)",
+     "(5)",
+     ""
+    ]
+   },
+   {
+    "label": "Property, plant and equipment at end of period",
+    "values": [
+     "(10)",
+     "(5)",
+     "(5)"
+    ]
+   },
+   {
+    "label": "Buildings",
+    "values": [
+     "",
+     "",
+     ""
+    ]
+   },
+   {
+    "label": "Movements of property, plant and equipment [roll forward]",
+    "values": [
+     "",
+     "",
+     ""
+    ]
+   },
+   {
+    "label": "Property, plant and equipment at beginning of period",
+    "values": [
+     "4,542",
+     "4,896",
+     ""
+    ]
+   },
+   {
+    "label": "Impact of business combinations",
+    "values": [
+     "",
+     "6",
+     ""
+    ]
+   },
+   {
+    "label": "Impact of acquisitions applying the optional concentration test",
+    "values": [
+     "1",
+     "",
+     ""
+    ]
+   },
+   {
+    "label": "Reclassifications",
+    "values": [
+     "400",
+     "136",
+     ""
+    ]
+   },
+   {
+    "label": "Additions",
+    "values": [
+     "119",
+     "73",
+     ""
+    ]
+   },
+   {
+    "label": "Disposals and derecognitions",
+    "values": [
+     "(6)",
+     "(35)",
+     ""
+    ]
+   },
+   {
+    "label": "Depreciation charge",
+    "values": [
+     "(362)",
+     "(327)",
+     ""
+    ]
+   },
+   {
+    "label": "Impairment charge",
+    "values": [
+     "(6)",
+     "(13)",
+     ""
+    ]
+   },
+   {
+    "label": "Currency translation effects",
+    "values": [
+     "341",
+     "(194)",
+     ""
+    ]
+   },
+   {
+    "label": "Property, plant and equipment at end of period",
+    "values": [
+     "5,029",
+     "4,542",
+     "4,896"
+    ]
+   },
+   {
+    "label": "Buildings | Gross carrying amount",
+    "values": [
+     "",
+     "",
+     ""
+    ]
+   },
+   {
+    "label": "Movements of property, plant and equipment [roll forward]",
+    "values": [
+     "",
+     "",
+     ""
+    ]
+   },
+   {
+    "label": "Property, plant and equipment at beginning of period",
+    "values": [
+     "9,526",
+     "10,147",
+     ""
+    ]
+   },
+   {
+    "label": "Property, plant and equipment at end of period",
+    "values": [
+     "10,746",
+     "9,526",
+     "10,147"
+    ]
+   },
+   {
+    "label": "Buildings | Accumulated depreciation, amortisation and impairment",
+    "values": [
+     "",
+     "",
+     ""
+    ]
+   },
+   {
+    "label": "Movements of property, plant and equipment [roll forward]",
+    "values": [
+     "",
+     "",
+     ""
+    ]
+   },
+   {
+    "label": "Property, plant and equipment at beginning of period",
+    "values": [
+     "(4,984)",
+     "(5,251)",
+     ""
+    ]
+   },
+   {
+    "label": "Property, plant and equipment at end of period",
+    "values": [
+     "(5,717)",
+     "(4,984)",
+     "(5,251)"
+    ]
+   },
+   {
+    "label": "Construction in progress",
+    "values": [
+     "",
+     "",
+     ""
+    ]
+   },
+   {
+    "label": "Movements of property, plant and equipment [roll forward]",
+    "values": [
+     "",
+     "",
+     ""
+    ]
+   },
+   {
+    "label": "Property, plant and equipment at beginning of period",
+    "values": [
+     "1,603",
+     "1,206",
+     ""
+    ]
+   },
+   {
+    "label": "Reclassifications",
+    "values": [
+     "(973)",
+     "(569)",
+     ""
+    ]
+   },
+   {
+    "label": "Additions",
+    "values": [
+     "1,058",
+     "1,082",
+     ""
+    ]
+   },
+   {
+    "label": "Disposals and derecognitions",
+    "values": [
+     "(7)",
+     "(19)",
+     ""
+    ]
+   },
+   {
+    "label": "Impairment charge",
+    "values": [
+     "(2)",
+     "(3)",
+     ""
+    ]
+   },
+   {
+    "label": "Currency translation effects",
+    "values": [
+     "175",
+     "(94)",
+     ""
+    ]
+   },
+   {
+    "label": "Property, plant and equipment at end of period",
+    "values": [
+     "1,854",
+     "1,603",
+     "1,206"
+    ]
+   },
+   {
+    "label": "Construction in progress | Gross carrying amount",
+    "values": [
+     "",
+     "",
+     ""
+    ]
+   },
+   {
+    "label": "Movements of property, plant and equipment [roll forward]",
+    "values": [
+     "",
+     "",
+     ""
+    ]
+   },
+   {
+    "label": "Property, plant and equipment at beginning of period",
+    "values": [
+     "1,610",
+     "1,213",
+     ""
+    ]
+   },
+   {
+    "label": "Property, plant and equipment at end of period",
+    "values": [
+     "1,863",
+     "1,610",
+     "1,213"
+    ]
+   },
+   {
+    "label": "Construction in progress | Accumulated depreciation, amortisation and impairment",
+    "values": [
+     "",
+     "",
+     ""
+    ]
+   },
+   {
+    "label": "Movements of property, plant and equipment [roll forward]",
+    "values": [
+     "",
+     "",
+     ""
+    ]
+   },
+   {
+    "label": "Property, plant and equipment at beginning of period",
+    "values": [
+     "(7)",
+     "(7)",
+     ""
+    ]
+   },
+   {
+    "label": "Property, plant and equipment at end of period",
+    "values": [
+     "(9)",
+     "(7)",
+     "(7)"
+    ]
+   },
+   {
+    "label": "Machinery and other equipment",
+    "values": [
+     "",
+     "",
+     ""
+    ]
+   },
+   {
+    "label": "Movements of property, plant and equipment [roll forward]",
+    "values": [
+     "",
+     "",
+     ""
+    ]
+   },
+   {
+    "label": "Property, plant and equipment at beginning of period",
+    "values": [
+     "2,942",
+     "3,014",
+     ""
+    ]
+   },
+   {
+    "label": "Impact of business combinations",
+    "values": [
+     "",
+     "14",
+     ""
+    ]
+   },
+   {
+    "label": "Impact of acquisitions applying the optional concentration test",
+    "values": [
+     "3",
+     "",
+     ""
+    ]
+   },
+   {
+    "label": "Reclassifications",
+    "values": [
+     "572",
+     "432",
+     ""
+    ]
+   },
+   {
+    "label": "Additions",
+    "values": [
+     "274",
+     "229",
+     ""
+    ]
+   },
+   {
+    "label": "Disposals and derecognitions",
+    "values": [
+     "(24)",
+     "(58)",
+     ""
+    ]
+   },
+   {
+    "label": "Depreciation charge",
+    "values": [
+     "(589)",
+     "(558)",
+     ""
+    ]
+   },
+   {
+    "label": "Impairment charge",
+    "values": [
+     "(12)",
+     "(27)",
+     ""
+    ]
+   },
+   {
+    "label": "Impairment reversal",
+    "values": [
+     "",
+     "1",
+     ""
+    ]
+   },
+   {
+    "label": "Currency translation effects",
+    "values": [
+     "297",
+     "(105)",
+     ""
+    ]
+   },
+   {
+    "label": "Property, plant and equipment at end of period",
+    "values": [
+     "3,463",
+     "2,942",
+     "3,014"
+    ]
+   },
+   {
+    "label": "Machinery and other equipment | Gross carrying amount",
+    "values": [
+     "",
+     "",
+     ""
+    ]
+   },
+   {
+    "label": "Movements of property, plant and equipment [roll forward]",
+    "values": [
+     "",
+     "",
+     ""
+    ]
+   },
+   {
+    "label": "Property, plant and equipment at beginning of period",
+    "values": [
+     "9,046",
+     "9,630",
+     ""
+    ]
+   },
+   {
+    "label": "Property, plant and equipment at end of period",
+    "values": [
+     "10,453",
+     "9,046",
+     "9,630"
+    ]
+   },
+   {
+    "label": "Machinery and other equipment | Accumulated depreciation, amortisation and impairment",
+    "values": [
+     "",
+     "",
+     ""
+    ]
+   },
+   {
+    "label": "Movements of property, plant and equipment [roll forward]",
+    "values": [
+     "",
+     "",
+     ""
+    ]
+   },
+   {
+    "label": "Property, plant and equipment at beginning of period",
+    "values": [
+     "(6,104)",
+     "(6,616)",
+     ""
+    ]
+   },
+   {
+    "label": "Property, plant and equipment at end of period",
+    "values": [
+     "$ (6,990)",
+     "$ (6,104)",
+     "$ (6,616)"
+    ]
+   }
+  ]
+ },
+ {
+  "company": "Novartis",
+  "fiscal_year": 2025,
+  "page": "R99.htm",
+  "purpose": "intangible assets: amortisation",
+  "url": "https://www.sec.gov/Archives/edgar/data/1114448/000111444826000004/R99.htm",
+  "title": "Goodwill and intangible assets other than goodwill (Details) - USD ($) $ in Millions",
+  "sha256": "09be0b831fa88cb9a94cea97e3aa60940bee6250d16d8c4b5fa12e83ce5ffee9",
+  "headers": [
+   "Dec. 31, 2025",
+   "Dec. 31, 2024",
+   "Dec. 31, 2023"
+  ],
+  "rows": [
+   {
+    "label": "Disclosure of detailed information about intangible assets [line items]",
+    "values": [
+     "",
+     "",
+     ""
+    ]
+   },
+   {
+    "label": "Impairment charge",
+    "values": [
+     "$ (557)",
+     "$ (1,433)",
+     ""
+    ]
+   },
+   {
+    "label": "Continuing operations",
+    "values": [
+     "",
+     "",
+     ""
+    ]
+   },
+   {
+    "label": "Disclosure of detailed information about intangible assets [line items]",
+    "values": [
+     "",
+     "",
+     ""
+    ]
+   },
+   {
+    "label": "Impairment charge",
+    "values": [
+     "",
+     "",
+     "$ (3,048)"
+    ]
+   },
+   {
+    "label": "Goodwill",
+    "values": [
+     "",
+     "",
+     ""
+    ]
+   },
+   {
+    "label": "Disclosure of detailed information about intangible assets [line items]",
+    "values": [
+     "",
+     "",
+     ""
+    ]
+   },
+   {
+    "label": "Intangible assets and goodwill at beginning of period",
+    "values": [
+     "24,756",
+     "23,341",
+     ""
+    ]
+   },
+   {
+    "label": "Impact of business combinations",
+    "values": [
+     "",
+     "2,701",
+     ""
+    ]
+   },
+   {
+    "label": "Disposals and derecognitions",
+    "values": [
+     "(1)",
+     "",
+     ""
+    ]
+   },
+   {
+    "label": "Impairment charge",
+    "values": [
+     "",
+     "(910)",
+     ""
+    ]
+   },
+   {
+    "label": "Currency translation effects",
+    "values": [
+     "812",
+     "(376)",
+     ""
+    ]
+   },
+   {
+    "label": "Intangible assets and goodwill at end of period",
+    "values": [
+     "25,567",
+     "24,756",
+     "23,341"
+    ]
+   },
+   {
+    "label": "Intangible Assets other than Goodwill",
+    "values": [
+     "",
+     "",
+     ""
+    ]
+   },
+   {
+    "label": "Disclosure of detailed information about intangible assets [line items]",
+    "values": [
+     "",
+     "",
+     ""
+    ]
+   },
+   {
+    "label": "Intangible assets and goodwill at beginning of period",
+    "values": [
+     "26,915",
+     "26,879",
+     ""
+    ]
+   },
+   {
+    "label": "Impact of business combinations",
+    "values": [
+     "",
+     "2,580",
+     ""
+    ]
+   },
+   {
+    "label": "Impact of acquisitions applying the optional concentration test",
+    "values": [
+     "3,157",
+     "",
+     ""
+    ]
+   },
+   {
+    "label": "Additions",
+    "values": [
+     "2,253",
+     "2,143",
+     ""
+    ]
+   },
+   {
+    "label": "Disposals and derecognitions",
+    "values": [
+     "(4)",
+     "(95)",
+     ""
+    ]
+   },
+   {
+    "label": "Amortization charge",
+    "values": [
+     "(3,517)",
+     "(3,457)",
+     ""
+    ]
+   },
+   {
+    "label": "Impairment charge",
+    "values": [
+     "(557)",
+     "(523)",
+     ""
+    ]
+   },
+   {
+    "label": "Reversal of impairment charge",
+    "values": [
+     "",
+     "9",
+     ""
+    ]
+   },
+   {
+    "label": "Currency translation effects",
+    "values": [
+     "1,164",
+     "(621)",
+     ""
+    ]
+   },
+   {
+    "label": "Intangible assets and goodwill at end of period",
+    "values": [
+     "29,411",
+     "26,915",
+     "26,879"
+    ]
+   },
+   {
+    "label": "Intangible Assets other than Goodwill | Continuing operations",
+    "values": [
+     "",
+     "",
+     ""
+    ]
+   },
+   {
+    "label": "Disclosure of detailed information about intangible assets [line items]",
+    "values": [
+     "",
+     "",
+     ""
+    ]
+   },
+   {
+    "label": "Amortization charge",
+    "values": [
+     "",
+     "",
+     "(3,960)"
+    ]
+   },
+   {
+    "label": "Acquired research and development [member]",
+    "values": [
+     "",
+     "",
+     ""
+    ]
+   },
+   {
+    "label": "Disclosure of detailed information about intangible assets [line items]",
+    "values": [
+     "",
+     "",
+     ""
+    ]
+   },
+   {
+    "label": "Intangible assets and goodwill at beginning of period",
+    "values": [
+     "7,222",
+     "5,329",
+     ""
+    ]
+   },
+   {
+    "label": "Impact of business combinations",
+    "values": [
+     "",
+     "1,424",
+     ""
+    ]
+   },
+   {
+    "label": "Impact of acquisitions applying the optional concentration test",
+    "values": [
+     "3,157",
+     "",
+     ""
+    ]
+   },
+   {
+    "label": "Reclassifications",
+    "values": [
+     "(1,386)",
+     "",
+     ""
+    ]
+   },
+   {
+    "label": "Additions",
+    "values": [
+     "1,316",
+     "1,116",
+     ""
+    ]
+   },
+   {
+    "label": "Impairment charge",
+    "values": [
+     "(313)",
+     "(471)",
+     ""
+    ]
+   },
+   {
+    "label": "Currency translation effects",
+    "values": [
+     "435",
+     "(176)",
+     ""
+    ]
+   },
+   {
+    "label": "Intangible assets and goodwill at end of period",
+    "values": [
+     "10,431",
+     "7,222",
+     "5,329"
+    ]
+   },
+   {
+    "label": "Currently marketed products",
+    "values": [
+     "",
+     "",
+     ""
+    ]
+   },
+   {
+    "label": "Disclosure of detailed information about intangible assets [line items]",
+    "values": [
+     "",
+     "",
+     ""
+    ]
+   },
+   {
+    "label": "Intangible assets and goodwill at beginning of period",
+    "values": [
+     "16,912",
+     "20,017",
+     ""
+    ]
+   },
+   {
+    "label": "Reclassifications",
+    "values": [
+     "1,272",
+     "",
+     ""
+    ]
+   },
+   {
+    "label": "Additions",
+    "values": [
+     "148",
+     "263",
+     ""
+    ]
+   },
+   {
+    "label": "Disposals and derecognitions",
+    "values": [
+     "",
+     "(91)",
+     ""
+    ]
+   },
+   {
+    "label": "Amortization charge",
+    "values": [
+     "(2,750)",
+     "(2,964)",
+     ""
+    ]
+   },
+   {
+    "label": "Impairment charge",
+    "values": [
+     "(25)",
+     "",
+     ""
+    ]
+   },
+   {
+    "label": "Reversal of impairment charge",
+    "values": [
+     "",
+     "9",
+     ""
+    ]
+   },
+   {
+    "label": "Currency translation effects",
+    "values": [
+     "451",
+     "(322)",
+     ""
+    ]
+   },
+   {
+    "label": "Intangible assets and goodwill at end of period",
+    "values": [
+     "16,008",
+     "16,912",
+     "20,017"
+    ]
+   },
+   {
+    "label": "Capitalized development costs",
+    "values": [
+     "100",
+     "100",
+     ""
+    ]
+   },
+   {
+    "label": "Other intangible assets",
+    "values": [
+     "",
+     "",
+     ""
+    ]
+   },
+   {
+    "label": "Disclosure of detailed information about intangible assets [line items]",
+    "values": [
+     "",
+     "",
+     ""
+    ]
+   },
+   {
+    "label": "Intangible assets and goodwill at beginning of period",
+    "values": [
+     "2,781",
+     "1,533",
+     ""
+    ]
+   },
+   {
+    "label": "Impact of business combinations",
+    "values": [
+     "",
+     "1,156",
+     ""
+    ]
+   },
+   {
+    "label": "Reclassifications",
+    "values": [
+     "114",
+     "",
+     ""
+    ]
+   },
+   {
+    "label": "Additions",
+    "values": [
+     "789",
+     "764",
+     ""
+    ]
+   },
+   {
+    "label": "Disposals and derecognitions",
+    "values": [
+     "(4)",
+     "(4)",
+     ""
+    ]
+   },
+   {
+    "label": "Amortization charge",
+    "values": [
+     "(767)",
+     "(493)",
+     ""
+    ]
+   },
+   {
+    "label": "Impairment charge",
+    "values": [
+     "(219)",
+     "(52)",
+     ""
+    ]
+   },
+   {
+    "label": "Currency translation effects",
+    "values": [
+     "278",
+     "(123)",
+     ""
+    ]
+   },
+   {
+    "label": "Intangible assets and goodwill at end of period",
+    "values": [
+     "2,972",
+     "2,781",
+     "1,533"
+    ]
+   },
+   {
+    "label": "Gross carrying amount | Goodwill",
+    "values": [
+     "",
+     "",
+     ""
+    ]
+   },
+   {
+    "label": "Disclosure of detailed information about intangible assets [line items]",
+    "values": [
+     "",
+     "",
+     ""
+    ]
+   },
+   {
+    "label": "Intangible assets and goodwill at beginning of period",
+    "values": [
+     "25,665",
+     "23,391",
+     ""
+    ]
+   },
+   {
+    "label": "Intangible assets and goodwill at end of period",
+    "values": [
+     "26,586",
+     "25,665",
+     "23,391"
+    ]
+   },
+   {
+    "label": "Gross carrying amount | Intangible Assets other than Goodwill",
+    "values": [
+     "",
+     "",
+     ""
+    ]
+   },
+   {
+    "label": "Disclosure of detailed information about intangible assets [line items]",
+    "values": [
+     "",
+     "",
+     ""
+    ]
+   },
+   {
+    "label": "Intangible assets and goodwill at beginning of period",
+    "values": [
+     "60,206",
+     "58,319",
+     ""
+    ]
+   },
+   {
+    "label": "Intangible assets and goodwill at end of period",
+    "values": [
+     "68,283",
+     "60,206",
+     "58,319"
+    ]
+   },
+   {
+    "label": "Gross carrying amount | Acquired research and development [member]",
+    "values": [
+     "",
+     "",
+     ""
+    ]
+   },
+   {
+    "label": "Disclosure of detailed information about intangible assets [line items]",
+    "values": [
+     "",
+     "",
+     ""
+    ]
+   },
+   {
+    "label": "Intangible assets and goodwill at beginning of period",
+    "values": [
+     "9,621",
+     "7,822",
+     ""
+    ]
+   },
+   {
+    "label": "Intangible assets and goodwill at end of period",
+    "values": [
+     "12,525",
+     "9,621",
+     "7,822"
+    ]
+   },
+   {
+    "label": "Gross carrying amount | Currently marketed products",
+    "values": [
+     "",
+     "",
+     ""
+    ]
+   },
+   {
+    "label": "Disclosure of detailed information about intangible assets [line items]",
+    "values": [
+     "",
+     "",
+     ""
+    ]
+   },
+   {
+    "label": "Intangible assets and goodwill at beginning of period",
+    "values": [
+     "45,462",
+     "46,909",
+     ""
+    ]
+   },
+   {
+    "label": "Intangible assets and goodwill at end of period",
+    "values": [
+     "49,573",
+     "45,462",
+     "46,909"
+    ]
+   },
+   {
+    "label": "Gross carrying amount | Other intangible assets",
+    "values": [
+     "",
+     "",
+     ""
+    ]
+   },
+   {
+    "label": "Disclosure of detailed information about intangible assets [line items]",
+    "values": [
+     "",
+     "",
+     ""
+    ]
+   },
+   {
+    "label": "Intangible assets and goodwill at beginning of period",
+    "values": [
+     "5,123",
+     "3,588",
+     ""
+    ]
+   },
+   {
+    "label": "Intangible assets and goodwill at end of period",
+    "values": [
+     "6,185",
+     "5,123",
+     "3,588"
+    ]
+   },
+   {
+    "label": "Accumulated depreciation, amortisation and impairment | Goodwill",
+    "values": [
+     "",
+     "",
+     ""
+    ]
+   },
+   {
+    "label": "Disclosure of detailed information about intangible assets [line items]",
+    "values": [
+     "",
+     "",
+     ""
+    ]
+   },
+   {
+    "label": "Intangible assets and goodwill at beginning of period",
+    "values": [
+     "(909)",
+     "(50)",
+     ""
+    ]
+   },
+   {
+    "label": "Intangible assets and goodwill at end of period",
+    "values": [
+     "(1,019)",
+     "(909)",
+     "(50)"
+    ]
+   },
+   {
+    "label": "Accumulated depreciation, amortisation and impairment | Intangible Assets other than Goodwill",
+    "values": [
+     "",
+     "",
+     ""
+    ]
+   },
+   {
+    "label": "Disclosure of detailed information about intangible assets [line items]",
+    "values": [
+     "",
+     "",
+     ""
+    ]
+   },
+   {
+    "label": "Intangible assets and goodwill at beginning of period",
+    "values": [
+     "(33,291)",
+     "(31,440)",
+     ""
+    ]
+   },
+   {
+    "label": "Intangible assets and goodwill at end of period",
+    "values": [
+     "(38,872)",
+     "(33,291)",
+     "(31,440)"
+    ]
+   },
+   {
+    "label": "Accumulated depreciation, amortisation and impairment | Acquired research and development [member]",
+    "values": [
+     "",
+     "",
+     ""
+    ]
+   },
+   {
+    "label": "Disclosure of detailed information about intangible assets [line items]",
+    "values": [
+     "",
+     "",
+     ""
+    ]
+   },
+   {
+    "label": "Intangible assets and goodwill at beginning of period",
+    "values": [
+     "(2,399)",
+     "(2,493)",
+     ""
+    ]
+   },
+   {
+    "label": "Intangible assets and goodwill at end of period",
+    "values": [
+     "(2,094)",
+     "(2,399)",
+     "(2,493)"
+    ]
+   },
+   {
+    "label": "Accumulated depreciation, amortisation and impairment | Currently marketed products",
+    "values": [
+     "",
+     "",
+     ""
+    ]
+   },
+   {
+    "label": "Disclosure of detailed information about intangible assets [line items]",
+    "values": [
+     "",
+     "",
+     ""
+    ]
+   },
+   {
+    "label": "Intangible assets and goodwill at beginning of period",
+    "values": [
+     "(28,550)",
+     "(26,892)",
+     ""
+    ]
+   },
+   {
+    "label": "Impairment charge",
+    "values": [
+     "",
+     "",
+     "(300)"
+    ]
+   },
+   {
+    "label": "Intangible assets and goodwill at end of period",
+    "values": [
+     "(33,565)",
+     "(28,550)",
+     "(26,892)"
+    ]
+   },
+   {
+    "label": "Accumulated depreciation, amortisation and impairment | Other intangible assets",
+    "values": [
+     "",
+     "",
+     ""
+    ]
+   },
+   {
+    "label": "Disclosure of detailed information about intangible assets [line items]",
+    "values": [
+     "",
+     "",
+     ""
+    ]
+   },
+   {
+    "label": "Intangible assets and goodwill at beginning of period",
+    "values": [
+     "(2,342)",
+     "(2,055)",
+     ""
+    ]
+   },
+   {
+    "label": "Intangible assets and goodwill at end of period",
+    "values": [
+     "$ (3,213)",
+     "$ (2,342)",
+     "$ (2,055)"
+    ]
+   }
+  ]
+ },
+ {
+  "company": "Novartis",
+  "fiscal_year": 2025,
+  "page": "R134.htm",
+  "purpose": "cash flow note: non-cash items",
+  "url": "https://www.sec.gov/Archives/edgar/data/1114448/000111444826000004/R134.htm",
+  "title": "Details to the consolidated cash flow statements (Details) - USD ($) $ in Millions",
+  "sha256": "7ad845887a5841d5a5915658a75004c206252c9de640d384dcecb1941fdda89c",
+  "headers": [
+   "Dec. 31, 2025",
+   "Dec. 31, 2024",
+   "Dec. 31, 2023"
+  ],
+  "rows": [
+   {
+    "label": "Depreciation, amortisation and impairment loss (reversal of impairment loss) recognised in profit or loss [abstract]",
+    "values": [
+     "",
+     "",
+     ""
+    ]
+   },
+   {
+    "label": "Change in provisions and other non-current liabilities",
+    "values": [
+     "$ 1,083",
+     "$ 696",
+     "$ 61"
+    ]
+   },
+   {
+    "label": "(Gains)/losses on disposal on property, plant and equipment; intangible assets; and other adjustments on financial assets; and other non-current assets, net",
+    "values": [
+     "116",
+     "(74)",
+     "(180)"
+    ]
+   },
+   {
+    "label": "Equity-settled compensation plans",
+    "values": [
+     "1,096",
+     "1,044",
+     "865"
+    ]
+   },
+   {
+    "label": "Loss from associated companies",
+    "values": [
+     "12",
+     "38",
+     "13"
+    ]
+   },
+   {
+    "label": "Income taxes",
+    "values": [
+     "2,385",
+     "1,701",
+     "551"
+    ]
+   },
+   {
+    "label": "Net financial expense",
+    "values": [
+     "1,280",
+     "866",
+     "633"
+    ]
+   },
+   {
+    "label": "Other",
+    "values": [
+     "(18)",
+     "(153)",
+     "43"
+    ]
+   },
+   {
+    "label": "Total",
+    "values": [
+     "11,229",
+     "10,232",
+     "10,369"
+    ]
+   },
+   {
+    "label": "Additions to right-of-use assets",
+    "values": [
+     "458",
+     "304",
+     "421"
+    ]
+   },
+   {
+    "label": "Property, plant and equipment",
+    "values": [
+     "",
+     "",
+     ""
+    ]
+   },
+   {
+    "label": "Depreciation, amortisation and impairment loss (reversal of impairment loss) recognised in profit or loss [abstract]",
+    "values": [
+     "",
+     "",
+     ""
+    ]
+   },
+   {
+    "label": "Adjustments for depreciation and amortisation expense and impairment loss (reversal of impairment loss) recognised in profit or loss",
+    "values": [
+     "975",
+     "932",
+     "1,006"
+    ]
+   },
+   {
+    "label": "Right-of-use assets [member]",
+    "values": [
+     "",
+     "",
+     ""
+    ]
+   },
+   {
+    "label": "Depreciation, amortisation and impairment loss (reversal of impairment loss) recognised in profit or loss [abstract]",
+    "values": [
+     "",
+     "",
+     ""
+    ]
+   },
+   {
+    "label": "Adjustments for depreciation and amortisation expense and impairment loss (reversal of impairment loss) recognised in profit or loss",
+    "values": [
+     "276",
+     "256",
+     "263"
+    ]
+   },
+   {
+    "label": "Intangible assets",
+    "values": [
+     "",
+     "",
+     ""
+    ]
+   },
+   {
+    "label": "Depreciation, amortisation and impairment loss (reversal of impairment loss) recognised in profit or loss [abstract]",
+    "values": [
+     "",
+     "",
+     ""
+    ]
+   },
+   {
+    "label": "Adjustments for depreciation and amortisation expense and impairment loss (reversal of impairment loss) recognised in profit or loss",
+    "values": [
+     "4,074",
+     "4,881",
+     "7,008"
+    ]
+   },
+   {
+    "label": "Financial assets impaired [member]",
+    "values": [
+     "",
+     "",
+     ""
+    ]
+   },
+   {
+    "label": "Depreciation, amortisation and impairment loss (reversal of impairment loss) recognised in profit or loss [abstract]",
+    "values": [
+     "",
+     "",
+     ""
+    ]
+   },
+   {
+    "label": "Adjustments for depreciation and amortisation expense and impairment loss (reversal of impairment loss) recognised in profit or loss",
+    "values": [
+     "(50)",
+     "45",
+     "106"
+    ]
+   },
+   {
+    "label": "Intangible assets other than goodwill [member]",
+    "values": [
+     "",
+     "",
+     ""
+    ]
+   },
+   {
+    "label": "Depreciation, amortisation and impairment loss (reversal of impairment loss) recognised in profit or loss [abstract]",
+    "values": [
+     "",
+     "",
+     ""
+    ]
+   },
+   {
+    "label": "Acquisition of assets (other than through business combinations) by assuming directly related liabilities",
+    "values": [
+     "$ 0",
+     "$ 0",
+     "$ 0"
+    ]
+   }
+  ]
+ }
+]

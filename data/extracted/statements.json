@@ -1,0 +1,5328 @@
+[
+ {
+  "company": "Novo Nordisk",
+  "cik": 353278,
+  "fiscal_year": 2025,
+  "accession": "0000353278-26-000012",
+  "filed": "2026-02-04",
+  "filing_index": "https://www.sec.gov/Archives/edgar/data/353278/000035327826000012/",
+  "statements": {
+   "income_statement": {
+    "title": "Income statement and Statement of comprehensive income - DKK (kr) kr in Millions",
+    "page": "R3.htm",
+    "url": "https://www.sec.gov/Archives/edgar/data/353278/000035327826000012/R3.htm",
+    "sha256": "a7a29495b638cef5f34472daeeb708dc34d72fa05d895a5c14717bd54843c47b",
+    "headers": [
+     "Dec. 31, 2025",
+     "Dec. 31, 2024",
+     "Dec. 31, 2023"
+    ],
+    "rows": [
+     {
+      "label": "Profit or loss [abstract]",
+      "values": [
+       "",
+       "",
+       ""
+      ]
+     },
+     {
+      "label": "Net sales",
+      "values": [
+       "kr 309,064",
+       "kr 290,403",
+       "kr 232,261"
+      ]
+     },
+     {
+      "label": "Cost of goods sold",
+      "values": [
+       "(58,788)",
+       "(44,522)",
+       "(35,765)"
+      ]
+     },
+     {
+      "label": "Gross profit",
+      "values": [
+       "250,276",
+       "245,881",
+       "196,496"
+      ]
+     },
+     {
+      "label": "Sales and distribution costs",
+      "values": [
+       "(64,310)",
+       "(62,101)",
+       "(56,743)"
+      ]
+     },
+     {
+      "label": "Research and development costs",
+      "values": [
+       "(52,039)",
+       "(48,062)",
+       "(32,443)"
+      ]
+     },
+     {
+      "label": "Administrative costs",
+      "values": [
+       "(5,969)",
+       "(5,276)",
+       "(4,855)"
+      ]
+     },
+     {
+      "label": "Other operating income and expenses",
+      "values": [
+       "(300)",
+       "(2,103)",
+       "119"
+      ]
+     },
+     {
+      "label": "Operating profit",
+      "values": [
+       "127,658",
+       "128,339",
+       "102,574"
+      ]
+     },
+     {
+      "label": "Financial income",
+      "values": [
+       "9,660",
+       "6,198",
+       "2,945"
+      ]
+     },
+     {
+      "label": "Financial expenses",
+      "values": [
+       "(6,778)",
+       "(7,346)",
+       "(845)"
+      ]
+     },
+     {
+      "label": "Profit before income taxes",
+      "values": [
+       "130,540",
+       "127,191",
+       "104,674"
+      ]
+     },
+     {
+      "label": "Income taxes",
+      "values": [
+       "(28,106)",
+       "(26,203)",
+       "(20,991)"
+      ]
+     },
+     {
+      "label": "Net profit",
+      "values": [
+       "kr 102,434",
+       "kr 100,988",
+       "kr 83,683"
+      ]
+     },
+     {
+      "label": "Earnings per share",
+      "values": [
+       "",
+       "",
+       ""
+      ]
+     },
+     {
+      "label": "Basic earnings per share (DKK per share)",
+      "values": [
+       "kr 23.06",
+       "kr 22.67",
+       "kr 18.67"
+      ]
+     },
+     {
+      "label": "Diluted earnings per share (DKK per share)",
+      "values": [
+       "kr 23.03",
+       "kr 22.63",
+       "kr 18.62"
+      ]
+     }
+    ]
+   },
+   "cash_flow": {
+    "title": "Cash flow statement - DKK (kr) kr in Millions",
+    "page": "R5.htm",
+    "url": "https://www.sec.gov/Archives/edgar/data/353278/000035327826000012/R5.htm",
+    "sha256": "dcaf373e3cc8fb11ebefec026ffec6661542a9c3a910d2743e02a11cdfdd04b3",
+    "headers": [
+     "Dec. 31, 2025",
+     "Dec. 31, 2024",
+     "Dec. 31, 2023"
+    ],
+    "rows": [
+     {
+      "label": "Statement of cash flows [abstract]",
+      "values": [
+       "",
+       "",
+       ""
+      ]
+     },
+     {
+      "label": "Net profit",
+      "values": [
+       "kr 102,434",
+       "kr 100,988",
+       "kr 83,683"
+      ]
+     },
+     {
+      "label": "Adjustment of non-cash items:",
+      "values": [
+       "",
+       "",
+       ""
+      ]
+     },
+     {
+      "label": "Income taxes in the income statement",
+      "values": [
+       "28,106",
+       "26,203",
+       "20,991"
+      ]
+     },
+     {
+      "label": "Depreciation, amortisation and impairment losses",
+      "values": [
+       "21,982",
+       "19,107",
+       "9,413"
+      ]
+     },
+     {
+      "label": "Other non-cash items",
+      "values": [
+       "(3,122)",
+       "445",
+       "424"
+      ]
+     },
+     {
+      "label": "Changes in working capital",
+      "values": [
+       "3,737",
+       "2,589",
+       "19,713"
+      ]
+     },
+     {
+      "label": "Interest received",
+      "values": [
+       "1,398",
+       "1,884",
+       "1,072"
+      ]
+     },
+     {
+      "label": "Interest paid",
+      "values": [
+       "(3,419)",
+       "(612)",
+       "(491)"
+      ]
+     },
+     {
+      "label": "Income taxes paid",
+      "values": [
+       "(32,014)",
+       "(29,636)",
+       "(25,897)"
+      ]
+     },
+     {
+      "label": "Net cash flows from operating activities",
+      "values": [
+       "119,102",
+       "120,968",
+       "108,908"
+      ]
+     },
+     {
+      "label": "Purchase of intangible assets",
+      "values": [
+       "(29,973)",
+       "(4,145)",
+       "(13,090)"
+      ]
+     },
+     {
+      "label": "Purchase of property, plant and equipment",
+      "values": [
+       "(60,140)",
+       "(47,164)",
+       "(25,806)"
+      ]
+     },
+     {
+      "label": "Cash used for acquisition of businesses",
+      "values": [
+       "0",
+       "(82,163)",
+       "0"
+      ]
+     },
+     {
+      "label": "Settlement for prior year's acquisition of businesses",
+      "values": [
+       "1,004",
+       "0",
+       "0"
+      ]
+     },
+     {
+      "label": "Proceeds from other financial assets",
+      "values": [
+       "30",
+       "0",
+       "33"
+      ]
+     },
+     {
+      "label": "Purchase of other financial assets",
+      "values": [
+       "(225)",
+       "(786)",
+       "(271)"
+      ]
+     },
+     {
+      "label": "Purchase of marketable securities",
+      "values": [
+       "(498)",
+       "(19,028)",
+       "(13,018)"
+      ]
+     },
+     {
+      "label": "Sale of marketable securities",
+      "values": [
+       "10,644",
+       "24,391",
+       "8,260"
+      ]
+     },
+     {
+      "label": "Net cash flows from investing activities",
+      "values": [
+       "(79,158)",
+       "(128,895)",
+       "(43,892)"
+      ]
+     },
+     {
+      "label": "Purchase of treasury shares",
+      "values": [
+       "(1,388)",
+       "(20,181)",
+       "(29,924)"
+      ]
+     },
+     {
+      "label": "Dividends paid",
+      "values": [
+       "(51,763)",
+       "(44,140)",
+       "(31,767)"
+      ]
+     },
+     {
+      "label": "Proceeds from borrowings",
+      "values": [
+       "103,931",
+       "79,391",
+       "0"
+      ]
+     },
+     {
+      "label": "Repayment of borrowings",
+      "values": [
+       "(79,188)",
+       "(6,335)",
+       "(1,467)"
+      ]
+     },
+     {
+      "label": "Net cash flows from financing activities",
+      "values": [
+       "(28,408)",
+       "8,735",
+       "(63,158)"
+      ]
+     },
+     {
+      "label": "Net cash generated from activities",
+      "values": [
+       "11,536",
+       "808",
+       "1,858"
+      ]
+     },
+     {
+      "label": "Cash and cash equivalents at the beginning of the year",
+      "values": [
+       "15,655",
+       "14,392",
+       "12,653"
+      ]
+     },
+     {
+      "label": "Exchange gains/(losses) on cash and cash equivalents",
+      "values": [
+       "(727)",
+       "455",
+       "(119)"
+      ]
+     },
+     {
+      "label": "Cash and cash equivalents at the end of the year",
+      "values": [
+       "kr 26,464",
+       "kr 15,655",
+       "kr 14,392"
+      ]
+     }
+    ]
+   },
+   "balance_sheet": {
+    "title": "Balance sheet - DKK (kr) kr in Millions",
+    "page": "R6.htm",
+    "url": "https://www.sec.gov/Archives/edgar/data/353278/000035327826000012/R6.htm",
+    "sha256": "6dda7739af0800d67a6eba42a688919b2a63af25c38eb134f58c3b6d4faa2a25",
+    "headers": [
+     "Dec. 31, 2025",
+     "Dec. 31, 2024"
+    ],
+    "rows": [
+     {
+      "label": "Assets",
+      "values": [
+       "",
+       ""
+      ]
+     },
+     {
+      "label": "Intangible assets",
+      "values": [
+       "kr 110,208",
+       "kr 90,804"
+      ]
+     },
+     {
+      "label": "Goodwill",
+      "values": [
+       "19,845",
+       "20,017"
+      ]
+     },
+     {
+      "label": "Property, plant and equipment",
+      "values": [
+       "208,378",
+       "161,680"
+      ]
+     },
+     {
+      "label": "Investments in associated companies",
+      "values": [
+       "366",
+       "400"
+      ]
+     },
+     {
+      "label": "Deferred income tax assets",
+      "values": [
+       "23,647",
+       "24,648"
+      ]
+     },
+     {
+      "label": "Other receivables and prepayments",
+      "values": [
+       "5,864",
+       "4,016"
+      ]
+     },
+     {
+      "label": "Other financial assets",
+      "values": [
+       "2,141",
+       "2,277"
+      ]
+     },
+     {
+      "label": "Total non-current assets",
+      "values": [
+       "370,449",
+       "303,842"
+      ]
+     },
+     {
+      "label": "Inventories",
+      "values": [
+       "49,623",
+       "40,849"
+      ]
+     },
+     {
+      "label": "Trade receivables",
+      "values": [
+       "70,856",
+       "71,949"
+      ]
+     },
+     {
+      "label": "Tax receivables",
+      "values": [
+       "4,848",
+       "2,853"
+      ]
+     },
+     {
+      "label": "Other receivables and prepayments",
+      "values": [
+       "13,482",
+       "13,503"
+      ]
+     },
+     {
+      "label": "Marketable securities",
+      "values": [
+       "498",
+       "10,653"
+      ]
+     },
+     {
+      "label": "Derivative financial instruments",
+      "values": [
+       "6,682",
+       "6,326"
+      ]
+     },
+     {
+      "label": "Cash at bank",
+      "values": [
+       "26,464",
+       "15,655"
+      ]
+     },
+     {
+      "label": "Total current assets",
+      "values": [
+       "172,453",
+       "161,788"
+      ]
+     },
+     {
+      "label": "Total assets",
+      "values": [
+       "542,902",
+       "465,630"
+      ]
+     },
+     {
+      "label": "Equity and liabilities",
+      "values": [
+       "",
+       ""
+      ]
+     },
+     {
+      "label": "Share capital",
+      "values": [
+       "446",
+       "446"
+      ]
+     },
+     {
+      "label": "Treasury shares",
+      "values": [
+       "(2)",
+       "(2)"
+      ]
+     },
+     {
+      "label": "Retained earnings",
+      "values": [
+       "195,298",
+       "144,448"
+      ]
+     },
+     {
+      "label": "Other reserves",
+      "values": [
+       "(1,695)",
+       "(1,406)"
+      ]
+     },
+     {
+      "label": "Total equity",
+      "values": [
+       "194,047",
+       "143,486"
+      ]
+     },
+     {
+      "label": "Borrowings",
+      "values": [
+       "118,941",
+       "89,674"
+      ]
+     },
+     {
+      "label": "Deferred income tax liabilities",
+      "values": [
+       "6,611",
+       "5,515"
+      ]
+     },
+     {
+      "label": "Retirement benefit obligations",
+      "values": [
+       "861",
+       "903"
+      ]
+     },
+     {
+      "label": "Provisions",
+      "values": [
+       "5,730",
+       "6,982"
+      ]
+     },
+     {
+      "label": "Sales deductions and product returns",
+      "values": [
+       "1,051",
+       "1,456"
+      ]
+     },
+     {
+      "label": "Total non-current liabilities",
+      "values": [
+       "133,194",
+       "104,530"
+      ]
+     },
+     {
+      "label": "Borrowings",
+      "values": [
+       "12,017",
+       "13,113"
+      ]
+     },
+     {
+      "label": "Trade payables",
+      "values": [
+       "19,758",
+       "17,140"
+      ]
+     },
+     {
+      "label": "Tax payables",
+      "values": [
+       "8,416",
+       "9,716"
+      ]
+     },
+     {
+      "label": "Other liabilities",
+      "values": [
+       "39,721",
+       "35,372"
+      ]
+     },
+     {
+      "label": "Derivative financial instruments",
+      "values": [
+       "2,026",
+       "7,531"
+      ]
+     },
+     {
+      "label": "Liabilities for product returns",
+      "values": [
+       "374",
+       "289"
+      ]
+     },
+     {
+      "label": "Sales deductions and product returns",
+      "values": [
+       "133,349",
+       "134,453"
+      ]
+     },
+     {
+      "label": "Total current liabilities",
+      "values": [
+       "215,661",
+       "217,614"
+      ]
+     },
+     {
+      "label": "Total liabilities",
+      "values": [
+       "348,855",
+       "322,144"
+      ]
+     },
+     {
+      "label": "Total equity and liabilities",
+      "values": [
+       "kr 542,902",
+       "kr 465,630"
+      ]
+     }
+    ]
+   }
+  }
+ },
+ {
+  "company": "Novo Nordisk",
+  "cik": 353278,
+  "fiscal_year": 2024,
+  "accession": "0001628280-25-003920",
+  "filed": "2025-02-05",
+  "filing_index": "https://www.sec.gov/Archives/edgar/data/353278/000162828025003920/",
+  "statements": {
+   "income_statement": {
+    "title": "Income statement and Statement of comprehensive income - DKK (kr) kr in Millions",
+    "page": "R3.htm",
+    "url": "https://www.sec.gov/Archives/edgar/data/353278/000162828025003920/R3.htm",
+    "sha256": "35aafbfe05c523bf873c7b16925aa310b44d2e7a3117aca0714345adee0b7e58",
+    "headers": [
+     "Dec. 31, 2024",
+     "Dec. 31, 2023",
+     "Dec. 31, 2022"
+    ],
+    "rows": [
+     {
+      "label": "Profit or loss [abstract]",
+      "values": [
+       "",
+       "",
+       ""
+      ]
+     },
+     {
+      "label": "Net sales",
+      "values": [
+       "kr 290,403",
+       "kr 232,261",
+       "kr 176,954"
+      ]
+     },
+     {
+      "label": "Cost of goods sold",
+      "values": [
+       "(44,522)",
+       "(35,765)",
+       "(28,448)"
+      ]
+     },
+     {
+      "label": "Gross profit",
+      "values": [
+       "245,881",
+       "196,496",
+       "148,506"
+      ]
+     },
+     {
+      "label": "Sales and distribution costs",
+      "values": [
+       "(62,101)",
+       "(56,743)",
+       "(46,217)"
+      ]
+     },
+     {
+      "label": "Research and development costs",
+      "values": [
+       "(48,062)",
+       "(32,443)",
+       "(24,047)"
+      ]
+     },
+     {
+      "label": "Administrative costs",
+      "values": [
+       "(5,276)",
+       "(4,855)",
+       "(4,467)"
+      ]
+     },
+     {
+      "label": "Other operating income and expenses",
+      "values": [
+       "(2,103)",
+       "119",
+       "1,034"
+      ]
+     },
+     {
+      "label": "Operating profit",
+      "values": [
+       "128,339",
+       "102,574",
+       "74,809"
+      ]
+     },
+     {
+      "label": "Financial income",
+      "values": [
+       "6,198",
+       "2,945",
+       "239"
+      ]
+     },
+     {
+      "label": "Financial expenses",
+      "values": [
+       "(7,346)",
+       "(845)",
+       "(5,986)"
+      ]
+     },
+     {
+      "label": "Profit before income taxes",
+      "values": [
+       "127,191",
+       "104,674",
+       "69,062"
+      ]
+     },
+     {
+      "label": "Income taxes",
+      "values": [
+       "(26,203)",
+       "(20,991)",
+       "(13,537)"
+      ]
+     },
+     {
+      "label": "Net profit",
+      "values": [
+       "kr 100,988",
+       "kr 83,683",
+       "kr 55,525"
+      ]
+     },
+     {
+      "label": "Earnings per share",
+      "values": [
+       "",
+       "",
+       ""
+      ]
+     },
+     {
+      "label": "Basic earnings per share (DKK per share)",
+      "values": [
+       "kr 22.67",
+       "kr 18.67",
+       "kr 12.26"
+      ]
+     },
+     {
+      "label": "Diluted earnings per share (DKK per share)",
+      "values": [
+       "kr 22.63",
+       "kr 18.62",
+       "kr 12.22"
+      ]
+     }
+    ]
+   },
+   "cash_flow": {
+    "title": "Cash flow statement - DKK (kr) kr in Millions",
+    "page": "R5.htm",
+    "url": "https://www.sec.gov/Archives/edgar/data/353278/000162828025003920/R5.htm",
+    "sha256": "3b658346b0de36eeca9fb8b89d5a5e70c93c1903dbfb3535e79fcba41a791017",
+    "headers": [
+     "Dec. 31, 2024",
+     "Dec. 31, 2023",
+     "Dec. 31, 2022"
+    ],
+    "rows": [
+     {
+      "label": "Statement of cash flows [abstract]",
+      "values": [
+       "",
+       "",
+       ""
+      ]
+     },
+     {
+      "label": "Net profit",
+      "values": [
+       "kr 100,988",
+       "kr 83,683",
+       "kr 55,525"
+      ]
+     },
+     {
+      "label": "Adjustment of non-cash items:",
+      "values": [
+       "",
+       "",
+       ""
+      ]
+     },
+     {
+      "label": "Income taxes in the income statement",
+      "values": [
+       "26,203",
+       "20,991",
+       "13,537"
+      ]
+     },
+     {
+      "label": "Depreciation, amortisation and impairment losses",
+      "values": [
+       "19,107",
+       "9,413",
+       "7,362"
+      ]
+     },
+     {
+      "label": "Other non-cash items",
+      "values": [
+       "15,029",
+       "33,517",
+       "22,509"
+      ]
+     },
+     {
+      "label": "Changes in working capital",
+      "values": [
+       "(11,995)",
+       "(13,380)",
+       "(5,535)"
+      ]
+     },
+     {
+      "label": "Interest received",
+      "values": [
+       "1,884",
+       "1,072",
+       "276"
+      ]
+     },
+     {
+      "label": "Interest paid",
+      "values": [
+       "(612)",
+       "(491)",
+       "(272)"
+      ]
+     },
+     {
+      "label": "Income taxes paid",
+      "values": [
+       "(29,636)",
+       "(25,897)",
+       "(14,515)"
+      ]
+     },
+     {
+      "label": "Net cash flows from operating activities",
+      "values": [
+       "120,968",
+       "108,908",
+       "78,887"
+      ]
+     },
+     {
+      "label": "Purchase of intangible assets",
+      "values": [
+       "(4,145)",
+       "(13,090)",
+       "(2,607)"
+      ]
+     },
+     {
+      "label": "Purchase of property, plant and equipment",
+      "values": [
+       "(47,164)",
+       "(25,806)",
+       "(12,146)"
+      ]
+     },
+     {
+      "label": "Cash used for acquisition of businesses",
+      "values": [
+       "(82,163)",
+       "0",
+       "(7,075)"
+      ]
+     },
+     {
+      "label": "Proceeds from other financial assets",
+      "values": [
+       "0",
+       "33",
+       "0"
+      ]
+     },
+     {
+      "label": "Purchase of other financial assets",
+      "values": [
+       "(786)",
+       "(271)",
+       "(169)"
+      ]
+     },
+     {
+      "label": "Purchase of marketable securities",
+      "values": [
+       "(19,028)",
+       "(13,018)",
+       "(9,566)"
+      ]
+     },
+     {
+      "label": "Sale of marketable securities",
+      "values": [
+       "24,391",
+       "8,260",
+       "6,645"
+      ]
+     },
+     {
+      "label": "Net cash flows from investing activities",
+      "values": [
+       "(128,895)",
+       "(43,892)",
+       "(24,918)"
+      ]
+     },
+     {
+      "label": "Purchase of treasury shares",
+      "values": [
+       "(20,181)",
+       "(29,924)",
+       "(24,086)"
+      ]
+     },
+     {
+      "label": "Dividends paid",
+      "values": [
+       "(44,140)",
+       "(31,767)",
+       "(25,303)"
+      ]
+     },
+     {
+      "label": "Proceeds from borrowings",
+      "values": [
+       "79,391",
+       "0",
+       "11,215"
+      ]
+     },
+     {
+      "label": "Repayment of borrowings",
+      "values": [
+       "(6,335)",
+       "(1,467)",
+       "(13,623)"
+      ]
+     },
+     {
+      "label": "Net cash flows from financing activities",
+      "values": [
+       "8,735",
+       "(63,158)",
+       "(51,797)"
+      ]
+     },
+     {
+      "label": "Net cash generated from activities",
+      "values": [
+       "808",
+       "1,858",
+       "2,172"
+      ]
+     },
+     {
+      "label": "Cash and cash equivalents at the beginning of the year",
+      "values": [
+       "14,392",
+       "12,653",
+       "10,719"
+      ]
+     },
+     {
+      "label": "Exchange gains/(losses) on cash and cash equivalents",
+      "values": [
+       "455",
+       "(119)",
+       "(238)"
+      ]
+     },
+     {
+      "label": "Cash and cash equivalents at the end of the year",
+      "values": [
+       "kr 15,655",
+       "kr 14,392",
+       "kr 12,653"
+      ]
+     }
+    ]
+   },
+   "balance_sheet": {
+    "title": "Balance sheet - DKK (kr) kr in Millions",
+    "page": "R6.htm",
+    "url": "https://www.sec.gov/Archives/edgar/data/353278/000162828025003920/R6.htm",
+    "sha256": "2854aaf93f5a0ddebe0e7fdba0567b91e21f168fd30cbad177e398ad5b972fcd",
+    "headers": [
+     "Dec. 31, 2024",
+     "Dec. 31, 2023"
+    ],
+    "rows": [
+     {
+      "label": "Assets",
+      "values": [
+       "",
+       ""
+      ]
+     },
+     {
+      "label": "Intangible assets",
+      "values": [
+       "kr 111,090",
+       "kr 60,406"
+      ]
+     },
+     {
+      "label": "Property, plant and equipment",
+      "values": [
+       "162,488",
+       "90,961"
+      ]
+     },
+     {
+      "label": "Investments in associated companies",
+      "values": [
+       "400",
+       "410"
+      ]
+     },
+     {
+      "label": "Deferred income tax assets",
+      "values": [
+       "24,627",
+       "20,380"
+      ]
+     },
+     {
+      "label": "Other receivables and prepayments",
+      "values": [
+       "4,016",
+       "1,430"
+      ]
+     },
+     {
+      "label": "Other financial assets",
+      "values": [
+       "2,277",
+       "1,253"
+      ]
+     },
+     {
+      "label": "Total non-current assets",
+      "values": [
+       "304,898",
+       "174,840"
+      ]
+     },
+     {
+      "label": "Inventories",
+      "values": [
+       "40,849",
+       "31,811"
+      ]
+     },
+     {
+      "label": "Trade receivables",
+      "values": [
+       "71,949",
+       "64,770"
+      ]
+     },
+     {
+      "label": "Tax receivables",
+      "values": [
+       "2,853",
+       "2,423"
+      ]
+     },
+     {
+      "label": "Other receivables and prepayments",
+      "values": [
+       "12,612",
+       "8,068"
+      ]
+     },
+     {
+      "label": "Marketable securities",
+      "values": [
+       "10,653",
+       "15,838"
+      ]
+     },
+     {
+      "label": "Derivative financial instruments",
+      "values": [
+       "6,326",
+       "2,344"
+      ]
+     },
+     {
+      "label": "Cash at bank",
+      "values": [
+       "15,655",
+       "14,392"
+      ]
+     },
+     {
+      "label": "Total current assets",
+      "values": [
+       "160,897",
+       "139,646"
+      ]
+     },
+     {
+      "label": "Total assets",
+      "values": [
+       "465,795",
+       "314,486"
+      ]
+     },
+     {
+      "label": "Equity and liabilities",
+      "values": [
+       "",
+       ""
+      ]
+     },
+     {
+      "label": "Share capital",
+      "values": [
+       "446",
+       "451"
+      ]
+     },
+     {
+      "label": "Treasury shares",
+      "values": [
+       "(2)",
+       "(5)"
+      ]
+     },
+     {
+      "label": "Retained earnings",
+      "values": [
+       "144,448",
+       "104,839"
+      ]
+     },
+     {
+      "label": "Other reserves",
+      "values": [
+       "(1,406)",
+       "1,276"
+      ]
+     },
+     {
+      "label": "Total equity",
+      "values": [
+       "143,486",
+       "106,561"
+      ]
+     },
+     {
+      "label": "Borrowings",
+      "values": [
+       "89,674",
+       "20,528"
+      ]
+     },
+     {
+      "label": "Deferred income tax liabilities",
+      "values": [
+       "5,426",
+       "10,162"
+      ]
+     },
+     {
+      "label": "Retirement benefit obligations",
+      "values": [
+       "903",
+       "742"
+      ]
+     },
+     {
+      "label": "Other liabilities",
+      "values": [
+       "23",
+       "189"
+      ]
+     },
+     {
+      "label": "Provisions",
+      "values": [
+       "8,755",
+       "6,649"
+      ]
+     },
+     {
+      "label": "Total non-current liabilities",
+      "values": [
+       "104,781",
+       "38,270"
+      ]
+     },
+     {
+      "label": "Borrowings",
+      "values": [
+       "13,113",
+       "6,478"
+      ]
+     },
+     {
+      "label": "Trade payables",
+      "values": [
+       "28,846",
+       "25,606"
+      ]
+     },
+     {
+      "label": "Tax payables",
+      "values": [
+       "9,716",
+       "7,116"
+      ]
+     },
+     {
+      "label": "Other liabilities",
+      "values": [
+       "37,993",
+       "28,705"
+      ]
+     },
+     {
+      "label": "Derivative financial instruments",
+      "values": [
+       "7,531",
+       "1,272"
+      ]
+     },
+     {
+      "label": "Provisions",
+      "values": [
+       "120,329",
+       "100,478"
+      ]
+     },
+     {
+      "label": "Total current liabilities",
+      "values": [
+       "217,528",
+       "169,655"
+      ]
+     },
+     {
+      "label": "Total liabilities",
+      "values": [
+       "322,309",
+       "207,925"
+      ]
+     },
+     {
+      "label": "Total equity and liabilities",
+      "values": [
+       "kr 465,795",
+       "kr 314,486"
+      ]
+     }
+    ]
+   }
+  }
+ },
+ {
+  "company": "Novartis",
+  "cik": 1114448,
+  "fiscal_year": 2025,
+  "accession": "0001114448-26-000004",
+  "filed": "2026-02-04",
+  "filing_index": "https://www.sec.gov/Archives/edgar/data/1114448/000111444826000004/",
+  "statements": {
+   "income_statement": {
+    "title": "Consolidated income statements - USD ($) $ in Millions",
+    "page": "R2.htm",
+    "url": "https://www.sec.gov/Archives/edgar/data/1114448/000111444826000004/R2.htm",
+    "sha256": "d6ba9e1401b23e45fdcf527fd14b174f0c28a72caea694efbc24821d21dff8a3",
+    "headers": [
+     "Dec. 31, 2025",
+     "Dec. 31, 2024",
+     "Dec. 31, 2023"
+    ],
+    "rows": [
+     {
+      "label": "Statement [line items]",
+      "values": [
+       "",
+       "",
+       ""
+      ]
+     },
+     {
+      "label": "Net sales from continuing operations",
+      "values": [
+       "$ 54,532",
+       "$ 50,317",
+       "$ 45,440"
+      ]
+     },
+     {
+      "label": "Other revenues",
+      "values": [
+       "2,142",
+       "1,405",
+       "1,220"
+      ]
+     },
+     {
+      "label": "Cost of goods sold",
+      "values": [
+       "(13,699)",
+       "(12,827)",
+       "(12,472)"
+      ]
+     },
+     {
+      "label": "Gross profit from continuing operations",
+      "values": [
+       "42,975",
+       "38,895",
+       "34,188"
+      ]
+     },
+     {
+      "label": "Selling, general and administration",
+      "values": [
+       "(13,248)",
+       "(12,566)",
+       "(12,517)"
+      ]
+     },
+     {
+      "label": "Research and development",
+      "values": [
+       "(11,200)",
+       "(10,022)",
+       "(11,371)"
+      ]
+     },
+     {
+      "label": "Other income",
+      "values": [
+       "1,460",
+       "1,175",
+       "1,772"
+      ]
+     },
+     {
+      "label": "Other expense",
+      "values": [
+       "(2,343)",
+       "(2,938)",
+       "(2,303)"
+      ]
+     },
+     {
+      "label": "Operating income from continuing operations",
+      "values": [
+       "17,644",
+       "14,544",
+       "9,769"
+      ]
+     },
+     {
+      "label": "Loss from associated companies",
+      "values": [
+       "(12)",
+       "(38)",
+       "(13)"
+      ]
+     },
+     {
+      "label": "Interest expense",
+      "values": [
+       "(1,144)",
+       "(1,006)",
+       "(855)"
+      ]
+     },
+     {
+      "label": "Other financial income and expense",
+      "values": [
+       "(136)",
+       "140",
+       "222"
+      ]
+     },
+     {
+      "label": "Income before taxes from continuing operations",
+      "values": [
+       "16,352",
+       "13,640",
+       "9,123"
+      ]
+     },
+     {
+      "label": "Income taxes",
+      "values": [
+       "(2,385)",
+       "(1,701)",
+       "(551)"
+      ]
+     },
+     {
+      "label": "Net income from continuing operations",
+      "values": [
+       "13,967",
+       "11,939",
+       "8,572"
+      ]
+     },
+     {
+      "label": "Net income from discontinued operations before gain on distribution",
+      "values": [
+       "",
+       "",
+       "422"
+      ]
+     },
+     {
+      "label": "Gain on distribution of Sandoz Group AG to Novartis AG shareholders",
+      "values": [
+       "",
+       "",
+       "5,860"
+      ]
+     },
+     {
+      "label": "Net income from discontinued operations",
+      "values": [
+       "",
+       "",
+       "6,282"
+      ]
+     },
+     {
+      "label": "Net income",
+      "values": [
+       "13,967",
+       "11,939",
+       "14,854"
+      ]
+     },
+     {
+      "label": "Attributable to",
+      "values": [
+       "",
+       "",
+       ""
+      ]
+     },
+     {
+      "label": "Shareholders of Novartis AG",
+      "values": [
+       "13,984",
+       "11,941",
+       "14,850"
+      ]
+     },
+     {
+      "label": "Non-controlling interests",
+      "values": [
+       "$ (17)",
+       "$ (2)",
+       "$ 4"
+      ]
+     },
+     {
+      "label": "Basic earnings per share [abstract]",
+      "values": [
+       "",
+       "",
+       ""
+      ]
+     },
+     {
+      "label": "Basic earnings (loss) per share from continuing operations",
+      "values": [
+       "$ 7.21",
+       "$ 5.92",
+       "$ 4.13"
+      ]
+     },
+     {
+      "label": "Basic earnings (loss) per share from discontinued operations",
+      "values": [
+       "",
+       "",
+       "3.02"
+      ]
+     },
+     {
+      "label": "Basic earnings per share",
+      "values": [
+       "7.21",
+       "5.92",
+       "7.15"
+      ]
+     },
+     {
+      "label": "Diluted earnings per share [abstract]",
+      "values": [
+       "",
+       "",
+       ""
+      ]
+     },
+     {
+      "label": "Diluted earnings (loss) per share from continuing operations",
+      "values": [
+       "7.15",
+       "5.87",
+       "4.10"
+      ]
+     },
+     {
+      "label": "Diluted earnings (loss) per share from discontinued operations",
+      "values": [
+       "",
+       "",
+       "3.00"
+      ]
+     },
+     {
+      "label": "Diluted earnings per share",
+      "values": [
+       "$ 7.15",
+       "$ 5.87",
+       "$ 7.10"
+      ]
+     }
+    ]
+   },
+   "balance_sheet": {
+    "title": "Consolidated balance sheets - USD ($) $ in Millions",
+    "page": "R4.htm",
+    "url": "https://www.sec.gov/Archives/edgar/data/1114448/000111444826000004/R4.htm",
+    "sha256": "912c6fec976cd314e79d13a96d37c86198e18f55de19452331f01f4dee7f7bb2",
+    "headers": [
+     "Dec. 31, 2025",
+     "Dec. 31, 2024"
+    ],
+    "rows": [
+     {
+      "label": "Non-current assets [abstract]",
+      "values": [
+       "",
+       ""
+      ]
+     },
+     {
+      "label": "Property, plant and equipment",
+      "values": [
+       "$ 10,782",
+       "$ 9,458"
+      ]
+     },
+     {
+      "label": "Right-of-use assets",
+      "values": [
+       "1,570",
+       "1,415"
+      ]
+     },
+     {
+      "label": "Goodwill",
+      "values": [
+       "25,567",
+       "24,756"
+      ]
+     },
+     {
+      "label": "Intangible assets other than goodwill",
+      "values": [
+       "29,411",
+       "26,915"
+      ]
+     },
+     {
+      "label": "Investments in associated companies",
+      "values": [
+       "98",
+       "119"
+      ]
+     },
+     {
+      "label": "Deferred tax assets",
+      "values": [
+       "5,438",
+       "4,359"
+      ]
+     },
+     {
+      "label": "Financial assets",
+      "values": [
+       "2,348",
+       "2,015"
+      ]
+     },
+     {
+      "label": "Other non-current assets",
+      "values": [
+       "5,275",
+       "3,505"
+      ]
+     },
+     {
+      "label": "Total non-current assets",
+      "values": [
+       "80,489",
+       "72,542"
+      ]
+     },
+     {
+      "label": "Current assets [abstract]",
+      "values": [
+       "",
+       ""
+      ]
+     },
+     {
+      "label": "Inventories",
+      "values": [
+       "6,269",
+       "5,723"
+      ]
+     },
+     {
+      "label": "Trade receivables",
+      "values": [
+       "8,937",
+       "7,423"
+      ]
+     },
+     {
+      "label": "Income tax receivables",
+      "values": [
+       "205",
+       "133"
+      ]
+     },
+     {
+      "label": "Marketable securities, time deposits and derivative financial instruments",
+      "values": [
+       "155",
+       "1,998"
+      ]
+     },
+     {
+      "label": "Cash and cash equivalents",
+      "values": [
+       "11,435",
+       "11,459"
+      ]
+     },
+     {
+      "label": "Other current assets",
+      "values": [
+       "3,459",
+       "2,968"
+      ]
+     },
+     {
+      "label": "Total current assets",
+      "values": [
+       "30,460",
+       "29,704"
+      ]
+     },
+     {
+      "label": "Total assets",
+      "values": [
+       "110,949",
+       "102,246"
+      ]
+     },
+     {
+      "label": "Equity [abstract]",
+      "values": [
+       "",
+       ""
+      ]
+     },
+     {
+      "label": "Share capital",
+      "values": [
+       "766",
+       "793"
+      ]
+     },
+     {
+      "label": "Treasury shares",
+      "values": [
+       "(50)",
+       "(53)"
+      ]
+     },
+     {
+      "label": "Reserves",
+      "values": [
+       "45,414",
+       "43,306"
+      ]
+     },
+     {
+      "label": "Equity attributable to Novartis AG shareholders",
+      "values": [
+       "46,130",
+       "44,046"
+      ]
+     },
+     {
+      "label": "Non-controlling interests",
+      "values": [
+       "419",
+       "80"
+      ]
+     },
+     {
+      "label": "Total equity",
+      "values": [
+       "46,549",
+       "44,126"
+      ]
+     },
+     {
+      "label": "Non-current liabilities [abstract]",
+      "values": [
+       "",
+       ""
+      ]
+     },
+     {
+      "label": "Financial debts",
+      "values": [
+       "27,935",
+       "21,366"
+      ]
+     },
+     {
+      "label": "Lease liabilities",
+      "values": [
+       "1,657",
+       "1,568"
+      ]
+     },
+     {
+      "label": "Deferred tax liabilities",
+      "values": [
+       "3,397",
+       "2,419"
+      ]
+     },
+     {
+      "label": "Provisions and other non-current liabilities",
+      "values": [
+       "4,133",
+       "4,075"
+      ]
+     },
+     {
+      "label": "Total non-current liabilities",
+      "values": [
+       "37,122",
+       "29,428"
+      ]
+     },
+     {
+      "label": "Current liabilities [abstract]",
+      "values": [
+       "",
+       ""
+      ]
+     },
+     {
+      "label": "Trade payables",
+      "values": [
+       "4,456",
+       "4,572"
+      ]
+     },
+     {
+      "label": "Financial debts and derivative financial instruments",
+      "values": [
+       "5,602",
+       "8,232"
+      ]
+     },
+     {
+      "label": "Lease liabilities",
+      "values": [
+       "263",
+       "235"
+      ]
+     },
+     {
+      "label": "Current income tax liabilities",
+      "values": [
+       "1,969",
+       "1,599"
+      ]
+     },
+     {
+      "label": "Provisions and other current liabilities",
+      "values": [
+       "14,988",
+       "14,054"
+      ]
+     },
+     {
+      "label": "Total current liabilities",
+      "values": [
+       "27,278",
+       "28,692"
+      ]
+     },
+     {
+      "label": "Total liabilities",
+      "values": [
+       "64,400",
+       "58,120"
+      ]
+     },
+     {
+      "label": "Total equity and liabilities",
+      "values": [
+       "$ 110,949",
+       "$ 102,246"
+      ]
+     }
+    ]
+   },
+   "cash_flow": {
+    "title": "Consolidated cash flow statements - USD ($) $ in Millions",
+    "page": "R6.htm",
+    "url": "https://www.sec.gov/Archives/edgar/data/1114448/000111444826000004/R6.htm",
+    "sha256": "ceb93481d96934f7043ccbcb3f35bced79ea4dc9e21027c928ac17834fd8b4d8",
+    "headers": [
+     "Dec. 31, 2025",
+     "Dec. 31, 2024",
+     "Dec. 31, 2023"
+    ],
+    "rows": [
+     {
+      "label": "Statement [line items]",
+      "values": [
+       "",
+       "",
+       ""
+      ]
+     },
+     {
+      "label": "Net income from continuing operations",
+      "values": [
+       "$ 13,967",
+       "$ 11,939",
+       "$ 8,572"
+      ]
+     },
+     {
+      "label": "Reversal of non-cash items and other adjustments",
+      "values": [
+       "11,229",
+       "10,232",
+       "10,369"
+      ]
+     },
+     {
+      "label": "Dividends received from associated companies and others",
+      "values": [
+       "1",
+       "1",
+       "2"
+      ]
+     },
+     {
+      "label": "Interest received",
+      "values": [
+       "310",
+       "489",
+       "645"
+      ]
+     },
+     {
+      "label": "Interest paid",
+      "values": [
+       "(981)",
+       "(855)",
+       "(751)"
+      ]
+     },
+     {
+      "label": "Other financial receipts",
+      "values": [
+       "266",
+       "",
+       "90"
+      ]
+     },
+     {
+      "label": "Other financial payments",
+      "values": [
+       "(26)",
+       "(116)",
+       "(17)"
+      ]
+     },
+     {
+      "label": "Income taxes paid",
+      "values": [
+       "(2,562)",
+       "(2,258)",
+       "(2,787)"
+      ]
+     },
+     {
+      "label": "Net cash flows from operating activities from continuing operations before working capital and provision changes",
+      "values": [
+       "22,204",
+       "19,432",
+       "16,123"
+      ]
+     },
+     {
+      "label": "Payments out of provisions and other net cash movements in non-current liabilities",
+      "values": [
+       "(1,483)",
+       "(1,107)",
+       "(1,534)"
+      ]
+     },
+     {
+      "label": "Changes in working capital and other operating cash flow items",
+      "values": [
+       "(1,577)",
+       "(706)",
+       "(369)"
+      ]
+     },
+     {
+      "label": "Net cash flows from operating activities from continuing operations",
+      "values": [
+       "19,144",
+       "17,619",
+       "14,220"
+      ]
+     },
+     {
+      "label": "Net cash flows from operating activities from discontinued operations",
+      "values": [
+       "",
+       "",
+       "238"
+      ]
+     },
+     {
+      "label": "Total net cash flows from operating activities",
+      "values": [
+       "19,144",
+       "17,619",
+       "14,458"
+      ]
+     },
+     {
+      "label": "Purchases of property, plant and equipment",
+      "values": [
+       "(1,548)",
+       "(1,366)",
+       "(1,060)"
+      ]
+     },
+     {
+      "label": "Proceeds from sale of property, plant and equipment",
+      "values": [
+       "13",
+       "86",
+       "237"
+      ]
+     },
+     {
+      "label": "Purchases of intangible assets",
+      "values": [
+       "(2,352)",
+       "(2,448)",
+       "(1,693)"
+      ]
+     },
+     {
+      "label": "Proceeds from sale of intangible assets",
+      "values": [
+       "164",
+       "80",
+       "1,955"
+      ]
+     },
+     {
+      "label": "Purchases of financial assets",
+      "values": [
+       "(116)",
+       "(193)",
+       "(106)"
+      ]
+     },
+     {
+      "label": "Proceeds from sale of financial assets",
+      "values": [
+       "209",
+       "957",
+       "348"
+      ]
+     },
+     {
+      "label": "Acquisitions of businesses",
+      "values": [
+       "(147)",
+       "(4,018)",
+       "(3,561)"
+      ]
+     },
+     {
+      "label": "Acquisitions applying the optional concentration test",
+      "values": [
+       "(2,769)",
+       "",
+       ""
+      ]
+     },
+     {
+      "label": "Divestments of businesses, net",
+      "values": [
+       "(88)",
+       "107",
+       "3"
+      ]
+     },
+     {
+      "label": "Investments in time deposits and marketable securities",
+      "values": [
+       "(187)",
+       "(3,455)",
+       "(641)"
+      ]
+     },
+     {
+      "label": "Proceeds from time deposits and from sale of marketable securities and commodities",
+      "values": [
+       "1,968",
+       "2,744",
+       "11,248"
+      ]
+     },
+     {
+      "label": "Other investing cash flows, net",
+      "values": [
+       "(24)",
+       "(7)",
+       "(11)"
+      ]
+     },
+     {
+      "label": "Net cash flows (used in)/(from) investing activities from continuing operations",
+      "values": [
+       "(4,877)",
+       "(7,513)",
+       "6,719"
+      ]
+     },
+     {
+      "label": "Net cash flows used in investing activities from discontinued operations",
+      "values": [
+       "",
+       "",
+       "(1,123)"
+      ]
+     },
+     {
+      "label": "Total net cash flows (used in)/from investing activities",
+      "values": [
+       "(4,877)",
+       "(7,513)",
+       "5,596"
+      ]
+     },
+     {
+      "label": "Dividends paid to shareholders of Novartis AG",
+      "values": [
+       "(7,818)",
+       "(7,624)",
+       "(7,255)"
+      ]
+     },
+     {
+      "label": "Purchases of treasury shares",
+      "values": [
+       "(9,212)",
+       "(8,331)",
+       "(8,719)"
+      ]
+     },
+     {
+      "label": "Proceeds from exercised options and other treasury share transactions, net",
+      "values": [
+       "27",
+       "30",
+       "153"
+      ]
+     },
+     {
+      "label": "Proceeds from non-current financial debts",
+      "values": [
+       "6,098",
+       "6,143",
+       ""
+      ]
+     },
+     {
+      "label": "Repayments of the current portion of non-current financial debts",
+      "values": [
+       "(3,392)",
+       "(2,160)",
+       "(2,223)"
+      ]
+     },
+     {
+      "label": "Change in current financial debts",
+      "values": [
+       "5",
+       "958",
+       "546"
+      ]
+     },
+     {
+      "label": "Repayments of other current financial debts",
+      "values": [
+       "",
+       "(289)",
+       ""
+      ]
+     },
+     {
+      "label": "Payments of lease liabilities",
+      "values": [
+       "(281)",
+       "(262)",
+       "(258)"
+      ]
+     },
+     {
+      "label": "Payments from changes in ownership interests in consolidated subsidiaries",
+      "values": [
+       "(91)",
+       "(293)",
+       ""
+      ]
+     },
+     {
+      "label": "Other financing cash flows, net",
+      "values": [
+       "(203)",
+       "86",
+       "192"
+      ]
+     },
+     {
+      "label": "Net cash flows used in financing activities from continuing operations",
+      "values": [
+       "(14,867)",
+       "(11,742)",
+       "(17,564)"
+      ]
+     },
+     {
+      "label": "Net cash flows from financing activities from discontinued operations",
+      "values": [
+       "",
+       "",
+       "3,286"
+      ]
+     },
+     {
+      "label": "Total net cash flows used in financing activities",
+      "values": [
+       "(14,867)",
+       "(11,742)",
+       "(14,278)"
+      ]
+     },
+     {
+      "label": "Net change in cash and cash equivalents before effect of exchange rate changes",
+      "values": [
+       "(600)",
+       "(1,636)",
+       "5,776"
+      ]
+     },
+     {
+      "label": "Effect of exchange rate changes on cash and cash equivalents",
+      "values": [
+       "576",
+       "(298)",
+       "100"
+      ]
+     },
+     {
+      "label": "Net change in cash and cash equivalents",
+      "values": [
+       "(24)",
+       "(1,934)",
+       "5,876"
+      ]
+     },
+     {
+      "label": "Cash and cash equivalents at beginning of period",
+      "values": [
+       "11,459",
+       "13,393",
+       "7,517"
+      ]
+     },
+     {
+      "label": "Cash and cash equivalents at end of period",
+      "values": [
+       "$ 11,435",
+       "$ 11,459",
+       "$ 13,393"
+      ]
+     }
+    ]
+   }
+  }
+ },
+ {
+  "company": "Novartis",
+  "cik": 1114448,
+  "fiscal_year": 2024,
+  "accession": "0001370368-25-000004",
+  "filed": "2025-01-31",
+  "filing_index": "https://www.sec.gov/Archives/edgar/data/1114448/000137036825000004/",
+  "statements": {
+   "income_statement": {
+    "title": "Consolidated income statements - USD ($) $ in Millions",
+    "page": "R2.htm",
+    "url": "https://www.sec.gov/Archives/edgar/data/1114448/000137036825000004/R2.htm",
+    "sha256": "4f65a7c2acd359f8398bc23294ebbb898db521b85f8f79d5935eafb337b8b88d",
+    "headers": [
+     "Dec. 31, 2024",
+     "Dec. 31, 2023",
+     "Dec. 31, 2022"
+    ],
+    "rows": [
+     {
+      "label": "Statement [line items]",
+      "values": [
+       "",
+       "",
+       ""
+      ]
+     },
+     {
+      "label": "Net sales from continuing operations",
+      "values": [
+       "$ 50,317",
+       "$ 45,440",
+       "$ 42,206"
+      ]
+     },
+     {
+      "label": "Other revenues",
+      "values": [
+       "1,405",
+       "1,220",
+       "1,255"
+      ]
+     },
+     {
+      "label": "Cost of goods sold",
+      "values": [
+       "(12,827)",
+       "(12,472)",
+       "(11,582)"
+      ]
+     },
+     {
+      "label": "Gross profit from continuing operations",
+      "values": [
+       "38,895",
+       "34,188",
+       "31,879"
+      ]
+     },
+     {
+      "label": "Selling, general and administration",
+      "values": [
+       "(12,566)",
+       "(12,517)",
+       "(12,193)"
+      ]
+     },
+     {
+      "label": "Research and development",
+      "values": [
+       "(10,022)",
+       "(11,371)",
+       "(9,172)"
+      ]
+     },
+     {
+      "label": "Other income",
+      "values": [
+       "1,175",
+       "1,772",
+       "696"
+      ]
+     },
+     {
+      "label": "Other expense",
+      "values": [
+       "(2,938)",
+       "(2,303)",
+       "(3,264)"
+      ]
+     },
+     {
+      "label": "Operating income from continuing operations",
+      "values": [
+       "14,544",
+       "9,769",
+       "7,946"
+      ]
+     },
+     {
+      "label": "Loss from associated companies",
+      "values": [
+       "(38)",
+       "(13)",
+       "(11)"
+      ]
+     },
+     {
+      "label": "Interest expense",
+      "values": [
+       "(1,006)",
+       "(855)",
+       "(800)"
+      ]
+     },
+     {
+      "label": "Other financial income and expense",
+      "values": [
+       "140",
+       "222",
+       "42"
+      ]
+     },
+     {
+      "label": "Income before taxes from continuing operations",
+      "values": [
+       "13,640",
+       "9,123",
+       "7,177"
+      ]
+     },
+     {
+      "label": "Income taxes",
+      "values": [
+       "(1,701)",
+       "(551)",
+       "(1,128)"
+      ]
+     },
+     {
+      "label": "Net income from continuing operations",
+      "values": [
+       "11,939",
+       "8,572",
+       "6,049"
+      ]
+     },
+     {
+      "label": "Net income from discontinued operations before gain on distribution",
+      "values": [
+       "",
+       "422",
+       "906"
+      ]
+     },
+     {
+      "label": "Gain on distribution of Sandoz Group AG to Novartis AG shareholders",
+      "values": [
+       "",
+       "5,860",
+       ""
+      ]
+     },
+     {
+      "label": "Net income from discontinued operations",
+      "values": [
+       "",
+       "6,282",
+       "906"
+      ]
+     },
+     {
+      "label": "Net income",
+      "values": [
+       "11,939",
+       "14,854",
+       "6,955"
+      ]
+     },
+     {
+      "label": "Attributable to",
+      "values": [
+       "",
+       "",
+       ""
+      ]
+     },
+     {
+      "label": "Shareholders of Novartis AG",
+      "values": [
+       "11,941",
+       "14,850",
+       "6,955"
+      ]
+     },
+     {
+      "label": "Non-controlling interests",
+      "values": [
+       "$ (2)",
+       "$ 4",
+       "$ 0"
+      ]
+     },
+     {
+      "label": "Basic earnings per share [abstract]",
+      "values": [
+       "",
+       "",
+       ""
+      ]
+     },
+     {
+      "label": "Basic earnings (loss) per share from continuing operations",
+      "values": [
+       "$ 5.92",
+       "$ 4.13",
+       "$ 2.77"
+      ]
+     },
+     {
+      "label": "Basic earnings (loss) per share from discontinued operations",
+      "values": [
+       "",
+       "3.02",
+       "0.42"
+      ]
+     },
+     {
+      "label": "Basic earnings per share",
+      "values": [
+       "5.92",
+       "7.15",
+       "3.19"
+      ]
+     },
+     {
+      "label": "Diluted earnings per share [abstract]",
+      "values": [
+       "",
+       "",
+       ""
+      ]
+     },
+     {
+      "label": "Diluted earnings (loss) per share from continuing operations",
+      "values": [
+       "5.87",
+       "4.10",
+       "2.76"
+      ]
+     },
+     {
+      "label": "Diluted earnings (loss) per share from discontinued operations",
+      "values": [
+       "",
+       "3.00",
+       "0.41"
+      ]
+     },
+     {
+      "label": "Diluted earnings per share",
+      "values": [
+       "$ 5.87",
+       "$ 7.10",
+       "$ 3.17"
+      ]
+     }
+    ]
+   },
+   "balance_sheet": {
+    "title": "Consolidated balance sheets - USD ($) $ in Millions",
+    "page": "R4.htm",
+    "url": "https://www.sec.gov/Archives/edgar/data/1114448/000137036825000004/R4.htm",
+    "sha256": "3a570b27978a4f37bd8de3195d42320569a18ef011b02db562bd53fe7a043f29",
+    "headers": [
+     "Dec. 31, 2024",
+     "Dec. 31, 2023"
+    ],
+    "rows": [
+     {
+      "label": "Non-current assets [abstract]",
+      "values": [
+       "",
+       ""
+      ]
+     },
+     {
+      "label": "Property, plant and equipment",
+      "values": [
+       "$ 9,458",
+       "$ 9,514"
+      ]
+     },
+     {
+      "label": "Right-of-use assets",
+      "values": [
+       "1,415",
+       "1,410"
+      ]
+     },
+     {
+      "label": "Goodwill",
+      "values": [
+       "24,756",
+       "23,341"
+      ]
+     },
+     {
+      "label": "Intangible assets other than goodwill",
+      "values": [
+       "26,915",
+       "26,879"
+      ]
+     },
+     {
+      "label": "Investments in associated companies",
+      "values": [
+       "119",
+       "205"
+      ]
+     },
+     {
+      "label": "Deferred tax assets",
+      "values": [
+       "4,359",
+       "4,309"
+      ]
+     },
+     {
+      "label": "Financial assets",
+      "values": [
+       "2,015",
+       "2,607"
+      ]
+     },
+     {
+      "label": "Other non-current assets",
+      "values": [
+       "3,505",
+       "1,199"
+      ]
+     },
+     {
+      "label": "Total non-current assets",
+      "values": [
+       "72,542",
+       "69,464"
+      ]
+     },
+     {
+      "label": "Current assets [abstract]",
+      "values": [
+       "",
+       ""
+      ]
+     },
+     {
+      "label": "Inventories",
+      "values": [
+       "5,723",
+       "5,913"
+      ]
+     },
+     {
+      "label": "Trade receivables",
+      "values": [
+       "7,423",
+       "7,107"
+      ]
+     },
+     {
+      "label": "Income tax receivable",
+      "values": [
+       "133",
+       "426"
+      ]
+     },
+     {
+      "label": "Marketable securities, commodities, time deposits and derivative financial instruments",
+      "values": [
+       "1,998",
+       "1,035"
+      ]
+     },
+     {
+      "label": "Cash and cash equivalents",
+      "values": [
+       "11,459",
+       "13,393"
+      ]
+     },
+     {
+      "label": "Other current assets",
+      "values": [
+       "2,968",
+       "2,607"
+      ]
+     },
+     {
+      "label": "Total current assets",
+      "values": [
+       "29,704",
+       "30,481"
+      ]
+     },
+     {
+      "label": "Total assets",
+      "values": [
+       "102,246",
+       "99,945"
+      ]
+     },
+     {
+      "label": "Equity [abstract]",
+      "values": [
+       "",
+       ""
+      ]
+     },
+     {
+      "label": "Share capital",
+      "values": [
+       "793",
+       "825"
+      ]
+     },
+     {
+      "label": "Treasury shares",
+      "values": [
+       "(53)",
+       "(41)"
+      ]
+     },
+     {
+      "label": "Reserves",
+      "values": [
+       "43,306",
+       "45,883"
+      ]
+     },
+     {
+      "label": "Equity attributable to Novartis AG shareholders",
+      "values": [
+       "44,046",
+       "46,667"
+      ]
+     },
+     {
+      "label": "Non-controlling interests",
+      "values": [
+       "80",
+       "83"
+      ]
+     },
+     {
+      "label": "Total equity",
+      "values": [
+       "44,126",
+       "46,750"
+      ]
+     },
+     {
+      "label": "Non-current liabilities [abstract]",
+      "values": [
+       "",
+       ""
+      ]
+     },
+     {
+      "label": "Financial debts",
+      "values": [
+       "21,366",
+       "18,436"
+      ]
+     },
+     {
+      "label": "Lease liabilities",
+      "values": [
+       "1,568",
+       "1,598"
+      ]
+     },
+     {
+      "label": "Deferred tax liabilities",
+      "values": [
+       "2,419",
+       "2,248"
+      ]
+     },
+     {
+      "label": "Provisions and other non-current liabilities",
+      "values": [
+       "4,075",
+       "4,523"
+      ]
+     },
+     {
+      "label": "Total non-current liabilities",
+      "values": [
+       "29,428",
+       "26,805"
+      ]
+     },
+     {
+      "label": "Current liabilities [abstract]",
+      "values": [
+       "",
+       ""
+      ]
+     },
+     {
+      "label": "Trade payables",
+      "values": [
+       "4,572",
+       "4,926"
+      ]
+     },
+     {
+      "label": "Financial debts and derivative financial instruments",
+      "values": [
+       "8,232",
+       "6,175"
+      ]
+     },
+     {
+      "label": "Lease liabilities",
+      "values": [
+       "235",
+       "230"
+      ]
+     },
+     {
+      "label": "Current income tax liabilities",
+      "values": [
+       "1,599",
+       "1,893"
+      ]
+     },
+     {
+      "label": "Provisions and other current liabilities",
+      "values": [
+       "14,054",
+       "13,166"
+      ]
+     },
+     {
+      "label": "Total current liabilities",
+      "values": [
+       "28,692",
+       "26,390"
+      ]
+     },
+     {
+      "label": "Total liabilities",
+      "values": [
+       "58,120",
+       "53,195"
+      ]
+     },
+     {
+      "label": "Total equity and liabilities",
+      "values": [
+       "$ 102,246",
+       "$ 99,945"
+      ]
+     }
+    ]
+   },
+   "cash_flow": {
+    "title": "Consolidated cash flow statements - USD ($) $ in Millions",
+    "page": "R6.htm",
+    "url": "https://www.sec.gov/Archives/edgar/data/1114448/000137036825000004/R6.htm",
+    "sha256": "a3191ce6766b1c6e0efa610e028266bb6b82834809c00f4e914b3de9bce2774e",
+    "headers": [
+     "Dec. 31, 2024",
+     "Dec. 31, 2023",
+     "Dec. 31, 2022"
+    ],
+    "rows": [
+     {
+      "label": "Statement [line items]",
+      "values": [
+       "",
+       "",
+       ""
+      ]
+     },
+     {
+      "label": "Net income from continuing operations",
+      "values": [
+       "$ 11,939",
+       "$ 8,572",
+       "$ 6,049"
+      ]
+     },
+     {
+      "label": "Reversal of non-cash items and other adjustments",
+      "values": [
+       "10,232",
+       "10,369",
+       "10,631"
+      ]
+     },
+     {
+      "label": "Dividends received from associated companies and others",
+      "values": [
+       "1",
+       "2",
+       "1"
+      ]
+     },
+     {
+      "label": "Interest received",
+      "values": [
+       "489",
+       "645",
+       "252"
+      ]
+     },
+     {
+      "label": "Interest paid",
+      "values": [
+       "(855)",
+       "(751)",
+       "(667)"
+      ]
+     },
+     {
+      "label": "Other financial receipts",
+      "values": [
+       "",
+       "90",
+       "71"
+      ]
+     },
+     {
+      "label": "Other financial payments",
+      "values": [
+       "(116)",
+       "(17)",
+       "(26)"
+      ]
+     },
+     {
+      "label": "Income taxes paid",
+      "values": [
+       "(2,258)",
+       "(2,787)",
+       "(1,702)"
+      ]
+     },
+     {
+      "label": "Net cash flows from operating activities from continuing operations before working capital and provision changes",
+      "values": [
+       "19,432",
+       "16,123",
+       "14,609"
+      ]
+     },
+     {
+      "label": "Payments out of provisions and other net cash movements in non-current liabilities",
+      "values": [
+       "(1,107)",
+       "(1,534)",
+       "(774)"
+      ]
+     },
+     {
+      "label": "Change in net current assets and other operating cash flow items",
+      "values": [
+       "(706)",
+       "(369)",
+       "(796)"
+      ]
+     },
+     {
+      "label": "Net cash flows from operating activities from continuing operations",
+      "values": [
+       "17,619",
+       "14,220",
+       "13,039"
+      ]
+     },
+     {
+      "label": "Net cash flows from operating activities from discontinued operations",
+      "values": [
+       "",
+       "238",
+       "1,197"
+      ]
+     },
+     {
+      "label": "Total net cash flows from operating activities",
+      "values": [
+       "17,619",
+       "14,458",
+       "14,236"
+      ]
+     },
+     {
+      "label": "Purchases of property, plant and equipment",
+      "values": [
+       "(1,366)",
+       "(1,060)",
+       "(916)"
+      ]
+     },
+     {
+      "label": "Proceeds from sale of property, plant and equipment",
+      "values": [
+       "86",
+       "237",
+       "158"
+      ]
+     },
+     {
+      "label": "Purchases of intangible assets",
+      "values": [
+       "(2,448)",
+       "(1,693)",
+       "(1,323)"
+      ]
+     },
+     {
+      "label": "Proceeds from sale of intangible assets",
+      "values": [
+       "80",
+       "1,955",
+       "170"
+      ]
+     },
+     {
+      "label": "Purchases of financial assets",
+      "values": [
+       "(193)",
+       "(106)",
+       "(115)"
+      ]
+     },
+     {
+      "label": "Proceeds from sale of financial assets",
+      "values": [
+       "957",
+       "348",
+       "133"
+      ]
+     },
+     {
+      "label": "Purchases of other non-current assets",
+      "values": [
+       "",
+       "",
+       "(1)"
+      ]
+     },
+     {
+      "label": "Proceeds from sale of other non-current assets",
+      "values": [
+       "3",
+       "",
+       ""
+      ]
+     },
+     {
+      "label": "Acquisitions and divestments of interests in associated companies, net",
+      "values": [
+       "(10)",
+       "(11)",
+       "(24)"
+      ]
+     },
+     {
+      "label": "Acquisitions and divestments of businesses, net",
+      "values": [
+       "(3,911)",
+       "(3,558)",
+       "(840)"
+      ]
+     },
+     {
+      "label": "Purchases of marketable securities, commodities and time deposits",
+      "values": [
+       "(3,455)",
+       "(641)",
+       "(34,695)"
+      ]
+     },
+     {
+      "label": "Proceeds from sale of marketable securities, commodities and time deposits",
+      "values": [
+       "2,744",
+       "11,248",
+       "39,357"
+      ]
+     },
+     {
+      "label": "Net cash flows (used in)/(from) investing activities from continuing operations",
+      "values": [
+       "(7,513)",
+       "6,719",
+       "1,904"
+      ]
+     },
+     {
+      "label": "Net cash flows used in investing activities from discontinued operations",
+      "values": [
+       "",
+       "(1,123)",
+       "(436)"
+      ]
+     },
+     {
+      "label": "Total net cash flows (used in)/from investing activities",
+      "values": [
+       "(7,513)",
+       "5,596",
+       "1,468"
+      ]
+     },
+     {
+      "label": "Dividends paid to shareholders of Novartis AG",
+      "values": [
+       "(7,624)",
+       "(7,255)",
+       "(7,506)"
+      ]
+     },
+     {
+      "label": "Purchases of treasury shares",
+      "values": [
+       "(8,331)",
+       "(8,719)",
+       "(10,652)"
+      ]
+     },
+     {
+      "label": "Proceeds from exercised options and other treasury share transactions, net",
+      "values": [
+       "30",
+       "153",
+       "100"
+      ]
+     },
+     {
+      "label": "Proceeds from non-current financial debts",
+      "values": [
+       "6,143",
+       "",
+       ""
+      ]
+     },
+     {
+      "label": "Repayments of the current portion of non-current financial debts",
+      "values": [
+       "(2,160)",
+       "(2,223)",
+       "(2,575)"
+      ]
+     },
+     {
+      "label": "Change in current financial debts",
+      "values": [
+       "958",
+       "546",
+       "252"
+      ]
+     },
+     {
+      "label": "Repayments of other current financial debts",
+      "values": [
+       "(289)",
+       "",
+       ""
+      ]
+     },
+     {
+      "label": "Payments of lease liabilities",
+      "values": [
+       "(262)",
+       "(258)",
+       "(262)"
+      ]
+     },
+     {
+      "label": "Payments from changes in ownership interests in consolidated subsidiaries",
+      "values": [
+       "(293)",
+       "",
+       ""
+      ]
+     },
+     {
+      "label": "Other financing cash flows, net",
+      "values": [
+       "86",
+       "192",
+       "(38)"
+      ]
+     },
+     {
+      "label": "Net cash flows used in financing activities from continuing operations",
+      "values": [
+       "(11,742)",
+       "(17,564)",
+       "(20,681)"
+      ]
+     },
+     {
+      "label": "Net cash flows from financing activities from discontinued operations",
+      "values": [
+       "",
+       "3,286",
+       "119"
+      ]
+     },
+     {
+      "label": "Total net cash flows used in financing activities",
+      "values": [
+       "(11,742)",
+       "(14,278)",
+       "(20,562)"
+      ]
+     },
+     {
+      "label": "Net change in cash and cash equivalents before effect of exchange rate changes",
+      "values": [
+       "(1,636)",
+       "5,776",
+       "(4,858)"
+      ]
+     },
+     {
+      "label": "Effect of exchange rate changes on cash and cash equivalents",
+      "values": [
+       "(298)",
+       "100",
+       "(32)"
+      ]
+     },
+     {
+      "label": "Net change in cash and cash equivalents",
+      "values": [
+       "(1,934)",
+       "5,876",
+       "(4,890)"
+      ]
+     },
+     {
+      "label": "Cash and cash equivalents at beginning of period",
+      "values": [
+       "13,393",
+       "7,517",
+       "12,407"
+      ]
+     },
+     {
+      "label": "Cash and cash equivalents at end of period",
+      "values": [
+       "$ 11,459",
+       "$ 13,393",
+       "$ 7,517"
+      ]
+     }
+    ]
+   }
+  }
+ },
+ {
+  "company": "GSK",
+  "cik": 1131399,
+  "fiscal_year": 2025,
+  "accession": "0001131399-26-000004",
+  "filed": "2026-03-06",
+  "filing_index": "https://www.sec.gov/Archives/edgar/data/1131399/000113139926000004/",
+  "statements": {
+   "income_statement": {
+    "title": "Consolidated income statement - GBP (£) £ in Millions",
+    "page": "R3.htm",
+    "url": "https://www.sec.gov/Archives/edgar/data/1131399/000113139926000004/R3.htm",
+    "sha256": "90ae32ec887b73619e160e158ed6f37ce8d23249c2da0711eda933c183e704cc",
+    "headers": [
+     "Dec. 31, 2025",
+     "Dec. 31, 2024",
+     "Dec. 31, 2023"
+    ],
+    "rows": [
+     {
+      "label": "Profit or loss [abstract]",
+      "values": [
+       "",
+       "",
+       ""
+      ]
+     },
+     {
+      "label": "Turnover",
+      "values": [
+       "£ 32,667",
+       "£ 31,376",
+       "£ 30,328"
+      ]
+     },
+     {
+      "label": "Cost of sales",
+      "values": [
+       "(9,017)",
+       "(9,048)",
+       "(8,565)"
+      ]
+     },
+     {
+      "label": "Gross profit",
+      "values": [
+       "23,650",
+       "22,328",
+       "21,763"
+      ]
+     },
+     {
+      "label": "Selling, general and administration",
+      "values": [
+       "(9,088)",
+       "(11,015)",
+       "(9,385)"
+      ]
+     },
+     {
+      "label": "Research and development",
+      "values": [
+       "(7,525)",
+       "(6,401)",
+       "(6,223)"
+      ]
+     },
+     {
+      "label": "Royalty income",
+      "values": [
+       "879",
+       "639",
+       "953"
+      ]
+     },
+     {
+      "label": "Other operating income/(expense)",
+      "values": [
+       "16",
+       "(1,530)",
+       "(363)"
+      ]
+     },
+     {
+      "label": "Operating profit",
+      "values": [
+       "7,932",
+       "4,021",
+       "6,745"
+      ]
+     },
+     {
+      "label": "Finance income",
+      "values": [
+       "169",
+       "122",
+       "115"
+      ]
+     },
+     {
+      "label": "Finance expense",
+      "values": [
+       "(701)",
+       "(669)",
+       "(792)"
+      ]
+     },
+     {
+      "label": "Share of after tax profit/(loss) of associates and joint ventures",
+      "values": [
+       "1",
+       "(3)",
+       "(5)"
+      ]
+     },
+     {
+      "label": "Profit/(loss) on disposal of interests in associates and joint ventures",
+      "values": [
+       "0",
+       "6",
+       "1"
+      ]
+     },
+     {
+      "label": "Profit before taxation",
+      "values": [
+       "7,401",
+       "3,477",
+       "6,064"
+      ]
+     },
+     {
+      "label": "Taxation",
+      "values": [
+       "(1,112)",
+       "(526)",
+       "(756)"
+      ]
+     },
+     {
+      "label": "Profit after taxation",
+      "values": [
+       "6,289",
+       "2,951",
+       "5,308"
+      ]
+     },
+     {
+      "label": "Profit attributable to non-controlling interests",
+      "values": [
+       "573",
+       "376",
+       "380"
+      ]
+     },
+     {
+      "label": "Profit attributable to shareholders",
+      "values": [
+       "£ 5,716",
+       "£ 2,575",
+       "£ 4,928"
+      ]
+     },
+     {
+      "label": "Basic earnings per share (pence) (in pence per share)",
+      "values": [
+       "£ 1.411",
+       "£ 0.632",
+       "£ 1.216"
+      ]
+     },
+     {
+      "label": "Diluted earnings per share (pence) (in pence per share)",
+      "values": [
+       "£ 1.388",
+       "£ 0.622",
+       "£ 1.199"
+      ]
+     }
+    ]
+   },
+   "balance_sheet": {
+    "title": "Consolidated balance sheet - GBP (£) £ in Millions",
+    "page": "R5.htm",
+    "url": "https://www.sec.gov/Archives/edgar/data/1131399/000113139926000004/R5.htm",
+    "sha256": "0c53f4f9fbdfe65269a9137ecc1bdf1ff385ee93471a266168b6f2437aed6bf6",
+    "headers": [
+     "Dec. 31, 2025",
+     "Dec. 31, 2024"
+    ],
+    "rows": [
+     {
+      "label": "Non-current assets",
+      "values": [
+       "",
+       ""
+      ]
+     },
+     {
+      "label": "Property, plant and equipment",
+      "values": [
+       "£ 9,322",
+       "£ 9,227"
+      ]
+     },
+     {
+      "label": "Right of use assets",
+      "values": [
+       "726",
+       "846"
+      ]
+     },
+     {
+      "label": "Goodwill",
+      "values": [
+       "7,018",
+       "6,982"
+      ]
+     },
+     {
+      "label": "Other intangible assets",
+      "values": [
+       "16,748",
+       "15,515"
+      ]
+     },
+     {
+      "label": "Investments in associates and joint ventures",
+      "values": [
+       "89",
+       "96"
+      ]
+     },
+     {
+      "label": "Other investments",
+      "values": [
+       "1,037",
+       "1,100"
+      ]
+     },
+     {
+      "label": "Deferred tax assets",
+      "values": [
+       "6,520",
+       "6,757"
+      ]
+     },
+     {
+      "label": "Derivative financial instruments",
+      "values": [
+       "0",
+       "1"
+      ]
+     },
+     {
+      "label": "Other non-current assets",
+      "values": [
+       "2,148",
+       "1,942"
+      ]
+     },
+     {
+      "label": "Total non-current assets",
+      "values": [
+       "43,608",
+       "42,466"
+      ]
+     },
+     {
+      "label": "Current assets",
+      "values": [
+       "",
+       ""
+      ]
+     },
+     {
+      "label": "Inventories",
+      "values": [
+       "5,924",
+       "5,669"
+      ]
+     },
+     {
+      "label": "Current tax recoverable",
+      "values": [
+       "288",
+       "489"
+      ]
+     },
+     {
+      "label": "Trade and other receivables",
+      "values": [
+       "7,471",
+       "6,836"
+      ]
+     },
+     {
+      "label": "Derivative financial instruments",
+      "values": [
+       "121",
+       "109"
+      ]
+     },
+     {
+      "label": "Liquid investments",
+      "values": [
+       "9",
+       "21"
+      ]
+     },
+     {
+      "label": "Cash and cash equivalents",
+      "values": [
+       "3,397",
+       "3,870"
+      ]
+     },
+     {
+      "label": "Assets held for sale",
+      "values": [
+       "300",
+       "3"
+      ]
+     },
+     {
+      "label": "Total current assets",
+      "values": [
+       "17,510",
+       "16,997"
+      ]
+     },
+     {
+      "label": "Total assets",
+      "values": [
+       "61,118",
+       "59,463"
+      ]
+     },
+     {
+      "label": "Current liabilities",
+      "values": [
+       "",
+       ""
+      ]
+     },
+     {
+      "label": "Short-term borrowings",
+      "values": [
+       "(3,012)",
+       "(2,349)"
+      ]
+     },
+     {
+      "label": "Contingent consideration liabilities",
+      "values": [
+       "(1,348)",
+       "(1,172)"
+      ]
+     },
+     {
+      "label": "Trade and other payables",
+      "values": [
+       "(15,381)",
+       "(15,335)"
+      ]
+     },
+     {
+      "label": "Derivative financial instruments",
+      "values": [
+       "(75)",
+       "(192)"
+      ]
+     },
+     {
+      "label": "Current tax payable",
+      "values": [
+       "(498)",
+       "(703)"
+      ]
+     },
+     {
+      "label": "Short-term provisions",
+      "values": [
+       "(938)",
+       "(1,946)"
+      ]
+     },
+     {
+      "label": "Liabilities relating to assets held for sale",
+      "values": [
+       "(139)",
+       "0"
+      ]
+     },
+     {
+      "label": "Total current liabilities",
+      "values": [
+       "(21,391)",
+       "(21,697)"
+      ]
+     },
+     {
+      "label": "Non-current liabilities",
+      "values": [
+       "",
+       ""
+      ]
+     },
+     {
+      "label": "Long-term borrowings",
+      "values": [
+       "(14,708)",
+       "(14,637)"
+      ]
+     },
+     {
+      "label": "Deferred tax liabilities",
+      "values": [
+       "(291)",
+       "(382)"
+      ]
+     },
+     {
+      "label": "Pensions and other post-employment benefits",
+      "values": [
+       "(1,687)",
+       "(1,864)"
+      ]
+     },
+     {
+      "label": "Derivative financial instruments",
+      "values": [
+       "(67)",
+       "0"
+      ]
+     },
+     {
+      "label": "Other provisions",
+      "values": [
+       "(610)",
+       "(589)"
+      ]
+     },
+     {
+      "label": "Contingent consideration liabilities",
+      "values": [
+       "(5,385)",
+       "(6,108)"
+      ]
+     },
+     {
+      "label": "Other non-current liabilities",
+      "values": [
+       "(1,023)",
+       "(1,100)"
+      ]
+     },
+     {
+      "label": "Total non-current liabilities",
+      "values": [
+       "(23,771)",
+       "(24,680)"
+      ]
+     },
+     {
+      "label": "Total liabilities",
+      "values": [
+       "(45,162)",
+       "(46,377)"
+      ]
+     },
+     {
+      "label": "Net assets",
+      "values": [
+       "15,956",
+       "13,086"
+      ]
+     },
+     {
+      "label": "Equity",
+      "values": [
+       "",
+       ""
+      ]
+     },
+     {
+      "label": "Share capital",
+      "values": [
+       "1,349",
+       "1,348"
+      ]
+     },
+     {
+      "label": "Share premium",
+      "values": [
+       "3,498",
+       "3,473"
+      ]
+     },
+     {
+      "label": "Retained earnings",
+      "values": [
+       "10,209",
+       "7,796"
+      ]
+     },
+     {
+      "label": "Other reserves",
+      "values": [
+       "1,321",
+       "1,054"
+      ]
+     },
+     {
+      "label": "Shareholders’ equity",
+      "values": [
+       "16,377",
+       "13,671"
+      ]
+     },
+     {
+      "label": "Non-controlling interests",
+      "values": [
+       "(421)",
+       "(585)"
+      ]
+     },
+     {
+      "label": "Total equity",
+      "values": [
+       "£ 15,956",
+       "£ 13,086"
+      ]
+     }
+    ]
+   },
+   "cash_flow": {
+    "title": "Consolidated cash flow statement £ in Millions",
+    "page": "R7.htm",
+    "url": "https://www.sec.gov/Archives/edgar/data/1131399/000113139926000004/R7.htm",
+    "sha256": "6fc59dc6919dbcda92078ec9c4d7e61ff778a98b70f376e88992eb618bc7d24d",
+    "headers": [
+     "Dec. 31, 2025 GBP (£)",
+     "Dec. 31, 2024 GBP (£)",
+     "Dec. 31, 2023 GBP (£)"
+    ],
+    "rows": [
+     {
+      "label": "Cash flow from operating activities",
+      "values": [
+       "",
+       "",
+       ""
+      ]
+     },
+     {
+      "label": "Total profit for the year",
+      "values": [
+       "£ 6,289",
+       "£ 2,951",
+       "£ 5,308"
+      ]
+     },
+     {
+      "label": "Adjustments reconciling profit after tax to operating cash flows",
+      "values": [
+       "2,654",
+       "4,910",
+       "2,788"
+      ]
+     },
+     {
+      "label": "Cash generated from operations",
+      "values": [
+       "8,943",
+       "7,861",
+       "8,096"
+      ]
+     },
+     {
+      "label": "Taxation paid",
+      "values": [
+       "(1,202)",
+       "(1,307)",
+       "(1,328)"
+      ]
+     },
+     {
+      "label": "Total net cash inflow/(outflow) from operating activities",
+      "values": [
+       "7,741",
+       "6,554",
+       "6,768"
+      ]
+     },
+     {
+      "label": "Cash flow from investing activities",
+      "values": [
+       "",
+       "",
+       ""
+      ]
+     },
+     {
+      "label": "Purchase of property, plant and equipment",
+      "values": [
+       "(1,348)",
+       "(1,399)",
+       "(1,314)"
+      ]
+     },
+     {
+      "label": "Proceeds from sale of property, plant and equipment",
+      "values": [
+       "24",
+       "65",
+       "28"
+      ]
+     },
+     {
+      "label": "Purchase of intangible assets",
+      "values": [
+       "(1,637)",
+       "(1,583)",
+       "(1,030)"
+      ]
+     },
+     {
+      "label": "Proceeds from sale of intangible assets",
+      "values": [
+       "115",
+       "131",
+       "12"
+      ]
+     },
+     {
+      "label": "Purchase of equity investments",
+      "values": [
+       "(92)",
+       "(103)",
+       "(123)"
+      ]
+     },
+     {
+      "label": "Proceeds from sale of equity investments",
+      "values": [
+       "189",
+       "2,356",
+       "1,832"
+      ]
+     },
+     {
+      "label": "Share transactions with non-controlling interests",
+      "values": [
+       "0",
+       "(1)",
+       "0"
+      ]
+     },
+     {
+      "label": "Purchase of businesses, net of cash acquired",
+      "values": [
+       "(1,692)",
+       "(805)",
+       "(1,457)"
+      ]
+     },
+     {
+      "label": "Investments in associates and joint ventures",
+      "values": [
+       "0",
+       "(43)",
+       "0"
+      ]
+     },
+     {
+      "label": "Proceeds from disposal of associates and joint ventures",
+      "values": [
+       "0",
+       "0",
+       "1"
+      ]
+     },
+     {
+      "label": "Contingent consideration paid",
+      "values": [
+       "(17)",
+       "(19)",
+       "(11)"
+      ]
+     },
+     {
+      "label": "Disposal of businesses",
+      "values": [
+       "(27)",
+       "(18)",
+       "49"
+      ]
+     },
+     {
+      "label": "Interest received",
+      "values": [
+       "154",
+       "138",
+       "115"
+      ]
+     },
+     {
+      "label": "(Increase)/decrease in liquid investments",
+      "values": [
+       "11",
+       "21",
+       "72"
+      ]
+     },
+     {
+      "label": "Dividends from joint ventures and associates",
+      "values": [
+       "67",
+       "15",
+       "11"
+      ]
+     },
+     {
+      "label": "Dividend and distributions from investments",
+      "values": [
+       "20",
+       "16",
+       "220"
+      ]
+     },
+     {
+      "label": "Total net cash inflow/(outflow) from investing activities",
+      "values": [
+       "(4,233)",
+       "(1,229)",
+       "(1,595)"
+      ]
+     },
+     {
+      "label": "Cash flow from financing activities",
+      "values": [
+       "",
+       "",
+       ""
+      ]
+     },
+     {
+      "label": "Issue of share capital",
+      "values": [
+       "15",
+       "20",
+       "10"
+      ]
+     },
+     {
+      "label": "Repayment of long-term loans",
+      "values": [
+       "(1,400)",
+       "(1,615)",
+       "(2,260)"
+      ]
+     },
+     {
+      "label": "Issue of long-term notes",
+      "values": [
+       "1,979",
+       "1,075",
+       "223"
+      ]
+     },
+     {
+      "label": "Net increase/(decrease) in short-term loans",
+      "values": [
+       "1,085",
+       "(811)",
+       "(333)"
+      ]
+     },
+     {
+      "label": "Increase in other short-term loans",
+      "values": [
+       "130",
+       "266",
+       "0"
+      ]
+     },
+     {
+      "label": "Repayment of other short-term loans",
+      "values": [
+       "(288)",
+       "(81)",
+       "0"
+      ]
+     },
+     {
+      "label": "Repayment of lease liabilities",
+      "values": [
+       "(241)",
+       "(226)",
+       "(197)"
+      ]
+     },
+     {
+      "label": "Interest paid",
+      "values": [
+       "(679)",
+       "(632)",
+       "(766)"
+      ]
+     },
+     {
+      "label": "Dividends paid to shareholders",
+      "values": [
+       "(2,564)",
+       "(2,444)",
+       "(2,247)"
+      ]
+     },
+     {
+      "label": "Purchase of treasury shares",
+      "values": [
+       "(1,377)",
+       "0",
+       "0"
+      ]
+     },
+     {
+      "label": "Distribution to non-controlling interests",
+      "values": [
+       "(391)",
+       "(416)",
+       "(412)"
+      ]
+     },
+     {
+      "label": "Contributions from non-controlling interests",
+      "values": [
+       "0",
+       "9",
+       "7"
+      ]
+     },
+     {
+      "label": "Other financing items",
+      "values": [
+       "46",
+       "129",
+       "334"
+      ]
+     },
+     {
+      "label": "Total net cash inflow/(outflow) from financing activities",
+      "values": [
+       "(3,685)",
+       "(4,726)",
+       "(5,641)"
+      ]
+     },
+     {
+      "label": "Increase/(decrease) in cash and bank overdrafts in the year",
+      "values": [
+       "(177)",
+       "599",
+       "(468)"
+      ]
+     },
+     {
+      "label": "Cash and bank overdrafts at the beginning of the year",
+      "values": [
+       "3,403",
+       "2,858",
+       "3,425"
+      ]
+     },
+     {
+      "label": "Exchange adjustments",
+      "values": [
+       "(19)",
+       "(54)",
+       "(99)"
+      ]
+     },
+     {
+      "label": "Increase/(decrease) in cash and bank overdrafts in the year",
+      "values": [
+       "(177)",
+       "599",
+       "(468)"
+      ]
+     },
+     {
+      "label": "Cash and bank overdrafts at the end of the year",
+      "values": [
+       "3,207",
+       "3,403",
+       "2,858"
+      ]
+     },
+     {
+      "label": "Cash and bank overdrafts at end of the year comprise:",
+      "values": [
+       "",
+       "",
+       ""
+      ]
+     },
+     {
+      "label": "Cash and cash equivalents",
+      "values": [
+       "3,397",
+       "3,870",
+       "2,936"
+      ]
+     },
+     {
+      "label": "Bank overdrafts",
+      "values": [
+       "(190)",
+       "(467)",
+       "(78)"
+      ]
+     },
+     {
+      "label": "Cash and bank overdrafts",
+      "values": [
+       "£ 3,207",
+       "£ 3,403",
+       "£ 2,858"
+      ]
+     }
+    ]
+   }
+  }
+ },
+ {
+  "company": "GSK",
+  "cik": 1131399,
+  "fiscal_year": 2024,
+  "accession": "0001131399-25-000007",
+  "filed": "2025-03-03",
+  "filing_index": "https://www.sec.gov/Archives/edgar/data/1131399/000113139925000007/",
+  "statements": {
+   "income_statement": {
+    "title": "Consolidated income statement - GBP (£) £ in Millions",
+    "page": "R3.htm",
+    "url": "https://www.sec.gov/Archives/edgar/data/1131399/000113139925000007/R3.htm",
+    "sha256": "929ad3396af3ca101921a2bc5c8889f0c664eada7c1f06337faabb807bd85070",
+    "headers": [
+     "Dec. 31, 2024",
+     "Dec. 31, 2023",
+     "Dec. 31, 2022"
+    ],
+    "rows": [
+     {
+      "label": "Profit or loss [abstract]",
+      "values": [
+       "",
+       "",
+       ""
+      ]
+     },
+     {
+      "label": "Turnover",
+      "values": [
+       "£ 31,376",
+       "£ 30,328",
+       "£ 29,324"
+      ]
+     },
+     {
+      "label": "Cost of sales",
+      "values": [
+       "(9,048)",
+       "(8,565)",
+       "(9,554)"
+      ]
+     },
+     {
+      "label": "Gross profit",
+      "values": [
+       "22,328",
+       "21,763",
+       "19,770"
+      ]
+     },
+     {
+      "label": "Selling, general and administration",
+      "values": [
+       "(11,015)",
+       "(9,385)",
+       "(8,372)"
+      ]
+     },
+     {
+      "label": "Research and development",
+      "values": [
+       "(6,401)",
+       "(6,223)",
+       "(5,488)"
+      ]
+     },
+     {
+      "label": "Royalty income",
+      "values": [
+       "639",
+       "953",
+       "758"
+      ]
+     },
+     {
+      "label": "Other operating income/(expense)",
+      "values": [
+       "(1,530)",
+       "(363)",
+       "(235)"
+      ]
+     },
+     {
+      "label": "Operating profit",
+      "values": [
+       "4,021",
+       "6,745",
+       "6,433"
+      ]
+     },
+     {
+      "label": "Finance income",
+      "values": [
+       "122",
+       "115",
+       "76"
+      ]
+     },
+     {
+      "label": "Finance expense",
+      "values": [
+       "(669)",
+       "(792)",
+       "(879)"
+      ]
+     },
+     {
+      "label": "Share of after tax profit/(loss) of associates and joint ventures",
+      "values": [
+       "(3)",
+       "(5)",
+       "(2)"
+      ]
+     },
+     {
+      "label": "Profit/(loss) on disposal of interests in associates and joint ventures",
+      "values": [
+       "6",
+       "1",
+       "0"
+      ]
+     },
+     {
+      "label": "Profit before taxation from continuing operations",
+      "values": [
+       "3,477",
+       "6,064",
+       "5,628"
+      ]
+     },
+     {
+      "label": "Taxation",
+      "values": [
+       "(526)",
+       "(756)",
+       "(707)"
+      ]
+     },
+     {
+      "label": "Profit after taxation for the year from continuing operations",
+      "values": [
+       "2,951",
+       "5,308",
+       "4,921"
+      ]
+     },
+     {
+      "label": "Profit after taxation from discontinued operations and other gains/(losses) from the demerger",
+      "values": [
+       "0",
+       "0",
+       "3,049"
+      ]
+     },
+     {
+      "label": "Re-measurement of discontinued operations distributed to shareholders on demerger",
+      "values": [
+       "0",
+       "0",
+       "7,651"
+      ]
+     },
+     {
+      "label": "Profit after taxation from discontinued operations",
+      "values": [
+       "0",
+       "0",
+       "10,700"
+      ]
+     },
+     {
+      "label": "Total profit after taxation for the year",
+      "values": [
+       "2,951",
+       "5,308",
+       "15,621"
+      ]
+     },
+     {
+      "label": "Profit attributable to non-controlling interests from continuing operations",
+      "values": [
+       "376",
+       "380",
+       "460"
+      ]
+     },
+     {
+      "label": "Profit attributable to shareholders from continuing operations",
+      "values": [
+       "2,575",
+       "4,928",
+       "4,461"
+      ]
+     },
+     {
+      "label": "Profit attributable to non-controlling interests from discontinued operations",
+      "values": [
+       "0",
+       "0",
+       "205"
+      ]
+     },
+     {
+      "label": "Profit attributable to shareholders from discontinued operations",
+      "values": [
+       "0",
+       "0",
+       "10,495"
+      ]
+     },
+     {
+      "label": "Total profit attributable to non-controlling interests",
+      "values": [
+       "376",
+       "380",
+       "665"
+      ]
+     },
+     {
+      "label": "Total profit attributable to shareholders",
+      "values": [
+       "£ 2,575",
+       "£ 4,928",
+       "£ 14,956"
+      ]
+     },
+     {
+      "label": "Basic earnings per share (pence) from continuing operations (in pence per share)",
+      "values": [
+       "£ 0.632",
+       "£ 1.216",
+       "£ 1.108"
+      ]
+     },
+     {
+      "label": "Basic earnings per share (pence) from discontinued operations (in pence per share)",
+      "values": [
+       "0",
+       "0",
+       "2.606"
+      ]
+     },
+     {
+      "label": "Total basic earnings per share (pence) (in pence per share)",
+      "values": [
+       "0.632",
+       "1.216",
+       "3.714"
+      ]
+     },
+     {
+      "label": "Diluted earnings per share (pence) from continuing operations (in pence per share)",
+      "values": [
+       "0.622",
+       "1.199",
+       "1.092"
+      ]
+     },
+     {
+      "label": "Diluted earnings per share (pence) from discontinued operations (in pence per share)",
+      "values": [
+       "0",
+       "0",
+       "2.570"
+      ]
+     },
+     {
+      "label": "Total diluted earnings per share (pence) (in pence per share)",
+      "values": [
+       "£ 0.622",
+       "£ 1.199",
+       "£ 3.662"
+      ]
+     }
+    ]
+   },
+   "balance_sheet": {
+    "title": "Consolidated balance sheet - GBP (£) £ in Millions",
+    "page": "R5.htm",
+    "url": "https://www.sec.gov/Archives/edgar/data/1131399/000113139925000007/R5.htm",
+    "sha256": "ac536fb72d77e4737b4b7b4ea7f7c7d986f79469470947df47857909da47fcb0",
+    "headers": [
+     "Dec. 31, 2024",
+     "Dec. 31, 2023"
+    ],
+    "rows": [
+     {
+      "label": "Non-current assets",
+      "values": [
+       "",
+       ""
+      ]
+     },
+     {
+      "label": "Property, plant and equipment",
+      "values": [
+       "£ 9,227",
+       "£ 9,020"
+      ]
+     },
+     {
+      "label": "Right of use assets",
+      "values": [
+       "846",
+       "937"
+      ]
+     },
+     {
+      "label": "Goodwill",
+      "values": [
+       "6,982",
+       "6,811"
+      ]
+     },
+     {
+      "label": "Other intangible assets",
+      "values": [
+       "15,515",
+       "14,768"
+      ]
+     },
+     {
+      "label": "Investments in associates and joint ventures",
+      "values": [
+       "96",
+       "55"
+      ]
+     },
+     {
+      "label": "Other investments",
+      "values": [
+       "1,100",
+       "1,137"
+      ]
+     },
+     {
+      "label": "Deferred tax assets",
+      "values": [
+       "6,757",
+       "6,049"
+      ]
+     },
+     {
+      "label": "Derivative financial instruments",
+      "values": [
+       "1",
+       "0"
+      ]
+     },
+     {
+      "label": "Other non-current assets",
+      "values": [
+       "1,942",
+       "1,584"
+      ]
+     },
+     {
+      "label": "Total non-current assets",
+      "values": [
+       "42,466",
+       "40,361"
+      ]
+     },
+     {
+      "label": "Current assets",
+      "values": [
+       "",
+       ""
+      ]
+     },
+     {
+      "label": "Inventories",
+      "values": [
+       "5,669",
+       "5,498"
+      ]
+     },
+     {
+      "label": "Current tax recoverable",
+      "values": [
+       "489",
+       "373"
+      ]
+     },
+     {
+      "label": "Trade and other receivables",
+      "values": [
+       "6,836",
+       "7,385"
+      ]
+     },
+     {
+      "label": "Derivative financial instruments",
+      "values": [
+       "109",
+       "130"
+      ]
+     },
+     {
+      "label": "Current equity investments",
+      "values": [
+       "0",
+       "2,204"
+      ]
+     },
+     {
+      "label": "Liquid investments",
+      "values": [
+       "21",
+       "42"
+      ]
+     },
+     {
+      "label": "Cash and cash equivalents",
+      "values": [
+       "3,870",
+       "2,936"
+      ]
+     },
+     {
+      "label": "Assets held for sale",
+      "values": [
+       "3",
+       "76"
+      ]
+     },
+     {
+      "label": "Total current assets",
+      "values": [
+       "16,997",
+       "18,644"
+      ]
+     },
+     {
+      "label": "Total assets",
+      "values": [
+       "59,463",
+       "59,005"
+      ]
+     },
+     {
+      "label": "Current liabilities",
+      "values": [
+       "",
+       ""
+      ]
+     },
+     {
+      "label": "Short-term borrowings",
+      "values": [
+       "(2,349)",
+       "(2,813)"
+      ]
+     },
+     {
+      "label": "Contingent consideration liabilities",
+      "values": [
+       "(1,172)",
+       "(1,053)"
+      ]
+     },
+     {
+      "label": "Trade and other payables",
+      "values": [
+       "(15,335)",
+       "(15,844)"
+      ]
+     },
+     {
+      "label": "Derivative financial instruments",
+      "values": [
+       "(192)",
+       "(114)"
+      ]
+     },
+     {
+      "label": "Current tax payable",
+      "values": [
+       "(703)",
+       "(500)"
+      ]
+     },
+     {
+      "label": "Short-term provisions",
+      "values": [
+       "(1,946)",
+       "(744)"
+      ]
+     },
+     {
+      "label": "Total current liabilities",
+      "values": [
+       "(21,697)",
+       "(21,068)"
+      ]
+     },
+     {
+      "label": "Non-current liabilities",
+      "values": [
+       "",
+       ""
+      ]
+     },
+     {
+      "label": "Long-term borrowings",
+      "values": [
+       "(14,637)",
+       "(15,205)"
+      ]
+     },
+     {
+      "label": "Corporation tax payable",
+      "values": [
+       "0",
+       "(75)"
+      ]
+     },
+     {
+      "label": "Deferred tax liabilities",
+      "values": [
+       "(382)",
+       "(311)"
+      ]
+     },
+     {
+      "label": "Pensions and other post-employment benefits",
+      "values": [
+       "(1,864)",
+       "(2,340)"
+      ]
+     },
+     {
+      "label": "Other provisions",
+      "values": [
+       "(589)",
+       "(495)"
+      ]
+     },
+     {
+      "label": "Contingent consideration liabilities",
+      "values": [
+       "(6,108)",
+       "(5,609)"
+      ]
+     },
+     {
+      "label": "Other non-current liabilities",
+      "values": [
+       "(1,100)",
+       "(1,107)"
+      ]
+     },
+     {
+      "label": "Total non-current liabilities",
+      "values": [
+       "(24,680)",
+       "(25,142)"
+      ]
+     },
+     {
+      "label": "Total liabilities",
+      "values": [
+       "(46,377)",
+       "(46,210)"
+      ]
+     },
+     {
+      "label": "Net assets",
+      "values": [
+       "13,086",
+       "12,795"
+      ]
+     },
+     {
+      "label": "Equity",
+      "values": [
+       "",
+       ""
+      ]
+     },
+     {
+      "label": "Share capital",
+      "values": [
+       "1,348",
+       "1,348"
+      ]
+     },
+     {
+      "label": "Share premium account",
+      "values": [
+       "3,473",
+       "3,451"
+      ]
+     },
+     {
+      "label": "Retained earnings",
+      "values": [
+       "7,796",
+       "7,239"
+      ]
+     },
+     {
+      "label": "Other reserves",
+      "values": [
+       "1,054",
+       "1,309"
+      ]
+     },
+     {
+      "label": "Shareholders’ equity",
+      "values": [
+       "13,671",
+       "13,347"
+      ]
+     },
+     {
+      "label": "Non-controlling interests",
+      "values": [
+       "(585)",
+       "(552)"
+      ]
+     },
+     {
+      "label": "Total equity",
+      "values": [
+       "£ 13,086",
+       "£ 12,795"
+      ]
+     }
+    ]
+   },
+   "cash_flow": {
+    "title": "Consolidated cash flow statement - GBP (£) £ in Millions",
+    "page": "R7.htm",
+    "url": "https://www.sec.gov/Archives/edgar/data/1131399/000113139925000007/R7.htm",
+    "sha256": "6e98e96893274bd51e04439330b6e02f2048792e42b60226567679ea7b7f084d",
+    "headers": [
+     "Dec. 31, 2024",
+     "Dec. 31, 2023",
+     "Dec. 31, 2022"
+    ],
+    "rows": [
+     {
+      "label": "Cash flow from operating activities",
+      "values": [
+       "",
+       "",
+       ""
+      ]
+     },
+     {
+      "label": "Profit after taxation for the year from continuing operations",
+      "values": [
+       "£ 2,951",
+       "£ 5,308",
+       "£ 4,921"
+      ]
+     },
+     {
+      "label": "Adjustments reconciling profit after tax to operating cash flows",
+      "values": [
+       "4,910",
+       "2,788",
+       "3,023"
+      ]
+     },
+     {
+      "label": "Total cash generated from operations",
+      "values": [
+       "7,861",
+       "8,096",
+       "7,944"
+      ]
+     },
+     {
+      "label": "Taxation paid",
+      "values": [
+       "(1,307)",
+       "(1,328)",
+       "(1,310)"
+      ]
+     },
+     {
+      "label": "Net cash inflow/(outflow) from continuing operating activities",
+      "values": [
+       "6,554",
+       "6,768",
+       "6,634"
+      ]
+     },
+     {
+      "label": "Cash generated from operations attributable to discontinued operations",
+      "values": [
+       "0",
+       "0",
+       "932"
+      ]
+     },
+     {
+      "label": "Taxation paid from discontinued operations",
+      "values": [
+       "0",
+       "0",
+       "(163)"
+      ]
+     },
+     {
+      "label": "Net operating cash flows attributable to discontinued operations",
+      "values": [
+       "0",
+       "0",
+       "769"
+      ]
+     },
+     {
+      "label": "Total net cash inflow/(outflow) from operating activities",
+      "values": [
+       "6,554",
+       "6,768",
+       "7,403"
+      ]
+     },
+     {
+      "label": "Cash flow from investing activities",
+      "values": [
+       "",
+       "",
+       ""
+      ]
+     },
+     {
+      "label": "Purchase of property, plant and equipment",
+      "values": [
+       "(1,399)",
+       "(1,314)",
+       "(1,143)"
+      ]
+     },
+     {
+      "label": "Proceeds from sale of property, plant and equipment",
+      "values": [
+       "65",
+       "28",
+       "146"
+      ]
+     },
+     {
+      "label": "Purchase of intangible assets",
+      "values": [
+       "(1,583)",
+       "(1,030)",
+       "(1,115)"
+      ]
+     },
+     {
+      "label": "Proceeds from sale of intangible assets",
+      "values": [
+       "131",
+       "12",
+       "196"
+      ]
+     },
+     {
+      "label": "Purchase of equity investments",
+      "values": [
+       "(103)",
+       "(123)",
+       "(143)"
+      ]
+     },
+     {
+      "label": "(Increase)/decrease in liquid investments",
+      "values": [
+       "21",
+       "72",
+       "1"
+      ]
+     },
+     {
+      "label": "Purchase of businesses, net of cash acquired",
+      "values": [
+       "(805)",
+       "(1,457)",
+       "(3,108)"
+      ]
+     },
+     {
+      "label": "Proceeds from sale of equity investments",
+      "values": [
+       "2,356",
+       "1,832",
+       "238"
+      ]
+     },
+     {
+      "label": "Share transactions with non-controlling interests",
+      "values": [
+       "(1)",
+       "0",
+       "0"
+      ]
+     },
+     {
+      "label": "Contingent consideration paid",
+      "values": [
+       "(19)",
+       "(11)",
+       "(79)"
+      ]
+     },
+     {
+      "label": "Disposal of businesses",
+      "values": [
+       "(18)",
+       "49",
+       "(43)"
+      ]
+     },
+     {
+      "label": "Investments in joint ventures and associates",
+      "values": [
+       "(43)",
+       "0",
+       "(1)"
+      ]
+     },
+     {
+      "label": "Proceeds from disposal of associates and joint ventures",
+      "values": [
+       "0",
+       "1",
+       "0"
+      ]
+     },
+     {
+      "label": "Interest received",
+      "values": [
+       "138",
+       "115",
+       "64"
+      ]
+     },
+     {
+      "label": "Dividend and distributions from investments",
+      "values": [
+       "16",
+       "220",
+       "0"
+      ]
+     },
+     {
+      "label": "Dividends from joint ventures and associates",
+      "values": [
+       "15",
+       "11",
+       "6"
+      ]
+     },
+     {
+      "label": "Net cash inflow/(outflow) from continuing investing activities",
+      "values": [
+       "(1,229)",
+       "(1,595)",
+       "(4,981)"
+      ]
+     },
+     {
+      "label": "Net investing cash flows attributable to discontinued operations",
+      "values": [
+       "0",
+       "0",
+       "(3,791)"
+      ]
+     },
+     {
+      "label": "Total net cash inflow/(outflow) from investing activities",
+      "values": [
+       "(1,229)",
+       "(1,595)",
+       "(8,772)"
+      ]
+     },
+     {
+      "label": "Cash flow from financing activities",
+      "values": [
+       "",
+       "",
+       ""
+      ]
+     },
+     {
+      "label": "Issue of share capital",
+      "values": [
+       "20",
+       "10",
+       "25"
+      ]
+     },
+     {
+      "label": "Repayment of long-term loans",
+      "values": [
+       "(1,615)",
+       "(2,260)",
+       "(6,668)"
+      ]
+     },
+     {
+      "label": "Issue of long-term notes",
+      "values": [
+       "1,075",
+       "223",
+       "1,025"
+      ]
+     },
+     {
+      "label": "Net increase/(decrease) in short-term loans",
+      "values": [
+       "(811)",
+       "(333)",
+       "1,021"
+      ]
+     },
+     {
+      "label": "Increase in other short-term loans",
+      "values": [
+       "266",
+       "0",
+       "0"
+      ]
+     },
+     {
+      "label": "Repayment of other short-term loans",
+      "values": [
+       "(81)",
+       "0",
+       "0"
+      ]
+     },
+     {
+      "label": "Repayment of lease liabilities",
+      "values": [
+       "(226)",
+       "(197)",
+       "(202)"
+      ]
+     },
+     {
+      "label": "Interest paid",
+      "values": [
+       "(632)",
+       "(766)",
+       "(848)"
+      ]
+     },
+     {
+      "label": "Dividends paid to shareholders",
+      "values": [
+       "(2,444)",
+       "(2,247)",
+       "(3,467)"
+      ]
+     },
+     {
+      "label": "Distributions to non-controlling interests",
+      "values": [
+       "(416)",
+       "(412)",
+       "(521)"
+      ]
+     },
+     {
+      "label": "Contributions from non-controlling interests",
+      "values": [
+       "9",
+       "7",
+       "8"
+      ]
+     },
+     {
+      "label": "Other financing items",
+      "values": [
+       "129",
+       "334",
+       "376"
+      ]
+     },
+     {
+      "label": "Net cash inflow/(outflow) from continuing financing activities",
+      "values": [
+       "(4,726)",
+       "(5,641)",
+       "(9,251)"
+      ]
+     },
+     {
+      "label": "Net financing cash flows attributable to discontinued operations",
+      "values": [
+       "0",
+       "0",
+       "10,074"
+      ]
+     },
+     {
+      "label": "Total net cash inflow/(outflow) from financing activities",
+      "values": [
+       "(4,726)",
+       "(5,641)",
+       "823"
+      ]
+     },
+     {
+      "label": "Increase/(decrease) in cash and bank overdrafts",
+      "values": [
+       "599",
+       "(468)",
+       "(546)"
+      ]
+     },
+     {
+      "label": "Cash and bank overdrafts at the beginning of year",
+      "values": [
+       "2,858",
+       "3,425",
+       "3,819"
+      ]
+     },
+     {
+      "label": "Exchange adjustments",
+      "values": [
+       "(54)",
+       "(99)",
+       "152"
+      ]
+     },
+     {
+      "label": "Increase/(decrease) in cash and bank overdrafts in the year",
+      "values": [
+       "599",
+       "(468)",
+       "(546)"
+      ]
+     },
+     {
+      "label": "Cash and bank overdrafts at the end of year",
+      "values": [
+       "3,403",
+       "2,858",
+       "3,425"
+      ]
+     },
+     {
+      "label": "Cash and bank overdrafts at end of year comprise:",
+      "values": [
+       "",
+       "",
+       ""
+      ]
+     },
+     {
+      "label": "Cash and cash equivalents",
+      "values": [
+       "3,870",
+       "2,936",
+       "3,723"
+      ]
+     },
+     {
+      "label": "Overdrafts",
+      "values": [
+       "(467)",
+       "(78)",
+       "(298)"
+      ]
+     },
+     {
+      "label": "Cash and bank overdrafts",
+      "values": [
+       "£ 3,403",
+       "£ 2,858",
+       "£ 3,425"
+      ]
+     }
+    ]
+   }
+  }
+ }
+]

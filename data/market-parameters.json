@@ -1,0 +1,15 @@
+{
+ "valuation_date": "2025-12-31",
+ "risk_free_rate": {
+  "value": 0.0418,
+  "source": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=DGS10&cosd=2025-12-24&coed=2026-01-05",
+  "description": "US Treasury 10-year constant maturity yield on 2025-12-31 (FRED DGS10)"
+ },
+ "equity_risk_premium": {
+  "value": 0.0423,
+  "source": "https://pages.stern.nyu.edu/~adamodar/pc/implprem/ERPbymonth.xlsx",
+  "sha256": "56605b608bad9fb49b24206954b3b38eedb364ebee0cc2663e5020e28449cc9f",
+  "description": "Damodaran implied equity risk premium, trailing 12 month cash yield, month starting 2026-01-01"
+ },
+ "price_note": "No share prices are included. Enter a price to compare the DCF with the market."
+}
